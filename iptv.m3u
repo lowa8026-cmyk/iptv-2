@@ -1,0 +1,51 @@
+#EXTINF:-1 tvg-id="LaUne.be" tvg-logo="https://staticqbr-be-prod.tnprod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/MM08C.png" group-title="BE| BELGIQUE FHD HD",BE| la Une HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|cbdd636bb2e44f1fa6ebd41f46a3cc52:e6ab6c56a79962dcab612e9dc4fea986
+#KODIPROP:inputstream.adaptive.common_headers=user-agent=USERAGENT
+https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/669bb376/9069a322.isml/.mpd
+#EXTINF:-1 tvg-id="Tipik.be" tvg-logo="https://staticqbr-be-prod.tnprod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/MM08E.png" group-title="BE| BELGIQUE FHD HD",BE| Tipik HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a
+#KODIPROP:inputstream.adaptive.common_headers=user-agent=USERAGENT
+https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/.mpd
+#EXTINF:-1 tvg-id="LaTrois.be" tvg-logo="https://staticqbr-be-prod.tnprod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/MM281.png" group-title="BE| BELGIQUE FHD HD",BE| la Trois HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|fd2f35e6414e4c9ba355eae96ed733ea:328bd17b980cb59f5a27dbebc363ebf9
+#KODIPROP:inputstream.adaptive.common_headers=user-agent=USERAGENT
+https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/675a0d49/9024ee3d.isml/.mpd
+#EXTINF:-1 tvg-id="RTLTVI.be" tvg-logo="https://staticqbr-be-prod.tnprod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/MM11F.png" group-title="BE| BELGIQUE FHD HD",BE| RTL TVI FHD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|70ab711d63204a39af3c67b4cb9b87f9:3e9e1f59c05e2dcda3336929e2768875
+#KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*&Referer=https://www.rtlplay.be/&Origin=https://www.rtlplay.be
+https://live-video-rtlplay.dpgmedia.net/e087512ad0c32643/out/v1/4b40ecdd0dfb4f49b8c7ed313efbc6aa/index.mpd
+#EXTINF:-1 tvg-id="ClubRTL.be" tvg-logo="https://staticqbr-be-prod.tnprod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/MM11E.png" group-title="BE| BELGIQUE FHD HD",BE| Club RTL FHD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|1ed03eae20554db0b6af8b44cfcb6ef8:a399580e131032713153d70d55dab7f6
+#KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*&Referer=https://www.rtlplay.be/&Origin=https://www.rtlplay.be
+https://live-video-rtlplay.dpgmedia.net/c223d9abb67d57c7/out/v1/0a710482e91d4f5a8319d4ff3ae5d919/index.mpd
+#EXTINF:-1 tvg-id="PlugRTL.be" tvg-logo="https://staticqbr-be-prod.tnprod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/MM07A.png" group-title="BE| BELGIQUE FHD HD",BE| Plug RTL FHD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|c89ede5835cc4aaca8117525aeba9abb:40cdc7d9f87de370ab2e8f071a9cec71
+#KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*&Referer=https://www.rtlplay.be/&Origin=https://www.rtlplay.be
+https://live-video-rtlplay.dpgmedia.net/e087512ad0c32643/out/v1/21b0ea337e84435e92097206a366e865/index.mpd
+#EXTINF:-1 tvg-id="RTLDistrict.be" tvg-logo="https://i.ibb.co/KjzzXKF6/RTL-District-Logo-2024.png" group-title="BE| BELGIQUE FHD HD",BE| RTL District FHD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|3b5bf66399ed44f58859f873e1e1a9c2:d3d4e9defb10ea88d49d5e4b7c6b1b54
+#KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*&Referer=https://www.rtlplay.be/&Origin=https://www.rtlplay.be
+https://live-video-rtlplay.dpgmedia.net/e087512ad0c32643/out/v1/3dfa6b5d69634219b2078cf1727269f8/index.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/0j4s6cHL/contact-radio.png" group-title="BE| BELGIQUE FHD HD",BE| Radio Contact HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|e7b3a6b43a134501a8ab16c87111e951:c0fa13a1a626676aac1143ed611e48c2
+#KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*&Referer=https://www.rtlplay.be/&Origin=https://www.rtlplay.be
+https://live-video-rtlplay.dpgmedia.net/f7b399c8cf81ac81/out/v1/eb9c3c7973bb4cd1bd029fa72b57e316/index.mpd
+#EXTINF:-1 tvg-id="BelRTL.be" tvg-logo="https://i.ibb.co/cSQS7SPL/Bel-rtl-2023.png" group-title="BE| BELGIQUE FHD HD",BE| Bel RTL HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|6ff2668820aa4c8d87644f7dccac1055:1d928725c16f4385f36f1147091823c8
+#KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*&Referer=https://www.rtlplay.be/&Origin=https://www.rtlplay.be
+https://live-video-rtlplay.dpgmedia.net/e087512ad0c32643/out/v1/f6878bbf82344c32a065232ef1e64b9d/index.mpd
+#EXTINF:-1 tvg-id="AB3.fr" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-254.png" group-title="BE| BELGIQUE FHD HD",BE| AB3 HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|a3de958506814ded9a91f56d468430b8:f13360c704a2cb316bf6441316a69382
+#KODIPROP:inputstream.adaptive.common_headers=user-agent=USERAGENT
+https://mdw-cji.akamaized.net/ab3/dash/manifest.mpd
