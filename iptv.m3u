@@ -1,4 +1,4 @@
-#EXTINF:0, Polsat
+#EXTINF:0, Polsat News 2
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|6a20b49be4db4f328e4bb48853124109:f32c1c3c983354bcafb0f2ccb8a59835
-http://cdn-s-lb2.pluscdn.pl/ch/1459450/267/dash/c0858178/live.mpd
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|0123456789a0123456789a01234569a0:21bea316ac7f46877d94d67169a1cd2b
+http://cdn-s-lb2.pluscdn.pl/ch/1442864/5/dash/e7f4555f/live.mpd
