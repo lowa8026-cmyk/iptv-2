@@ -1,2 +1,5 @@
-#EXTINF:-1 tvg-id="LaUne.be" tvg-logo="https://staticqbr-be-prod.tnprod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/MM08C.png" group-title="BE| BELGIQUE FHD HD",BE| la Une HD
-https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/669bb376/9069a322.isml/.mpd
+#EXTINF:0, Polsat
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|0123456789a0123456789a01234569a0:9e61562ac278a57d53037b3fa7ade437
+http://cdn-s-lb2.pluscdn.pl/ch/1445662/7/dash/0c3f3109/live.mpd
