@@ -1,4 +1,4 @@
 #EXTINF:0, Eleven Sports 1 4K
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|4667fdeaed8654a4a4ceff52000947ba:e3ba08c12d87690b8accbc91659240e3
-https://lineartv-cdn.t-mobile.pl/bpk-tv/elevensports14k/default/index.mpd
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|7129e7bfa9934d21a7f6e8219a7b8809:58054f2150c93f2cef4466ba495344bb
+http://cdn-s-lb2.pluscdn.pl/ch/1455827/112/dash/cd8582f7/live.mpd
