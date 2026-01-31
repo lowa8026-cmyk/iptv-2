@@ -1,4 +1,4 @@
-#EXTINF:0, Arena Sports
+p#EXTINF:0, Arena Sports
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|b3b60e79989a5b2799fa3a2394b8749f:a25d21e333dad3d131f126b7b57730be
-https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena6/default/index.mpd
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|4667fdeaed8654a4a4ceff52000947ba:e3ba08c12d87690b8accbc91659240e3
+https://lineartv-cdn.t-mobile.pl/bpk-tv/elevensports14k/default/index.mpd
