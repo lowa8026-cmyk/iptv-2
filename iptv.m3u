@@ -1,4 +1,4 @@
-p#EXTINF:0, Arena Sports
+#EXTINF:0, Eleven Sports 1 4K
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|4667fdeaed8654a4a4ceff52000947ba:e3ba08c12d87690b8accbc91659240e3
 https://lineartv-cdn.t-mobile.pl/bpk-tv/elevensports14k/default/index.mpd
