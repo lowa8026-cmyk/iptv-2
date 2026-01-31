@@ -13,13 +13,22 @@ https://liveovh010.cda.pl/enc006/comedycentralhdraw/comedycentralhdraw.m3u8
 https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.pl@SD" tvg-logo="https://i.postimg.cc/854KwmH1/disneychannel.png" group-title="Kids",Disney Channel
 https://liveovh011.cda.pl/enc103/disneychannelhdraw/disneychannelhdraw.m3u8
-#EXTINF:-1 tvg-id="ElevenSports1.pl@SD" tvg-logo="" group-title="Sports",Eleven Sports 1
+#EXTINF:-1 tvg-id="ElevenSports1.pl@SD" tvg-logo="https://i.imgur.com/AOu4FXH.png" group-title="Sports",Eleven Sports 1
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|525a9da2120045a6973709dbcd685609:d8a7578d81ce754755a503ad8ac98ec0
 http://cdn-s-lb2.pluscdn.pl/ch/1457744/147/dash/4867711b/live.mpd
-#EXTINF:-1 tvg-id="ElevenSports2.pl@SD" tvg-logo="" group-title="Sports",Eleven Sports 2
+#EXTINF:-1 tvg-id="ElevenSports2.pl@SD" tvg-logo="https://i.imgur.com/bTIRgqG.png" group-title="Sports",Eleven Sports 2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|2cd12eaca5c14b30a3280b1a89484809:e2c14f6cc245c1a5ebbce8c8c704fc6c
 http://cdn-s-lb2.pluscdn.pl/ch/1457734/144/dash/0be7047a/live.mpd
-#EXTINF:-1 tvg-id="ElevenSports3.pl@SD" tvg-logo="" group-title="Sports",Eleven Sports 3
-
-#EXTINF:-1 tvg-id="ElevenSports4.pl@SD" tvg-logo="" group-title="Sports",Eleven Sports 4
+#EXTINF:-1 tvg-id="ElevenSports3.pl@SD" tvg-logo="https://i.imgur.com/bWjGol4.png" group-title="Sports",Eleven Sports 3
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|39066357581084f39495c63c0ac3cc8c
+http://cdn-s-lb2.pluscdn.pl/ch/1457736/145/dash/58566515/live.mpd
+#EXTINF:-1 tvg-id="ElevenSports4.pl@SD" tvg-logo="https://i.imgur.com/SEKXaAW.png" group-title="Sports",Eleven Sports 4
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|e568f6bf915f2de7830545c37c2e76ad
+http://cdn-s-lb2.pluscdn.pl/ch/1457740/146/dash/e653c27f/live.mpd
 #EXTINF:-1 tvg-id="JuniorMusic.pl@HD" tvg-logo="https://i.imgur.com/RE2RXQJ.png" group-title="Music",Junior Music HD
 https://liveovh011.cda.pl/enc117/topkidsjrhdraw/topkidsjrhdraw.m3u8
 #EXTINF:-1 tvg-id="KapitanBombaTV.pl@HD" tvg-logo="https://i.ibb.co/VKjztQj/dark-9999-png-oxoooooooo-256x256.png" group-title="Animation",Kapitan Bomba TV
@@ -60,10 +69,6 @@ http://cdn-s-lb2.pluscdn.pl/lv/1517830/349/dash/81ec4c32/live.mpd
 http://cdn-s-lb2.pluscdn.pl/ch/1442864/5/dash/e7f4555f/live.mpd
 #EXTINF:-1 tvg-id="PolsatNewsPolityka.pl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Polsat_News_Polityka_2024_gradient.svg/320px-Polsat_News_Polityka_2024_gradient.svg.png" group-title="News",Polsat News Polityka
 http://cdn-s-lb2.pluscdn.pl/lv/1511888/322/dash/52a9b70b/live.mpd
-#EXTINF:-1 tvg-id="PolsatSport3.pl@SD" tvg-logo="" group-title="Sports",Polsat Sport 3
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|3201accccbe9455cbc28dcd4bcdf1509:f4d9a50f98ea833d2e5120d83bd59a23
-http://lb2-e2-21.pluscdn.pl/ch/1455832/117/dash/790ff37c/live.mpd
 #EXTINF:-1 tvg-id="PolsatSportPremium1.pl@SD" tvg-logo="https://i.imgur.com/hy1SKE0.png" group-title="Sports",Polsat Sport Premium 1
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|8eb4a9586edf4b0cade4b5725fd55209:54caa4e2142cf691af9bb6028545afc6
@@ -71,7 +76,7 @@ http://cdn-s-lb2.pluscdn.pl/ch/1459449/266/dash/edb3b20d/live.mpd
 #EXTINF:-1 tvg-id="PolsatSportPremium2.pl@SD" tvg-logo="https://i.imgur.com/myyWeXY.png" group-title="Sports",Polsat Sport Premium 2
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|6a20b49be4db4f328e4bb48853124109:f32c1c3c983354bcafb0f2ccb8a59835
-https://cdn-s-lb2.pluscdn.pl/ch/1459450/267/dash/c0858178/live.mpd
+http://cdn-s-lb2.pluscdn.pl/ch/1459450/267/dash/c0858178/live.mpd
 #EXTINF:-1 tvg-id="PolsatViasatExplore.pl@SD" tvg-logo="https://i.imgur.com/gDlqO9h.png" group-title="Documentary",Polsat Viasat Explore
 https://liveovh010.cda.pl/enc107/polsatviasatexplorehdraw/polsatviasatexplorehdraw.mpd
 #EXTINF:-1 tvg-id="PolsatViasatHistory.pl@SD" tvg-logo="https://i.imgur.com/X16UGUf.png" group-title="Documentary",Polsat Viasat History
