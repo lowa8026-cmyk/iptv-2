@@ -1,4 +1,4 @@
 #EXTINF:0, Polsat 2
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|58054f2150c93f2cef4466ba495344bb:7129e7bfa9934d21a7f6e8219a7b8809
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|7129e7bfa9934d21a7f6e8219a7b8809
 http://cdn-s-lb2.pluscdn.pl/ch/1455827/112/dash/cd8582f7/live.mpd
