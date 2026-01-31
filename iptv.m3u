@@ -1,6 +1,4 @@
-#EXTINF:-1 group-title="🇵🇱 Eleven Sports 🇵🇱" tvg-id="PolsatSportPremium1.pl" tvg-logo="https://i.postimg.cc/XYyn8xyw/P1.png",Polsat Sport Premium 1
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=8eb4a9586edf4b0cade4b5725fd55209:54caa4e2142cf691af9bb6028545afc6
-http://cdn-s-lb2.pluscdn.pl/ch/1459449/266/dash/edb3b20d/live.mpd
+#EXTINF:0, Arena Sports
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|b3b60e79989a5b2799fa3a2394b8749f:a25d21e333dad3d131f126b7b57730be
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena6/default/index.mpd
