@@ -1,4 +1,2 @@
-#EXTINF:0, Polsat 2
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|7129e7bfa9934d21a7f6e8219a7b8809
-http://cdn-s-lb2.pluscdn.pl/ch/1455827/112/dash/cd8582f7/live.mpd
+#EXTINF:0, 4FUN KIDS
+https://cdn.kinoteka.cc/weebtv/gen.m3u8.php?id=filmboxextra_hd1
