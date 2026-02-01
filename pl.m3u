@@ -23,7 +23,7 @@ http://cdn-s-lb2.pluscdn.pl/ch/1457744/147/dash/4867711b/live.mpd
 http://cdn-s-lb2.pluscdn.pl/ch/1457734/144/dash/0be7047a/live.mpd
 #EXTINF:-1 tvg-id="ElevenSports3.pl@SD" tvg-logo="https://i.imgur.com/bWjGol4.png" group-title="Sports",Eleven Sports 3
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|65c9e7e73a314bacb570514a605ea306:91c84c5a2af36c16e20397da599a6e94
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|5288e6308fb45f5b89f3ece30b12b1b3:106c98f71aa6a18fbd32da9d58859413
 https://r.dcs.redcdn.pl/livedash/o2/tvnplayerncp/live/11_extra/live.isml/playlist.mpd?indexMode=&dummyfile=&server_side_events=0&dvr=7200000
 #EXTINF:-1 tvg-id="ElevenSports4.pl@SD" tvg-logo="https://i.imgur.com/SEKXaAW.png" group-title="Sports",Eleven Sports 4
 #KODIPROP:inputstream=inputstream.adaptive
