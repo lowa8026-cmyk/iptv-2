@@ -45,7 +45,7 @@ https://vs2131.vcdn.biz/7c9ec24eb8edee7c3d3b96d9f3135f48_megogo/live/hls/b/700_2
 https://liveovh010.cda.pl/enc024/natgeopeoplehdraw/natgeopeoplehdraw.mpd
 #EXTINF:-1 tvg-id="NickJr.pl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/512px-Nick_Jr._logo_2023_(outline).svg.png" group-title="Kids",Nick Jr.
 https://liveovh010.cda.pl/enc010/nickjrraw/nickjrraw.mpd
-#EXTINF:-1 tvg-id="Nickelodeon.pl@SD" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Kids",Nickelodeon (1080p)
+#EXTINF:-1 tvg-id="Nickelodeon.pl@SD" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Kids",Nickelodeon
 https://liveovh010.cda.pl/enc010/nickelodeonraw/nickelodeonraw.mpd
 #EXTINF:-1 tvg-id="ParamountNetwork.pl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/512px-Paramount_Network.svg.png" group-title="Movies;Series",Paramount Network
 https://liveovh010.cda.pl/enc028/paramountnetworkhdraw/paramountnetworkhdraw.mpd
@@ -122,38 +122,38 @@ https://liveovh010.cda.pl/enc118/tvchdraw/tvchdraw.m3u8
 #EXTINF:-1 tvg-id="TVP1.pl@SD" tvg-logo="https://i.imgur.com/ewpSjBs.png" group-title="Undefined",TVP1
 https://liveovh011.cda.pl/enc115/tvp1hdraw/tvp1hdraw.m3u8
 #EXTINF:-1 tvg-id="TVP2.pl@SD" tvg-logo="https://i.imgur.com/XxCc32B.png" group-title="Undefined",TVP2
-https://cdndai.pl/tvp2hd/index.m3u8
-#EXTINF:-1 tvg-id="TVP3Bialystok.pl@SD" tvg-logo="https://i.postimg.cc/KjNHDgbX/tvp3bialystok.png" group-title="Undefined",TVP 3 BiaĹystok (576p) [Geo-blocked]
+https://liveovh011.cda.pl/enc115/tvp2hdraw/tvp2hdraw.mpd
+#EXTINF:-1 tvg-id="TVP3Bialystok.pl@SD" tvg-logo="https://i.postimg.cc/KjNHDgbX/tvp3bialystok.png" group-title="Undefined",TVP 3 BiaĹystok
 https://cdndai.pl/tvp3bialystoksd/index.m3u8
-#EXTINF:-1 tvg-id="TVP3Bydgoszcz.pl@SD" tvg-logo="https://i.postimg.cc/MK9LcRtV/tvp3bydgoszcz.png" group-title="Undefined",TVP 3 Bydgoszcz (576p) [Geo-blocked]
+#EXTINF:-1 tvg-id="TVP3Bydgoszcz.pl@SD" tvg-logo="https://i.postimg.cc/MK9LcRtV/tvp3bydgoszcz.png" group-title="Undefined",TVP 3 Bydgoszcz
 https://cdndai.pl/tvp3bydgoszczsd/index.m3u8
-#EXTINF:-1 tvg-id="TVP3Gdansk.pl@SD" tvg-logo="https://i.postimg.cc/HkjhbxPK/tvp3gdansk.png" group-title="Undefined",TVP 3 GdaĹsk (576p) [Geo-blocked]
+#EXTINF:-1 tvg-id="TVP3Gdansk.pl@SD" tvg-logo="https://i.postimg.cc/HkjhbxPK/tvp3gdansk.png" group-title="Undefined",TVP 3 GdaĹsk
 https://cdndai.pl/tvp3gdansksd/index.m3u8
-#EXTINF:-1 tvg-id="TVP3GorzowWielkopolski.pl@SD" tvg-logo="https://i.postimg.cc/Mp4r5SCG/tvp3gorzowwielkopolski.png" group-title="Undefined",TVP 3 GorzĂłw Wielkopolski (576p) [Geo-blocked]
+#EXTINF:-1 tvg-id="TVP3GorzowWielkopolski.pl@SD" tvg-logo="https://i.postimg.cc/Mp4r5SCG/tvp3gorzowwielkopolski.png" group-title="Undefined",TVP 3 GorzĂłw Wielkopolski
 https://cdndai.pl/tvp3gorzowsd/index.m3u8
-#EXTINF:-1 tvg-id="TVP3Katowice.pl@SD" tvg-logo="https://i.postimg.cc/4392F0GQ/tvp3katowice.png" group-title="Undefined",TVP 3 Katowice (576p) [Geo-blocked]
+#EXTINF:-1 tvg-id="TVP3Katowice.pl@SD" tvg-logo="https://i.postimg.cc/4392F0GQ/tvp3katowice.png" group-title="Undefined",TVP 3 Katowice
 https://cdndai.pl/tvp3katowicesd/index.m3u8
-#EXTINF:-1 tvg-id="TVP3Kielce.pl@SD" tvg-logo="https://i.postimg.cc/zBY2mkXZ/tvp3kielce.png" group-title="Undefined",TVP 3 Kielce (576p) [Geo-blocked]
+#EXTINF:-1 tvg-id="TVP3Kielce.pl@SD" tvg-logo="https://i.postimg.cc/zBY2mkXZ/tvp3kielce.png" group-title="Undefined",TVP 3 Kielce
 https://cdndai.pl/tvp3kielcesd/index.m3u8
-#EXTINF:-1 tvg-id="TVP3Krakow.pl@SD" tvg-logo="https://i.postimg.cc/Wz29zbk5/tvp3krakow.png" group-title="Undefined",TVP 3 KrakĂłw (576p) [Geo-blocked]
+#EXTINF:-1 tvg-id="TVP3Krakow.pl@SD" tvg-logo="https://i.postimg.cc/Wz29zbk5/tvp3krakow.png" group-title="Undefined",TVP 3 KrakĂłw
 https://cdndai.pl/tvp3krakowsd/index.m3u8
-#EXTINF:-1 tvg-id="TVP3Lodz.pl@SD" tvg-logo="https://i.postimg.cc/rmGnqtKd/tvp3lodz.png" group-title="Undefined",TVP 3 ĹĂłdĹş (576p) [Geo-blocked]
+#EXTINF:-1 tvg-id="TVP3Lodz.pl@SD" tvg-logo="https://i.postimg.cc/rmGnqtKd/tvp3lodz.png" group-title="Undefined",TVP 3 ĹĂłdĹş
 https://cdndai.pl/tvp3lodzsd/index.m3u8
-#EXTINF:-1 tvg-id="TVP3Lublin.pl@SD" tvg-logo="https://i.postimg.cc/L5Nx1Kk2/tvp3lublin.png" group-title="Undefined",TVP 3 Lublin (576p) [Geo-blocked]
+#EXTINF:-1 tvg-id="TVP3Lublin.pl@SD" tvg-logo="https://i.postimg.cc/L5Nx1Kk2/tvp3lublin.png" group-title="Undefined",TVP 3 Lublin
 https://cdndai.pl/tvp3lublinsd/index.m3u8
-#EXTINF:-1 tvg-id="TVP3Olsztyn.pl@SD" tvg-logo="https://i.postimg.cc/1RHCT6k2/tvp3olsztyn.png" group-title="Undefined",TVP 3 Olsztyn (576p) [Geo-blocked]
+#EXTINF:-1 tvg-id="TVP3Olsztyn.pl@SD" tvg-logo="https://i.postimg.cc/1RHCT6k2/tvp3olsztyn.png" group-title="Undefined",TVP 3 Olsztyn
 https://cdndai.pl/tvp3olsztynsd/index.m3u8
-#EXTINF:-1 tvg-id="TVP3Opole.pl@SD" tvg-logo="https://i.postimg.cc/zXGt1v5B/tvp3opole.png" group-title="Undefined",TVP 3 Opole (576p) [Geo-blocked]
+#EXTINF:-1 tvg-id="TVP3Opole.pl@SD" tvg-logo="https://i.postimg.cc/zXGt1v5B/tvp3opole.png" group-title="Undefined",TVP 3 Opole
 https://cdndai.pl/tvp3opolesd/index.m3u8
-#EXTINF:-1 tvg-id="TVP3Poznan.pl@SD" tvg-logo="https://i.postimg.cc/TYNk2xYc/tvp3poznan.png" group-title="Undefined",TVP 3 PoznaĹ (576p) [Geo-blocked]
+#EXTINF:-1 tvg-id="TVP3Poznan.pl@SD" tvg-logo="https://i.postimg.cc/TYNk2xYc/tvp3poznan.png" group-title="Undefined",TVP 3 PoznaĹ
 https://cdndai.pl/tvp3poznansd/index.m3u8
-#EXTINF:-1 tvg-id="TVP3Rzeszow.pl@SD" tvg-logo="https://i.postimg.cc/qvt1zFNH/tvp3rzeszow.png" group-title="Undefined",TVP 3 RzeszĂłw (576p) [Geo-blocked]
+#EXTINF:-1 tvg-id="TVP3Rzeszow.pl@SD" tvg-logo="https://i.postimg.cc/qvt1zFNH/tvp3rzeszow.png" group-title="Undefined",TVP 3 RzeszĂłw
 https://cdndai.pl/tvp3rzeszowsd/index.m3u8
-#EXTINF:-1 tvg-id="TVP3Szczecin.pl@SD" tvg-logo="https://i.postimg.cc/g2fNRKhX/tvp3szczecin.png" group-title="Undefined",TVP 3 Szczecin (576p) [Geo-blocked]
+#EXTINF:-1 tvg-id="TVP3Szczecin.pl@SD" tvg-logo="https://i.postimg.cc/g2fNRKhX/tvp3szczecin.png" group-title="Undefined",TVP 3 Szczecin
 https://cdndai.pl/tvp3szczecinsd/index.m3u8
-#EXTINF:-1 tvg-id="TVP3Warszawa.pl@SD" tvg-logo="https://i.postimg.cc/hGTM078C/tvp3warszawa.png" group-title="Undefined",TVP 3 Warszawa (576p) [Geo-blocked]
-https://cdndai.pl/tvp3warszawasd/index.m3u8
-#EXTINF:-1 tvg-id="TVP3Wroclaw.pl@SD" tvg-logo="https://i.postimg.cc/ydKjpYv7/tvp3wroclaw.png" group-title="Undefined",TVP 3 WrocĹaw (576p) [Geo-blocked]
+#EXTINF:-1 tvg-id="TVP3Warszawa.pl@SD" tvg-logo="https://i.postimg.cc/hGTM078C/tvp3warszawa.png" group-title="Undefined",TVP 3 Warszawa
+https://liveovh010.cda.pl/enc030/tvp3warszawaraw/tvp3warszawaraw.mpd
+#EXTINF:-1 tvg-id="TVP3Wroclaw.pl@SD" tvg-logo="https://i.postimg.cc/ydKjpYv7/tvp3wroclaw.png" group-title="Undefined",TVP 3 WrocĹaw
 https://cdndai.pl/tvp3wroclawsd/index.m3u8
 #EXTINF:-1 tvg-id="TVPABC2.pl@SD" tvg-logo="https://i.imgur.com/Ur7CUAh.png" group-title="Kids",TVP ABC 2
 plugin://plugin.video.tvpgo/play_channel?code=DMPR
@@ -161,12 +161,12 @@ plugin://plugin.video.tvpgo/play_channel?code=DMPR
 plugin://plugin.video.tvpgo/play_channel?code=H2
 #EXTINF:-1 tvg-id="TVPInfo.pl@SD" tvg-logo="https://i.imgur.com/qXrrNxv.png" group-title="Undefined",TVP Info
 https://dash4.antik.sk/live/test_tvp_info/playlist.m3u8
-#EXTINF:-1 tvg-id="TVPPolonia.pl@SD" tvg-logo="httpad.wikimedia.org/wikipedia/commons/thumb/1/1a/TVP_Polonia_Logo_2020.svg/512px-TVP_Polonia_Logo_2020.svg.png" group-title="Undefined",TVP Polonia
+#EXTINF:-1 tvg-id="TVPPolonia.pl@SD" tvg-logo="https://i.imgur.com/jggk3Mx.png" group-title="Undefined",TVP Polonia
 https://dash2.antik.sk/live/test_tvp_polonia/playlist.m3u8
 #EXTINF:-1 tvg-id="TVPUAKrym.ua@Poland" tvg-logo="https://i.imgur.com/TNfE1vs.png" group-title="Religious",TVP UA: Krym
 https://ext.cdn.nashnet.tv/228.0.0.71/index.m3u8
-#EXTINF:-1 tvg-id="TVPWorld.pl@SD" tvg-logo="https://i.imgur.com/lB4MgRI.png" group-title="News",TVP World (1080p) [Geo-blocked]
-https://vs2142.vcdn.biz/2958f855a43f669a4282e5134a882554_megogo/live/hls/b/700_2490_4000/u_sid/0/o/150446381/rsid/7aae92a2-4034-476f-8fff-33bfc431e127/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/91.226.196.37*asn/u_srvc/81255/u_did/web_duMuKipCoyWU9tWH3VWiK9eX5ZPorcR6/type.live/chunklist-sid8883796453807134950-b4000000.m3u8
+#EXTINF:-1 tvg-id="TVPWorld.pl@SD" tvg-logo="https://i.imgur.com/lB4MgRI.png" group-title="News",TVP World
+https://dash2.antik.sk/live/test_tvp_world/playlist.m3u8
 #EXTINF:-1 tvg-id="TVS.pl@SD" tvg-logo="https://i.imgur.com/RHwlp35.png" group-title="Undefined",TVS
 https://liveovh010.cda.pl/enc018/tvsraw/tvsraw.mpd
 #EXTINF:-1 tvg-id="TwojaTV.pl@SD" tvg-logo="https://i.ibb.co/vxntQD60/twojatv-hd-online.png" group-title="Undefined",Twoja.TV
@@ -179,5 +179,5 @@ https://str.onnetwork.tv/hls/onnet-358726_hi/index.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|37326531373361376636373433373363:66643462666134373235616438316438
 https://liveovh010.cda.pl/enc109/wphd/wphd.mpd
-#EXTINF:-1 tvg-id="ZoomTV.pl@SD" tvg-logo="https://i.imgur.com/UtZM4zm.png" group-title="Undefined",Zoom TV (1080p) [Geo-blocked]
-https://vs2129.vcdn.biz/0225e988e03a772f749888284217365b_megogo/live/hls/b/700_2490_4000/u_sid/0/o/157764221/rsid/9270f2c9-1d80-455d-b5c3-d926d12f5af3/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/91.226.196.37*asn/u_srvc/81255/u_did/web_duMuKipCoyWU9tWH3VWiK9eX5ZPorcR6/type.live/chunklist-sid5554132721056427433-b4000000.m3u8
+#EXTINF:-1 tvg-id="ZoomTV.pl@SD" tvg-logo="https://i.imgur.com/UtZM4zm.png" group-title="Undefined",Zoom TV
+https://liveovh010.cda.pl/enc005/zoomtvhdraw/zoomtvhdraw.mpd
