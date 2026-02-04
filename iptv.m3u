@@ -2,3 +2,4 @@
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|{"4667fdeaed8654a4a4ceff52000947ba":"e3ba08c12d87690b8accbc91659240e3","571dba7341575a589d510c83bf94758c":"bee392a9b992154bd711c6d31ac9d7ec","1855ecfdfb215785a78ae3c62773dcb2":"e9a4f881e7b18a1f0dd10a698690dace","4fa8879bcc2d5b45a81f9ecd3dffb394":"53dab3288af491d995612d57553b674e"}
 https://lineartv-cdn.t-mobile.pl/bpk-tv/elevensports14k/default/index.mpd
+https://cdn.kinoteka.cc/weebtv/gen.m3u8.php?id=euro_sporttvhds13
