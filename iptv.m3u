@@ -1,2 +1,4 @@
-#EXTINF:0, Nieznany
-https://cdn.kinoteka.cc/weebtv/gen.m3u8.php?id=tvp_sport_hdtv
+#EXTINF:0, Motowizja
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|102181f4eb7d8c1e623433b8d93fe692:8be229fe7fe9d78e5faccc79331a011f
+https://n-22-7.dcs.redcdn.pl/livedash/o2/tvnplayer/live/motowizja_hd/live.isml/playlist.mpd?indexMode=&dummyfile=&server_side_events=1&dvr=7200000
