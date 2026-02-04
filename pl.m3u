@@ -3,9 +3,18 @@
 https://stream.4fun.tv:8889/hls/4fk_high/index.m3u8
 #EXTINF:-1 tvg-id="4FunTV.pl@SD" tvg-logo="https://i.imgur.com/rI1wo2l.png" group-title="Music",4 Fun TV
 https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
+#EXTINF:-1 tvg-id="CanalPlusDomo.pl@SD" tvg-logo="https://i.imgur.com/Z572QVo.png" group-title="Undefined",Canal+ Domo
 https://liveovh009.cda.pl/ajbTaU7DSSfSeeVbGGuHCw/1767075029/33/enc128/canalplusdomohdraw/canalplusdomohdraw.mpd
-https://liveovh009.cda.pl/ajbTaU7DSSfSeeVbGGuHCw/1767075029/33/enc130/canalplussport5hdraw/canalplussport5hdraw.mpd
+#EXTINF:-1 tvg-id="CanalPlusKuchnia.pl@SD" tvg-logo="https://i.imgur.com/d1JTJBl.png" group-title="Cooking",Canal+ Kuchnia
 https://liveovh009.cda.pl/ajbTaU7DSSfSeeVbGGuHCw/1767075029/33/enc125/canalpluskuchniahdraw/canalpluskuchniahdraw.mpd
+#EXTINF:-1 tvg-id="CanalPlusPremium.pl@SD" tvg-logo="https://i.imgur.com/J8qzBV1.png" group-title="Undefined",Canal+ Premium
+https://cdn.kinoteka.cc/weebtv/gen.m3u8.php?id=cpluspremiumtvhd2
+#EXTINF:-1 tvg-id="CanalPlusSeriale.pl@SD" tvg-logo="https://i.imgur.com/B55Rl3T.png" group-title="Series",Canal+ Seriale
+https://cdn.kinoteka.cc/weebtv/gen.m3u8.php?id=axn_blacktvhd2
+#EXTINF:-1 tvg-id="CanalPlusSport2.pl@SD" tvg-logo="https://i.imgur.com/Aq2hnUj.png" group-title="Sports",Canal+ Sport 2
+https://cdn.kinoteka.cc/weebtv/gen.m3u8.php?id=euro_sporttvhds13
+#EXTINF:-1 tvg-id="CanalPlusSport5.pl@SD" tvg-logo="https://i.imgur.com/DxobYMS.png" group-title="Sports",Canal+ Sport 5
+https://liveovh009.cda.pl/ajbTaU7DSSfSeeVbGGuHCw/1767075029/33/enc130/canalplussport5hdraw/canalplussport5hdraw.mpd
 #EXTINF:-1 tvg-id="DAZNCombat.uk@Poland" tvg-logo="https://i.postimg.cc/VsW3Jsrz/logo-DAZN-Combat.png" group-title="Sports",DAZN Combat
 https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8
 #EXTINF:-1 tvg-id="ElevenSports1.pl@SD" tvg-logo="https://i.imgur.com/AOu4FXH.png" group-title="Sports",Eleven Sports 1
