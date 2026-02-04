@@ -1,4 +1,4 @@
-#EXTINF:0, Motowizja
+#EXTINF:-1 tvg-id="ElevenSports14K.pl@SD" tvg-logo="https://i.imgur.com/7XLNdsk.png" group-title="Sports",Eleven Sports 1 4K
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|102181f4eb7d8c1e623433b8d93fe692:8be229fe7fe9d78e5faccc79331a011f
-https://n-22-7.dcs.redcdn.pl/livedash/o2/tvnplayer/live/motowizja_hd/live.isml/playlist.mpd?indexMode=&dummyfile=&server_side_events=1&dvr=7200000
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|571dba7341575a589d510c83bf94758c:bee392a9b992154bd711c6d31ac9d7ec
+https://lineartv-cdn.t-mobile.pl/bpk-tv/elevensports14k/default/index.mpd
