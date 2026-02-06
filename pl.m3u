@@ -40,6 +40,14 @@ https://r.dcs.redcdn.pl/livedash/o2/tvnplayerncp/live/11_extra/live.isml/playlis
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|e568f6bf915f2de7830545c37c2e76ad
 http://cdn-s-lb2.pluscdn.pl/ch/1457740/146/dash/e653c27f/live.mpd
+#EXTINF:-1 tvg-id="Eurosport1.pl@SD" tvg-logo="" group-title="Sports",Eurosport 1
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|e87994b160bd48b5ac2f608ef5dc0f09:26840f913d91ed7e355a8cc18b99adef
+https://cdn-s-lb2.pluscdn.pl/ch/1456336/126/dash/d6c12d19/live.mpd
+#EXTINF:-1 tvg-id="Eurosport2.pl@SD" tvg-logo="" group-title="Sports",Eurosport 2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|51ab61e7bc85492a9ff91bb55f101709:59acf98d228bddef6443da0b5b0669a2
+https://lb2-e2-31.pluscdn.pl/ch/1455824/109/dash/8792e496/live.mpd
 #EXTINF:-1 tvg-id="HomeTV.pl@SD" tvg-logo="https://i.imgur.com/qAFR1Cr.png" group-title="Undefined",Home TV
 https://liveovh011.cda.pl/enc124/hometvhdraw/hometvhdraw.mpd
 #EXTINF:-1 tvg-id="KinoPolska.pl@SD" tvg-logo="https://i.postimg.cc/qMf5xw2d/kinopolska.png" group-title="Movies",Kino Polska
