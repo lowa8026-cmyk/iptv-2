@@ -1,3 +1,2 @@
-#EXTINF:0, TV Mazowsze
-rtmp://stream.tvmazowsze.pl:5920/tmp_hls/stream/index.m3u8
-https://vs2131.vcdn.biz/12efd381b88da2037f7226d06ea3c5e3_megogo/live/hls/b/700/u_sid/0/o/10727001/rsid/f3702f1d-6ba9-4af0-8b9e-298d29d678f8/u_uid/0/u_vod/1/u_device/embed_all/u_devicekey/_embed_web/lip/217.114.34.212*asn/type.live/playlist.m3u8
+#EXTINF:0, Perszyj
+plugin://plugin.video.megogo_atv?mode=playSource&cid=20304116
