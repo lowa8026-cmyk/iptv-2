@@ -104,11 +104,11 @@ https://cdn-s-lb2.pluscdn.pl/ch/1455745/96/dash/3880d03f/live.mpd
 https://cdn-s-lb2.pluscdn.pl/ch/1455832/117/dash/790ff37c/live.mpd
 #EXTINF:-1 tvg-id="PolsatSportPremium1.pl@SD" tvg-logo="https://i.imgur.com/hy1SKE0.png" group-title="Sports",Polsat Sport Premium 1
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|8eb4a9586edf4b0cade4b5725fd55209:54caa4e2142cf691af9bb6028545afc6
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|0e7abe8060df4ab785ceea28d110eb09:54caa4e2142cf691af9bb6028545afc6
 http://cdn-s-lb2.pluscdn.pl/ch/1459449/266/dash/edb3b20d/live.mpd
 #EXTINF:-1 tvg-id="PolsatSportPremium2.pl@SD" tvg-logo="https://i.imgur.com/myyWeXY.png" group-title="Sports",Polsat Sport Premium 2
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|6a20b49be4db4f328e4bb48853124109:f32c1c3c983354bcafb0f2ccb8a59835
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|0e7abe8060df4ab785ceea28d110eb09:f32c1c3c983354bcafb0f2ccb8a59835
 http://cdn-s-lb2.pluscdn.pl/ch/1459450/267/dash/c0858178/live.mpd
 #EXTINF:-1 tvg-id="Puls2.pl@SD" tvg-logo="https://i.postimg.cc/mk8Wt6gM/puls2.png" group-title="Undefined",Puls 2
 https://edge06.cdn.emitel.pl/bpk-tv/Puls2_HD/hbbtv-dash/index.mpd
