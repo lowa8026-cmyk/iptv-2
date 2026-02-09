@@ -1,8 +1,14 @@
 #EXTM3U
-#EXTINF:0, Nieznany
-http://vipgpnoss.top:8080/VIP017111734380147282/41f86803bad5/1035
+#EXTINF:0, TVP1 HD
+https://lowa8026-cmyk.github.io/tvpvod/399697.m3u8
+#EXTINF:0, TVP2 HD
+https://lowa8026-cmyk.github.io/tvpvod/399698.m3u8
+#EXTINF:0, TVP Info
+https://lowa8026-cmyk.github.io/tvpvod/399699.m3u8
 #EXTINF:0, TVP Historia
 https://lowa8026-cmyk.github.io/tvpvod/399702.m3u8
+#EXTINF:0, TVP Kultura
+https://lowa8026-cmyk.github.io/tvpvod/399700.m3u8
 #EXTINF:0, Nieznany
 http://vipgpnoss.top:8080/VIP017111734380147282/41f86803bad5/1028
 #EXTINF:-1 tvg-id="4FunKids.pl@SD" tvg-logo="https://i.imgur.com/2JO5Y8c.png" group-title="Kids",4 Fun Kids
