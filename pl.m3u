@@ -33,8 +33,8 @@ https://lineartv-cdn.t-mobile.pl/bpk-tv/elevensports14k/default/index.mpd
 http://cdn-s-lb2.pluscdn.pl/ch/1457734/144/dash/0be7047a/live.mpd
 #EXTINF:-1 tvg-id="ElevenSports3.pl@SD" tvg-logo="https://i.imgur.com/bWjGol4.png" group-title="Sports",Eleven Sports 3
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|5288e6308fb45f5b89f3ece30b12b1b3:106c98f71aa6a18fbd32da9d58859413
-https://r.dcs.redcdn.pl/livedash/o2/tvnplayerncp/live/11_extra/live.isml/playlist.mpd?indexMode=&dummyfile=&server_side_events=0&dvr=7200000
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|55b19ea29fdd4c96825531f96a504df1:a6ec613e0eadfb923ff816e4c8c68a4a
+https://r.dcs.redcdn.pl/webcache/canalplus2/live/store01/11Sports3/hd2-dashdrm02/11Sports3.mpd
 #EXTINF:-1 tvg-id="ElevenSports4.pl@SD" tvg-logo="https://i.imgur.com/SEKXaAW.png" group-title="Sports",Eleven Sports 4
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|e568f6bf915f2de7830545c37c2e76ad
