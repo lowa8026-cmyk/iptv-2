@@ -25,7 +25,7 @@ https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-ra
 http://cdn-s-lb2.pluscdn.pl/ch/1457744/147/dash/4867711b/live.mpd
 #EXTINF:-1 tvg-id="ElevenSports14K.pl@SD" tvg-logo="https://i.imgur.com/7XLNdsk.png" group-title="Sports",Eleven Sports 1 4K
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|571DBA7341575A589D510C83BF94758C:BEE392A9B992154BD711C6D31AC9D7EC
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|571dba7341575a589d510c83bf94758c:bee392a9b992154bd711c6d31ac9d7ec
 https://lineartv-cdn.t-mobile.pl/bpk-tv/elevensports14k/default/index.mpd
 #EXTINF:-1 tvg-id="ElevenSports2.pl@SD" tvg-logo="https://i.imgur.com/bTIRgqG.png" group-title="Sports",Eleven Sports 2
 #KODIPROP:inputstream=inputstream.adaptive
