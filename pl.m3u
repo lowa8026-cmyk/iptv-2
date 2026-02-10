@@ -33,12 +33,12 @@ https://lineartv-cdn.t-mobile.pl/bpk-tv/elevensports14k/default/index.mpd
 http://cdn-s-lb2.pluscdn.pl/ch/1457734/144/dash/0be7047a/live.mpd
 #EXTINF:-1 tvg-id="ElevenSports3.pl@SD" tvg-logo="https://i.imgur.com/bWjGol4.png" group-title="Sports",Eleven Sports 3
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|55b19ea29fdd4c96825531f96a504df1:a6ec613e0eadfb923ff816e4c8c68a4a
-https://r.dcs.redcdn.pl/webcache/canalplus2/live/store01/11Sports3/hd2-dashdrm02/11Sports3.mpd
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|
+
 #EXTINF:-1 tvg-id="ElevenSports4.pl@SD" tvg-logo="https://i.imgur.com/SEKXaAW.png" group-title="Sports",Eleven Sports 4
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|e568f6bf915f2de7830545c37c2e76ad
-http://cdn-s-lb2.pluscdn.pl/ch/1457740/146/dash/e653c27f/live.mpd
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|
+
 #EXTINF:-1 tvg-id="Eurosport1.pl@SD" tvg-logo="" group-title="Sports",Eurosport 1
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|e87994b160bd48b5ac2f608ef5dc0f09:26840f913d91ed7e355a8cc18b99adef
