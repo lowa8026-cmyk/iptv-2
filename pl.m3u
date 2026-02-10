@@ -158,7 +158,7 @@ https://liveovh010.cda.pl/enc030/tvp3warszawaraw/tvp3warszawaraw.mpd
 #EXTINF:-1 tvg-id="TVP3Wroclaw.pl@SD" tvg-logo="https://i.postimg.cc/ydKjpYv7/tvp3wroclaw.png" group-title="Undefined",TVP 3 WrocĹaw
 https://cdndai.pl/tvp3wroclawsd/index.m3u8
 #EXTINF:-1 tvg-id="TVPABC.pl@SD" tvg-logo="https://i.imgur.com/wP2mpfM.png" group-title="Kids",TVP ABC
-https://lowa8026-cmyk.github.io/tvpvod/399702.m3u8
+https://lowa8026-cmyk.github.io/tvpvod/399704.m3u8
 #EXTINF:-1 tvg-id="TVPABC2.pl@SD" tvg-logo="https://i.imgur.com/Ur7CUAh.png" group-title="Kids",TVP ABC 2
 plugin://plugin.video.tvpgo/play_channel?code=DMPR
 #EXTINF:-1 tvg-id="TVPHistoria2.pl@SD" tvg-logo="https://i.imgur.com/WJHxKoc.png" group-title="General",TVP Historia 2
