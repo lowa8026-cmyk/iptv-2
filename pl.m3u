@@ -9,12 +9,6 @@ https://cdn.kinoteka.cc/weebtv/gen.m3u8.php?id=nowa_tvhv
 https://liveovh009.cda.pl/ajbTaU7DSSfSeeVbGGuHCw/1767075029/33/enc128/canalplusdomohdraw/canalplusdomohdraw.mpd
 #EXTINF:-1 tvg-id="CanalPlusKuchnia.pl@SD" tvg-logo="https://i.imgur.com/d1JTJBl.png" group-title="Cooking",Canal+ Kuchnia
 https://liveovh009.cda.pl/ajbTaU7DSSfSeeVbGGuHCw/1767075029/33/enc125/canalpluskuchniahdraw/canalpluskuchniahdraw.mpd
-#EXTINF:-1 tvg-id="CanalPlusPremium.pl@SD" tvg-logo="https://i.imgur.com/J8qzBV1.png" group-title="Undefined",Canal+ Premium
-https://cdn.kinoteka.cc/weebtv/gen.m3u8.php?id=cpluspremiumtvhd2
-#EXTINF:-1 tvg-id="CanalPlusSeriale.pl@SD" tvg-logo="https://i.imgur.com/B55Rl3T.png" group-title="Series",Canal+ Seriale
-https://cdn.kinoteka.cc/weebtv/gen.m3u8.php?id=axn_blacktvhd2
-#EXTINF:-1 tvg-id="CanalPlusSport2.pl@SD" tvg-logo="https://i.imgur.com/Aq2hnUj.png" group-title="Sports",Canal+ Sport 2
-https://cdn.kinoteka.cc/weebtv/gen.m3u8.php?id=euro_sporttvhds13
 #EXTINF:-1 tvg-id="CanalPlusSport5.pl@SD" tvg-logo="https://i.imgur.com/DxobYMS.png" group-title="Sports",Canal+ Sport 5
 https://liveovh009.cda.pl/ajbTaU7DSSfSeeVbGGuHCw/1767075029/33/enc130/canalplussport5hdraw/canalplussport5hdraw.mpd
 #EXTINF:-1 tvg-id="DAZNCombat.uk@Poland" tvg-logo="https://i.postimg.cc/VsW3Jsrz/logo-DAZN-Combat.png" group-title="Sports",DAZN Combat
@@ -47,20 +41,6 @@ https://cdn-s-lb2.pluscdn.pl/ch/1456336/126/dash/d6c12d19/live.mpd
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|51ab61e7bc85492a9ff91bb55f101709:59acf98d228bddef6443da0b5b0669a2
 https://lb2-e2-31.pluscdn.pl/ch/1455824/109/dash/8792e496/live.mpd
-#EXTINF:-1 tvg-id="HomeTV.pl@SD" tvg-logo="https://i.imgur.com/qAFR1Cr.png" group-title="Undefined",Home TV
-https://liveovh011.cda.pl/enc124/hometvhdraw/hometvhdraw.mpd
-#EXTINF:-1 tvg-id="KinoPolska.pl@SD" tvg-logo="https://i.postimg.cc/qMf5xw2d/kinopolska.png" group-title="Movies",Kino Polska
-https://cdn.kinoteka.cc/weebtv/gen.m3u8.php?id=kino_polska_tv
-#EXTINF:-1 tvg-id="KinoTV.pl@SD" tvg-logo="https://i.imgur.com/sqjuXUO.png" group-title="Movies",Kino TV
-https://cdn.kinoteka.cc/weebtv/gen.m3u8.php?id=filmbox_kinotv
-#EXTINF:-1 tvg-id="MusicBoxPolska.pl@SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyN14NgigtUnImvVp9DqgbKY5c9Nsl-EqLkPX7PzYcl924yK77GycmSj2E&s=10" group-title="Music",Music Box Polska
-https://vs2131.vcdn.biz/7c9ec24eb8edee7c3d3b96d9f3135f48_megogo/live/hls/b/700_2490_4000/u_sid/0/o/156751011/rsid/75909724-61e8-406f-9c58-f0491247f2a6/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/91.226.196.37*asn/u_srvc/81255/u_did/web_duMuKipCoyWU9tWH3VWiK9eX5ZPorcR6/type.live/chunklist-sid750262562196381400-b4000000.m3u8
-#EXTINF:-1 tvg-id="Motowizja.pl@SD" tvg-logo="https://ocdn.eu/ptv2-images-transforms/1/bqxkrtsb2dvLW1pZ3JhdGVkL21vdG93aXpqYS5wbmeSlQJkAMLDlQIAKMLD" group-title="Auto",Motowizja
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|102181f4eb7d8c1e623433b8d93fe692:8be229fe7fe9d78e5faccc79331a011f
-https://n-22-7.dcs.redcdn.pl/livedash/o2/tvnplayer/live/motowizja_hd/live.isml/playlist.mpd?indexMode=&dummyfile=&server_side_events=1&dvr=7200000
-#EXTINF:-1 tvg-id="ParamountNetwork.pl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/512px-Paramount_Network.svg.png" group-title="Movies;Series",Paramount Network
-https://cdn.kinoteka.cc/weebtv/gen.m3u8.php?id=sportta
 #EXTINF:-1 tvg-id="Polsat.pl@SD" tvg-logo="https://i.imgur.com/xff6zGN.png" group-title="General",Polsat
 http://cdn-s-lb2.pluscdn.pl/ch/1502600/308/dash/20a18c30/live.mpd
 #EXTINF:-1 tvg-id="Polsat2.pl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Polsat_2_2021_gradient.svg/512px-Polsat_2_2021_gradient.svg.png" group-title="General",Polsat 2
@@ -85,21 +65,16 @@ http://cdn-s-lb2.pluscdn.pl/ch/1456452/129/dash/ffe2048f/live.mpd
 https://lb2-e1-82.pluscdn.pl/ch/1455745/96/dash/3880d03f/live.mpd
 #EXTINF:-1 tvg-id="Puls2.pl@SD" tvg-logo="https://i.postimg.cc/mk8Wt6gM/puls2.png" group-title="Undefined",Puls 2
 https://edge06.cdn.emitel.pl/bpk-tv/Puls2_HD/hbbtv-dash/index.mpd
-#EXTINF:-1 tvg-id="StarsTV.pl@SD" tvg-logo="https://i.imgur.com/NdITPCk.png" group-title="Undefined",Stars TV
-https://vs2120.vcdn.biz/1e1e9e72486cd8ae299220094b887357_megogo/live/hls/b/700_2490_4000/u_sid/0/o/157933561/rsid/872a7cf3-5b98-454d-bd4c-d0202a08fd2c/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/91.226.196.37*asn/u_srvc/81255/u_did/web_duMuKipCoyWU9tWH3VWiK9eX5ZPorcR6/type.live/chunklist-sid1122592601448291971-b4000000.m3u8
 #EXTINF:-1 tvg-id="SzlagierTV.pl@SD" tvg-logo="https://i.imgur.com/VQk19Ng.png" group-title="General",Szlagier TV
 https://vefgpbwcjjjbxfng.nazatv.pl/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="TBNPolska.pl@SD" tvg-logo="https://i.postimg.cc/j2djj1b0/tbnpolska.png" group-title="Undefined",TBN Polska
 https://s-pl-01.mediatool.tv/playout/tbn-abr/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Tele5.pl@SD" tvg-logo="https://i.imgur.com/36ZNsIL.png" group-title="Undefined",Tele5
-https://vs2132.vcdn.biz/43fb9423bec9f1138cac28c3536cf988_megogo/live/hls/b/700_2490_4000/u_sid/0/o/159818871/rsid/6db90951-c977-4cbf-a3ec-e561139805c6/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/91.226.196.37*asn/u_srvc/81255/u_did/web_duMuKipCoyWU9tWH3VWiK9eX5ZPorcR6/type.live/chunklist-sid4914560279927859613-b4000000.m3u8
 #EXTINF:-1 tvg-id="TelewizjaBiznesowa.pl@SD" tvg-logo="https://i.imgur.com/XC7i7ZL.png" group-title="Business",Telewizja Biznesowa
 https://s-pl-01.mediatool.tv/playout/tbpl-abr/index.m3u8
 #EXTINF:-1 tvg-id="TV4.pl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/TV4Polska.png" group-title="Undefined",TV4
 http://cdn-s-lb2.pluscdn.pl/ch/1502601/309/dash/e25c2c93/live.mpd
 #EXTINF:-1 tvg-id="TVOkazje.pl@SD" tvg-logo="https://i.imgur.com/DbALkkV.png" group-title="Undefined",TV Okazje
 http://cdn-s-lb2.pluscdn.pl/ch/1523532/366/dash/2cf383bb/live.mpd
-#EXTINF:-1 tvg-id="TVRepublika.pl@SD" tvg-logo="https://i.imgur.com/ljpK6dZ.png" group-title="Und p?id=jtv6
 #EXTINF:-1 tvg-id="TVP1.pl@SD" tvg-logo="https://i.imgur.com/ewpSjBs.png" group-title="Undefined",TVP1 HD
 https://lowa8026-cmyk.github.io/tvpvod/399697.m3u8
 #EXTINF:-1 tvg-id="TVP2.pl@SD" tvg-logo="https://i.imgur.com/XxCc32B.png" group-title="Undefined",TVP2
@@ -147,13 +122,13 @@ plugin://plugin.video.tvpgo/play_channel?code=H2
 #EXTINF:-1 tvg-id="TVPInfo.pl@SD" tvg-logo="https://i.imgur.com/qXrrNxv.png" group-title="Undefined",TVP Info
 https://lowa8026-cmyk.github.io/tvpvod/399699.m3u8
 #EXTINF:-1 tvg-id="TVPKultura.pl@SD" tvg-logo="https://i.imgur.com/JU858Es.png" group-title="Undefined",TVP Kultura
-https://cdn.kinoteka.cc/weebtv/gen.m3u8.php?id=fox_comedy24tv
+
 #EXTINF:-1 tvg-id="TVPPolonia.pl@SD" tvg-logo="https://i.imgur.com/jggk3Mx.png" group-title="Undefined",TVP Polonia
-https://dash2.antik.sk/live/test_tvp_polonia/playlist.m3u8
+
 #EXTINF:-1 tvg-id="TVPSport.pl@SD" tvg-logo="https://i.imgur.com/JUZDOCO.png" group-title="Sports",TVP Sport
-https://cdn.kinoteka.cc/weebtv/gen.m3u8.php?id=sportTVP_channeed
+
 #EXTINF:-1 tvg-id="TVPWorld.pl@SD" tvg-logo="https://i.imgur.com/lB4MgRI.png" group-title="News",TVP World
-https://dash2.antik.sk/live/test_tvp_world/playlist.m3u8
+
 #EXTINF:-1 tvg-id="TVS.pl@SD" tvg-logo="https://i.imgur.com/RHwlp35.png" group-title="Undefined",TVS
 
 #EXTINF:-1 tvg-id="TwojaTV.pl@SD" tvg-logo="https://i.ibb.co/vxntQD60/twojatv-hd-online.png" group-title="Undefined",Twoja.TV
