@@ -1,16 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kids",Polsat Play
+#EXTINF:-1 tvg-id="1Plus1International.ua@Poland" tvg-logo="https://i.imgur.com/LOY0rtp.png" group-title="General",1+1 International
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|01691f765ca84c3a801facebbb946b09:13340211cd86c74e7f52ff3bf10517f4
-https://cdn-s-lb2.pluscdn.pl/ch/1455766/104/dash/5582600b/live.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kids",Polsat Games
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|fd516b4363584bafb51d63334e147109:54884f2730cdea26565db9369bcc0b27
-https://cdn-s-lb2.pluscdn.pl/ch/1455413/74/dash/661fac73/live.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kids",Polsat Doku
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|e6a277761c2b4aed84fc3f2fae138309:a11c2d080ffce2f42d8d414d61ff6733
-https://cdn-s-lb2.pluscdn.pl/ch/1455443/88/dash/f4f0f1ef/live.mpd
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|18ebce6789a7423492337e05b8431409:3e74e23e52bdf7fb89ef9052c750835f
+http://cdn-s-lb2.pluscdn.pl/ch/1457285/140/dash/8d59a274/live.mpd
 #EXTINF:-1 tvg-id="4FunDance.pl@SD" tvg-logo="" group-title="Kids",4 Fun Dance
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|27fa105777034df68c5a98636a294809:271352c0b11034d33239a00c68dfcd03
@@ -51,35 +43,36 @@ http://cdn-s-lb2.pluscdn.pl/ch/1457734/144/dash/0be7047a/live.mpd
 #EXTINF:-1 tvg-id="GramyDalej.pl@SD" tvg-logo="https://ipla-e1-83.pluscdn.pl/img/p/owHqr0SI-u_e/1920x1080/p/cms_thumbnails/67/67aaiss1ib3pm7vnxheqv7eaitj1er8h.jpg" group-title="Sports",Gramy Dalej
 http://cdn-s-lb2.pluscdn.pl/lv/1517832/351/dash/2699af69/live.mpd
 #EXTINF:-1 tvg-id="Polsat2.pl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Polsat_2_2021_gradient.svg/512px-Polsat_2_2021_gradient.svg.png" group-title="General",Polsat 2
-https://s7.vizja.cc/Polsat2/manifest.mpd
-#EXTINF:-1 tvg-id="Polsat.pl@SD" tvg-logo="https://i.imgur.com/xff6zGN.png" group-title="General",Polsat
-http://cdn-s-lb2.pluscdn.pl/ch/1502600/308/dash/20a18c30/live.mpd
-#EXTINF:-1 tvg-id="Polsat2.pl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Polsat_2_2021_gradient.svg/512px-Polsat_2_2021_gradient.svg.png" group-title="General",Polsat 2
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|
 http://cdn-s-lb2.pluscdn.pl/ch/1455827/112/dash/cd8582f7/live.mpd
+#EXTINF:-1 tvg-id="Polsat.pl@SD" tvg-logo="https://i.imgur.com/xff6zGN.png" group-title="General",Polsat
+http://cdn-s-lb2.pluscdn.pl/ch/1502600/308/dash/20a18c30/live.mpd
 #EXTINF:-1 tvg-id="PolsatCafe.pl@SD" tvg-logo="" group-title="Undefined",Polsat Cafe
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|1e6f08a20a264fda94578a7e3b635b09:a40238be5a3225d5d21e23d7768f67dd
 https://cdn-s-lb2.pluscdn.pl/ch/1455748/98/dash/6070cf90/live.mpd
-#EXTINF:-1 tvg-id="PolsatNews2.pl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Polsat_News_2_2021_gradient.svg/512px-Polsat_News_2_2021_gradient.svg.png" group-title="News",Polsat News 2
-http://c3921155.edmonst.net/iptv/65C7UBRRW8GHQVYPH2MQT3SA/7297/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kids",Polsat Doku
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|e6a277761c2b4aed84fc3f2fae138309:a11c2d080ffce2f42d8d414d61ff6733
+http://cdn-s-lb2.pluscdn.pl/ch/1455443/88/dash/f4f0f1ef/live.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Polsat Games
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|fd516b4363584bafb51d63334e147109:54884f2730cdea26565db9369bcc0b27
+http://cdn-s-lb2.pluscdn.pl/ch/1455413/74/dash/661fac73/live.mpd
 #EXTINF:-1 tvg-id="PolsatNews.pl@SD" tvg-logo="https://i.imgur.com/sx1yPuc.png" group-title="News",Polsat News 
 http://cdn-s-lb2.pluscdn.pl/lv/1517830/349/dash/81ec4c32/live.mpd
-#EXTINF:-1 tvg-id="PolsatNews2.pl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Polsat_News_2_2021_gradient.svg/512px-Polsat_News_2_2021_gradient.svg.png" group-title="News",Polsat News 2
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|b5426414abac4882a496eda5e4874409:21bea316ac7f46877d94d67169a1cd2b
-https://cdn-s-lb2.pluscdn.pl/ch/1442864/5/dash/e7f4555f/live.mpd
 #EXTINF:-1 tvg-id="PolsatNewsPolityka.pl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Polsat_News_Polityka_2024_gradient.svg/320px-Polsat_News_Polityka_2024_gradient.svg.png" group-title="News",Polsat News Polityka
 http://cdn-s-lb2.pluscdn.pl/lv/1511888/322/dash/52a9b70b/live.mpd
-#EXTINF:-1 tvg-id="PolsatSport1.pl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Polsat_Sport_1_2024.svg/353px-Polsat_Sport_1_2024.svg.png" group-title="Sports",Polsat Sport 1
+#EXTINF:-1 tvg-id="PolsatSport1.pl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/
+e/e3/Polsat_Sport_1_2024.svg/353px-Polsat_Sport_1_2024.svg.png" group-title="Sports",Polsat Sport 1
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|590abbe92e6e470a9e355d58ec910709:0af2b5f2450474207f6761adc9dc635e
-https://cdn-s-lb2.pluscdn.pl/ch/1456452/129/dash/ffe2048f/live.mpd
+#KODIPROP:inputstream.adapive.drm_legacy=org.w3.clearkey|590abbe92e6e470a9e355d58ec910709:0af2b5f2450474207f6761adc9dc635e
+http://cdn-s-lb2.pluscdn.pl/ch/1456452/129/dash/ffe2048f/live.mpd
 #EXTINF:-1 tvg-id="PolsatSport2.pl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Polsat_Sport_2_2024.svg/375px-Polsat_Sport_2_2024.svg.png" group-title="Sports",Polsat Sport 2
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|3201accccbe9455cbc28dcd4bcdf1509:f4d9a50f98ea833d2e5120d83bd59a23
-https://lb2-e1-82.pluscdn.pl/ch/1455745/96/dash/3880d03f/live.mpd
+http://lb2-e1-82.pluscdn.pl/ch/1455745/96/dash/3880d03f/live.mpd
 #EXTINF:-1 tvg-id="PolsatSportPremium4PPV.pl@SD" tvg-logo="" group-title="Sports",Polsat Sport Premium 4 PPV HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|a4017b0dada54ef7b9c25bc6710fbd09:82d7d1dea0c30b43d208d5cb78487c5a
