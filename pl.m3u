@@ -75,10 +75,6 @@ http://cdn-s-lb2.pluscdn.pl/ch/1456452/129/dash/ffe2048f/live.mpd
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|3201accccbe9455cbc28dcd4bcdf1509:f4d9a50f98ea833d2e5120d83bd59a23
 http://lb2-e1-82.pluscdn.pl/ch/1455745/96/dash/3880d03f/live.mpd
-#EXTINF:-1 tvg-id="PolsatSportPremium4PPV.pl@SD" tvg-logo="" group-title="Sports",Polsat Sport Premium 4 PPV HD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|a4017b0dada54ef7b9c25bc6710fbd09:82d7d1dea0c30b43d208d5cb78487c5a
-https://lb2-e3-15.pluscdn.pl/ch/1493866/283/dash/28c4e263/live.mpd
 #EXTINF:-1 tvg-id="Puls2.pl@SD" tvg-logo="https://i.postimg.cc/mk8Wt6gM/puls2.png" group-title="Undefined",Puls 2
 https://edge06.cdn.emitel.pl/bpk-tv/Puls2_HD/hbbtv-dash/index.mpd
 #EXTINF:-1 tvg-id="SzlagierTV.pl@SD" tvg-logo="https://i.imgur.com/VQk19Ng.png" group-title="General",Szlagier TV
