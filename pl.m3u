@@ -60,9 +60,7 @@ http://cdn-s-lb2.pluscdn.pl/ch/1455413/74/dash/661fac73/live.mpd
 #EXTINF:-1 tvg-id="PolsatNews.pl@SD" tvg-logo="https://i.imgur.com/sx1yPuc.png" group-title="News",Polsat News 
 http://cdn-s-lb2.pluscdn.pl/lv/1517830/349/dash/81ec4c32/live.mpd
 #EXTINF:-1 tvg-id="PolsatNewsPolityka.pl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Polsat_News_Polityka_2024_gradient.svg/320px-Polsat_News_Polityka_2024_gradient.svg.png" group-title="News",Polsat News Polityka
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|8afd0de0003c402f97718265d4cbbc09:e4811e4047c8d2e237a9e0b34c29a6cd
-http://cdn-s-lb2.pluscdn.pl/ch/1456334/125/dash/942dedf3/live.mpd
+http://cdn-s-lb2.pluscdn.pl/lv/1511888/322/dash/52a9b70b/live.mpd
 #EXTINF:-1 tvg-id="PolsatRodzina.pl@SD" tvg-logo="https://i.imgur.com/IS0AW48.png" group-title="Undefined",Polsat Rodzina
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|afb7b739064445dea487bfa6ee02ab09:91627a6898723764fbf1e03f19b6ca71
