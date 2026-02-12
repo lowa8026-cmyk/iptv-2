@@ -67,7 +67,7 @@ http://cdn-s-lb2.pluscdn.pl/lv/1511888/322/dash/52a9b70b/live.mpd
 http://cdn-s-lb2.pluscdn.pl/ch/1454619/45/dash/c6981602/live.mpd
 #EXTINF:-1 tvg-id="PolsatSport1.pl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Polsat_Sport_1_2024.svg/353px-Polsat_Sport_1_2024.svg.png" group-title="Sports",Polsat Sport 1
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adapive.drm_legacy=org.w3.clearkey|590abbe92e6e470a9e355d58ec910709:0af2b5f2450474207f6761adc9dc635e
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|590abbe92e6e470a9e355d58ec910709:0af2b5f2450474207f6761adc9dc635e
 http://cdn-s-lb2.pluscdn.pl/ch/1456452/129/dash/ffe2048f/live.mpd
 #EXTINF:-1 tvg-id="PolsatSport2.pl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Polsat_Sport_2_2024.svg/375px-Polsat_Sport_2_2024.svg.png" group-title="Sports",Polsat Sport 2
 #KODIPROP:inputstream=inputstream.adaptive
