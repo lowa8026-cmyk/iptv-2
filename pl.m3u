@@ -40,6 +40,7 @@ http://cdn-s-lb2.pluscdn.pl/ch/1457734/144/dash/0be7047a/live.mpd
 #EXTINF:-1 tvg-id="ElevenSports4.pl@SD" tvg-logo="https://i.imgur.com/SEKXaAW.png" group-title="Sports",Eleven Sports 4
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|
+
 #EXTINF:-1 tvg-id="GramyDalej.pl@SD" tvg-logo="https://ipla-e1-83.pluscdn.pl/img/p/owHqr0SI-u_e/1920x1080/p/cms_thumbnails/67/67aaiss1ib3pm7vnxheqv7eaitj1er8h.jpg" group-title="Sports",Gramy Dalej
 http://cdn-s-lb2.pluscdn.pl/lv/1517832/351/dash/2699af69/live.mpd
 #EXTINF:-1 tvg-id="Polsat2.pl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Polsat_2_2021_gradient.svg/512px-Polsat_2_2021_gradient.svg.png" group-title="General",Polsat 2
