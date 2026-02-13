@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1Plus1International.ua@Poland" tvg-logo="https://i.imgur.com/LOY0rtp.png" group-title="General",1+1 International
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|18ebce6789a7423492337e05b8431409:3e74e23e52bdf7fb89ef9052c750835f
-http://cdn-s-lb2.pluscdn.pl/ch/1457285/140/dash/8d59a274/live.mpd
 #EXTINF:-1 tvg-id="4FunDance.pl@SD" tvg-logo="https://i.imgur.com/ZEWHe1B.png" group-title="Music",4 Fun Dance
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|27fa105777034df68c5a98636a294809:271352c0b11034d33239a00c68dfcd03
@@ -147,5 +143,31 @@ http://cdn-s-lb2.pluscdn.pl/ch/1454401/35/dash/c8b2b0fc/live.mpd
 #EXTINF:-1 tvg-id="WPolscePL.pl@SD" tvg-logo="https://i.imgur.com/HQ8UyhL.png" group-title="Undefined",W Polsce PL
 https://str.onnetwork.tv/hls/onnet-358726_hi/index.m3u8
 #EXTINF:-1 tvg-id="WPTV.pl@SD" tvg-logo="https://ocdn.eu/ptv2-images-transforms/1/NIbkrRsb2dvLW1pZ3JhdGVkL3dwLnBuZ5KVAmQAwsOVAgAowsM" group-title="Undefined",WP TV
-
 #EXTINF:-1 tvg-id="ZoomTV.pl@SD" tvg-logo="https://i.imgur.com/UtZM4zm.png" group-title="Undefined",Zoom TV
+
+#EXTINF:-1 tvg-id="1Plus1International.ua@Poland" tvg-logo="https://i.imgur.com/LOY0rtp.png" group-title="General",1+1 International
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|18ebce6789a7423492337e05b8431409:3e74e23e52bdf7fb89ef9052c750835f
+http://cdn-s-lb2.pluscdn.pl/ch/1457285/140/dash/8d59a274/live.mpd
+#EXTINF:-1 tvg-id="Dacha.ua@Poland" tvg-logo="https://i.imgur.com/xq6p9BZ.png" group-title="Undefined",Dacha
+https://polsatboxgo.pl/kanaly-tv/Dacha%20HD/1457289
+#EXTINF:-1 tvg-id="FilmUADrama.ua@Poland" tvg-logo="https://i.imgur.com/Hnwsh5d.png" group-title="Movies;Series",FILM UA DRAMA
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|cd974b7eccc04036bbfdb480247e2a09:6ef71fb50928889cac3b5b22a8810499
+http://cdn-s-lb2.pluscdn.pl/ch/1457280/136/dash/c2d72497/live.mpd
+#EXTINF:-1 tvg-id="KusKus.ua@Poland" tvg-logo="https://i.imgur.com/4a4qX0P.png" group-title="Undefined",Kus Kus
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|6008928a858a44a18e3ee073ea0f8509:526d4bc1e50beb0287629d1e8a75699d
+http://cdn-s-lb2.pluscdn.pl/ch/1457287/141/dash/7fb912ff/live.mpd
+#EXTINF:-1 tvg-id="KvartalTV.ua@Poland" tvg-logo="https://i.imgur.com/6ZYWizP.png" group-title="Entertainment",Kvartal TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|9e6fc676d0ed4739a9e53ec9439aff09:685dd06df030b7aecbecfd20185e9887
+http://cdn-s-lb2.pluscdn.pl/ch/1457295/143/dash/24b57151/live.mpd
+#EXTINF:-1 tvg-id="StarCinema.ua@Poland" tvg-logo="https://i.imgur.com/5sis895.png" group-title="Movies",Star Cinema
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|32068a135d954820a935caef9063e509:c91be36a50c748b859de300b8982cb30
+http://cdn-s-lb2.pluscdn.pl/ch/1457282/138/dash/c2290bec/live.mpd
+#EXTINF:-1 tvg-id="XSportPlus.ua@Poland" tvg-logo="https://i.imgur.com/epnnKsB.png" group-title="Sports",X-Sport+ HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|ab905bbff5c04162b163733b95e04009:b6149b6f4e46a94203f174fc8377ce52
+http://cdn-s-lb2.pluscdn.pl/ch/1457755/148/dash/a89944af/live.mpd
