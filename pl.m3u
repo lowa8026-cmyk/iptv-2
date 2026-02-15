@@ -48,9 +48,10 @@ http://cdn-s-lb2.pluscdn.pl/ch/1457734/144/dash/0be7047a/live.mpd
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|6bc79230be5548d5a43a43ac3c3dd909:b6bd93258f0386783831f9deda16d84c
 http://cdn-s-lb2.pluscdn.pl/ch/1455822/107/dash/43f4a0af/live.mpd
-#EXTINF:-1 tvg-id="PolsatCafe.pl@SD" tvg-logo="" group-title="Undefined",Polsat Cafe
+#EXTINF:-1 tvg-id="PolsatCafe.pl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Polsat_Caf%C3%A9_2021_gradient.svg/512px-Polsat_Caf%C3%A9_2021_gradient.svg.png" group-title="Undefined",Polsat Cafe
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|1e6f08a20a264fda94578a7e3b635b09:a40238be5a3225d5d21e23d7768f67dd
+http://cdn-s-lb2.pluscdn.pl/ch/1455748/98/dash/6070cf90/live.mpd
 #EXTINF:-1 tvg-id="GramyDalej.pl@SD" tvg-logo="https://ipla-e1-83.pluscdn.pl/img/p/owHqr0SI-u_e/1920x1080/p/cms_thumbnails/67/67aaiss1ib3pm7vnxheqv7eaitj1er8h.jpg" group-title="Sports",Gramy Dalej
 http://cdn-s-lb2.pluscdn.pl/lv/1517832/351/dash/2699af69/live.mpd
 #EXTINF:-1 tvg-id="Polsat2.pl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Polsat_2_2021_gradient.svg/512px-Polsat_2_2021_gradient.svg.png" group-title="General",Polsat 2
