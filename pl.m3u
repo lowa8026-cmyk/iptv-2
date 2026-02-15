@@ -23,6 +23,10 @@ https://liveovh009.cda.pl/ajbTaU7DSSfSeeVbGGuHCw/1767075029/33/enc128/canalplusd
 https://liveovh009.cda.pl/ajbTaU7DSSfSeeVbGGuHCw/1767075029/33/enc125/canalpluskuchniahdraw/canalpluskuchniahdraw.mpd
 #EXTINF:-1 tvg-id="CanalPlusSport5.pl@SD" tvg-logo="https://i.imgur.com/DxobYMS.png" group-title="Sports",Canal+ Sport 5
 https://liveovh009.cda.pl/ajbTaU7DSSfSeeVbGGuHCw/1767075029/33/enc130/canalplussport5hdraw/canalplussport5hdraw.mpd
+#EXTINF:-1 tvg-id="Cartoonito.pl@SD" tvg-logo="https://i.imgur.com/QANm5Tw.png" group-title="Kids",Cartoonito
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|b1dadabe8ad44703965850a43cfb2809:50229ab2b86d764c39a7642d0a4f4971
+http://cdn-s-lb2.pluscdn.pl/ch/1455412/73/dash/cb00a9a6/live.mpd
 #EXTINF:-1 tvg-id="DAZNCombat.uk@Poland" tvg-logo="https://i.postimg.cc/VsW3Jsrz/logo-DAZN-Combat.png" group-title="Sports",DAZN Combat
 https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8
 #EXTINF:-1 tvg-id="DiscoveryLife.pl@SD" tvg-logo="https://i.imgur.com/aMCoSWI.png" group-title="Lifestyle",Discovery Life HD
@@ -98,7 +102,7 @@ https://s-pl-01.mediatool.tv/playout/tbn-abr/tracks-v1a1/mono.ts.m3u8
 https://s-pl-01.mediatool.tv/playout/tbpl-abr/index.m3u8
 #EXTINF:-1 tvg-id="TV4.pl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/TV4Polska.png" group-title="Undefined",TV4
 http://cdn-s-lb2.pluscdn.pl/ch/1502601/309/dash/e25c2c93/live.mpd
-#EXTINF:-1 tvg-id="TVN24.pl@SD" tvg-logo="https://i.imgur.com/zATBgL6.png" group-title="News",TVN24
+#EXTINF:-1 tvg-id="TVN24.pl@SD" tvg-logo="https://i.imgur.com/NA5C8Fl.png" group-title="News",TVN24
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|eccf2ddaba3e4a77a94fe5c4e9549709:d7ce663699ff97783e4fd86be70e1b74
 http://cdn-s-lb2.pluscdn.pl/ch/1456331/124/dash/95a22d15/live.mpd
