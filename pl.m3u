@@ -62,6 +62,18 @@ http://cdn-s-lb2.pluscdn.pl/lv/1517832/351/dash/2699af69/live.mpd
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|
 http://cdn-s-lb2.pluscdn.pl/ch/1455827/112/dash/cd8582f7/live.mpd
+#EXTINF:-1 tvg-id="Polsat.pl@SD" tvg-logo="" group-title="General",Polsat HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|da271baba6e347abb6812a56f5046409:9e61562ac278a57d53037b3fa7ade437
+http://cdn-s-lb2.pluscdn.pl/ch/1445662/7/dash/0c3f3109/live.mpd
+#EXTINF:-1 tvg-id="TV4.pl@SD" tvg-logo="" group-title="General",TV4 HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|939653a71df243a2bd2dfbb6cd0e5b09:c686c9668c76d091f4cecc30016f34a6
+http://cdn-s-lb2.pluscdn.pl/ch/1443260/6/dash/d90108bd/live.mpd
+#EXTINF:-1 tvg-id="PolsatNews.pl@SD" tvg-logo="" group-title="News",Polsat News HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|b8344e8185b04180a7c31b2339acc309:aa8a53b764b67a2b48f36095843c18c4
+http://cdn-s-lb2.pluscdn.pl/ch/1456330/123/dash/294f032c/live.mpd
 #EXTINF:-1 tvg-id="Polsat.pl@SD" tvg-logo="https://i.imgur.com/xff6zGN.png" group-title="General",Polsat
 http://cdn-s-lb2.pluscdn.pl/ch/1502600/308/dash/20a18c30/live.mpd
 #EXTINF:-1 tvg-id="PolsatDoku.pl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Polsat_Doku_2021_gradient.svg/512px-Polsat_Doku_2021_gradient.svg.png" group-title="Undefined",Polsat Doku
