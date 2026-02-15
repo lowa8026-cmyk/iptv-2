@@ -53,28 +53,16 @@ http://cdn-s-lb2.pluscdn.pl/ch/1457736/145/dash/58566515/live.mpd
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|6bc79230be5548d5a43a43ac3c3dd909:b6bd93258f0386783831f9deda16d84c
 http://cdn-s-lb2.pluscdn.pl/ch/1455822/107/dash/43f4a0af/live.mpd
-#EXTINF:-1 tvg-id="PolsatCafe.pl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Polsat_Caf%C3%A9_2021_gradient.svg/512px-Polsat_Caf%C3%A9_2021_gradient.svg.png" group-title="Undefined",Polsat Cafe
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|1e6f08a20a264fda94578a7e3b635b09:a40238be5a3225d5d21e23d7768f67dd
-http://cdn-s-lb2.pluscdn.pl/ch/1455748/98/dash/6070cf90/live.mpd
 #EXTINF:-1 tvg-id="GramyDalej.pl@SD" tvg-logo="https://ipla-e1-83.pluscdn.pl/img/p/owHqr0SI-u_e/1920x1080/p/cms_thumbnails/67/67aaiss1ib3pm7vnxheqv7eaitj1er8h.jpg" group-title="Sports",Gramy Dalej
 http://cdn-s-lb2.pluscdn.pl/lv/1517832/351/dash/2699af69/live.mpd
+#EXTINF:-1 tvg-id="Nicktoons.pl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Nicktoons_UK_Logo_2014.png" group-title="Kids",Nicktoons
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|03315036a63948e5ab1070f9cac11909:2f798c90b03930467741f62afddd7b75
+http://cdn-s-lb2.pluscdn.pl/ch/1455153/60/dash/504e7d2a/live.mpd
 #EXTINF:-1 tvg-id="Polsat2.pl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Polsat_2_2021_gradient.svg/512px-Polsat_2_2021_gradient.svg.png" group-title="General",Polsat 2
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|
 http://cdn-s-lb2.pluscdn.pl/ch/1455827/112/dash/cd8582f7/live.mpd
-#EXTINF:-1 tvg-id="Polsat.pl@SD" tvg-logo="" group-title="General",Polsat HD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|da271baba6e347abb6812a56f5046409:9e61562ac278a57d53037b3fa7ade437
-http://cdn-s-lb2.pluscdn.pl/ch/1445662/7/dash/0c3f3109/live.mpd
-#EXTINF:-1 tvg-id="TV4.pl@SD" tvg-logo="" group-title="General",TV4 HD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|939653a71df243a2bd2dfbb6cd0e5b09:c686c9668c76d091f4cecc30016f34a6
-http://cdn-s-lb2.pluscdn.pl/ch/1443260/6/dash/d90108bd/live.mpd
-#EXTINF:-1 tvg-id="PolsatNews.pl@SD" tvg-logo="" group-title="News",Polsat News HD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|b8344e8185b04180a7c31b2339acc309:aa8a53b764b67a2b48f36095843c18c4
-http://cdn-s-lb2.pluscdn.pl/ch/1456330/123/dash/294f032c/live.mpd
 #EXTINF:-1 tvg-id="Polsat.pl@SD" tvg-logo="https://i.imgur.com/xff6zGN.png" group-title="General",Polsat
 http://cdn-s-lb2.pluscdn.pl/ch/1502600/308/dash/20a18c30/live.mpd
 #EXTINF:-1 tvg-id="PolsatDoku.pl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Polsat_Doku_2021_gradient.svg/512px-Polsat_Doku_2021_gradient.svg.png" group-title="Undefined",Polsat Doku
