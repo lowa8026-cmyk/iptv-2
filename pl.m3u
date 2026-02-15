@@ -47,7 +47,8 @@ https://lineartv-cdn.t-mobile.pl/bpk-tv/elevensports14k/default/index.mpd
 http://cdn-s-lb2.pluscdn.pl/ch/1457734/144/dash/0be7047a/live.mpd
 #EXTINF:-1 tvg-id="ElevenSports3.pl@SD" tvg-logo="https://i.imgur.com/bWjGol4.png" group-title="Sports",Eleven Sports 3
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|e006dab396714c0b9dd6228255c1b709:39066357581084f39495c63c0ac3cc8c
+http://cdn-s-lb2.pluscdn.pl/ch/1457736/145/dash/58566515/live.mpd
 #EXTINF:-1 tvg-id="Fox.pl@SD" tvg-logo="https://i.imgur.com/JUqnuro.png" group-title="Entertainment",FX
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|6bc79230be5548d5a43a43ac3c3dd909:b6bd93258f0386783831f9deda16d84c
