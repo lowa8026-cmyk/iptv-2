@@ -98,15 +98,18 @@ http://cdn-s-lb2.pluscdn.pl/ch/1502601/309/dash/e25c2c93/live.mpd
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|eccf2ddaba3e4a77a94fe5c4e9549709:d7ce663699ff97783e4fd86be70e1b74
 http://cdn-s-lb2.pluscdn.pl/ch/1456331/124/dash/95a22d15/live.mpd
-#EXTINF:-1 tvg-id="TVN24BIS.pl@SD" tvg-logo="https://i.imgur.com/X5csce5.png" group-title="News",TVN24 BiS
+#EXTINF:-1 tvg-id="TVN24BiS.pl@SD" tvg-logo="https://i.imgur.com/X5csce5.png" group-title="News",TVN24 BiS
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|07c697b01eac59cd41167e6da1a07d09:07503ea149e64a50e76c3bd8213ecc61
+https://s7.vizja.cc/TVN24BIS/manifest.mpd
 #EXTINF:-1 tvg-id="TVNStyle.pl@SD" tvg-logo="https://i.imgur.com/Ver13bi.png" group-title="Lifestyle",TVN Style
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|2163305e0fba4b40a9fb8f64925a1c09:aac7db9a1082f598fea26874eaa594be
+http://cdn-s-lb2.pluscdn.pl/ch/1455163/67/dash/85b8fc46/live.mpd
 #EXTINF:-1 tvg-id="TVNTurbo.pl@SD" tvg-logo="https://i.imgur.com/4qtR66S.png" group-title="Auto",TVN Turbo
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|7cc8c95420234b7cb3e20e63a6236909:589f9c2efbca25d28242a5ef5f91bf61
+http://cdn-s-lb2.pluscdn.pl/ch/1455833/118/dash/e000f5d3/live.mpd
 #EXTINF:-1 tvg-id="TVOkazje.pl@SD" tvg-logo="https://i.imgur.com/DbALkkV.png" group-title="Undefined",TV Okazje
 http://cdn-s-lb2.pluscdn.pl/ch/1523532/366/dash/2cf383bb/live.mpd
 #EXTINF:-1 tvg-id="TVP1.pl@SD" tvg-logo="https://i.imgur.com/ewpSjBs.png" group-title="Undefined",TVP1 HD
