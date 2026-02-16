@@ -7,6 +7,10 @@ https://cdn-s-lb2.pluscdn.pl/ch/1454062/16/dash/c9968589/live.mpd
 https://stream.4fun.tv:8889/hls/4fk_high/index.m3u8
 #EXTINF:-1 tvg-id="4FunTV.pl@SD" tvg-logo="https://i.imgur.com/rI1wo2l.png" group-title="Music",4 Fun TV
 https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
+#EXTINF:-1 tvg-id="AnimalPlanet.pl@SD" tvg-logo="" group-title="Documentary",Animal Planet HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aacfb8a827e14de58635e0ee95251809:8e15978e0ca7f1abf053fabd2b16abe8
+http://cdn-s-lb2.pluscdn.pl/ch/1454627/49/dash/22533008/live.mpd
 #EXTINF:-1 tvg-id="AXNBlack.pl@SD" tvg-logo="https://i.imgur.com/Nqvx6nz.png" group-title="",AXN Black
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|cd8582f78c3c1e52e2fb4b39c3286309:aaf11012cd7b9d5d2110fe1c7ce4o3db
@@ -55,10 +59,10 @@ http://cdn-s-lb2.pluscdn.pl/ch/1457736/145/dash/58566515/live.mpd
 http://cdn-s-lb2.pluscdn.pl/ch/1455822/107/dash/43f4a0af/live.mpd
 #EXTINF:-1 tvg-id="GramyDalej.pl@SD" tvg-logo="https://ipla-e1-83.pluscdn.pl/img/p/owHqr0SI-u_e/1920x1080/p/cms_thumbnails/67/67aaiss1ib3pm7vnxheqv7eaitj1er8h.jpg" group-title="Sports",Gramy Dalej
 http://cdn-s-lb2.pluscdn.pl/lv/1517832/351/dash/2699af69/live.mpd
-#EXTINF:-1 tvg-id="Nicktoons.pl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Nicktoons_UK_Logo_2014.png" group-title="Kids",Nicktoons
+#EXTINF:-1 tvg-id="Metro.pl@SD" tvg-logo="" group-title="Entertainment",Metro
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|03315036a63948e5ab1070f9cac11909:2f798c90b03930467741f62afddd7b75
-http://cdn-s-lb2.pluscdn.pl/ch/1455153/60/dash/504e7d2a/live.mpd
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|affadbe94f70409ab69a7c60838b6d09:d402506c3eaf43e226005f6b534e675a
+http://cdn-s-lb2.pluscdn.pl/ch/1457279/135/dash/27135140/live.mpd
 #EXTINF:-1 tvg-id="Polsat2.pl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Polsat_2_2021_gradient.svg/512px-Polsat_2_2021_gradient.svg.png" group-title="General",Polsat 2
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|
