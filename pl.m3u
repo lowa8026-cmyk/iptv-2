@@ -7,7 +7,7 @@ https://cdn-s-lb2.pluscdn.pl/ch/1454062/16/dash/c9968589/live.mpd
 https://stream.4fun.tv:8889/hls/4fk_high/index.m3u8
 #EXTINF:-1 tvg-id="4FunTV.pl@SD" tvg-logo="https://i.imgur.com/rI1wo2l.png" group-title="Music",4 Fun TV
 https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
-#EXTINF:-1 tvg-id="AnimalPlanet.pl@SD" tvg-logo="" group-title="Documentary",Animal Planet HD
+#EXTINF:-1 tvg-id="AnimalPlanet.pl@SD" tvg-logo="https://i.imgur.com/N9EcXRx.png" group-title="Documentary",Animal Planet HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aacfb8a827e14de58635e0ee95251809:8e15978e0ca7f1abf053fabd2b16abe8
 http://cdn-s-lb2.pluscdn.pl/ch/1454627/49/dash/22533008/live.mpd
@@ -59,6 +59,22 @@ http://cdn-s-lb2.pluscdn.pl/ch/1457736/145/dash/58566515/live.mpd
 http://cdn-s-lb2.pluscdn.pl/ch/1455822/107/dash/43f4a0af/live.mpd
 #EXTINF:-1 tvg-id="GramyDalej.pl@SD" tvg-logo="https://ipla-e1-83.pluscdn.pl/img/p/owHqr0SI-u_e/1920x1080/p/cms_thumbnails/67/67aaiss1ib3pm7vnxheqv7eaitj1er8h.jpg" group-title="Sports",Gramy Dalej
 http://cdn-s-lb2.pluscdn.pl/lv/1517832/351/dash/2699af69/live.mpd
+#EXTINF:-1 tvg-id="HBO.pl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Movies;Series",HBO
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|8847dc56894445368b84b0758972f009:856d320e0ae4a9eab8e0e03517a363de
+http://cdn-s-lb2.pluscdn.pl/ch/1455492/93/dash/9922d660/live.mpd
+#EXTINF:-1 tvg-id="HBO2.pl@SD" tvg-logo="https://i.imgur.com/2e3muOJ.png" group-title="Movies;Series",HBO 2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|83c9b4c1296e43aeb504b69694ddef09:cd9fac77eed314c924c814420bfdc572
+http://cdn-s-lb2.pluscdn.pl/ch/1455433/85/dash/56f7c328/live.mpd
+#EXTINF:-1 tvg-id="HBO3.pl@SD" tvg-logo="https://i.imgur.com/3QIHh2V.png" group-title="Movies;Series",HBO 3
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|3be77f34e29640eca783805f5d934509:8f3c52710dc35dc97379e6c591094d51
+http://cdn-s-lb2.pluscdn.pl/ch/1455151/58/dash/8348cfc8/live.mpd
+#EXTINF:-1 tvg-id="HGTV.pl@SD" tvg-logo="https://i.imgur.com/mGIeIDM.png" group-title="Lifestyle",HGTV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|e47e9cf1a5b741dd814cae71b1b57009:e335930dfc9fbc032f882bf9dad5acb6
+http://cdn-s-lb2.pluscdn.pl/ch/1455434/86/dash/34c0beea/live.mpd
 #EXTINF:-1 tvg-id="Metro.pl@SD" tvg-logo="" group-title="Entertainment",Metro
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|affadbe94f70409ab69a7c60838b6d09:d402506c3eaf43e226005f6b534e675a
