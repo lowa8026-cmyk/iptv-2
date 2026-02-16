@@ -49,7 +49,7 @@ http://cdn-s-lb2.pluscdn.pl/ch/1454624/47/dash/95c42be4/live.mpd
 http://cdn-s-lb2.pluscdn.pl/ch/1457744/147/dash/4867711b/live.mpd
 #EXTINF:-1 tvg-id="ElevenSports14K.pl@SD" tvg-logo="https://i.imgur.com/7XLNdsk.png" group-title="Sports",Eleven Sports 1 4K
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|4fa8879bcc2d5b45a81f9ecd3dffb394:53dab3288af491d995612d57553b674e
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|{"4667fdeaed8654a4a4ceff52000947ba":"e3ba08c12d87690b8accbc91659240e3","571dba7341575a589d510c83bf94758c":"bee392a9b992154bd711c6d31ac9d7ec","1855ecfdfb215785a78ae3c62773dcb2":"e9a4f881e7b18a1f0dd10a698690dace","4fa8879bcc2d5b45a81f9ecd3dffb394":"53dab3288af491d995612d57553b674e"}
 https://lineartv-cdn.t-mobile.pl/bpk-tv/elevensports14k/default/index.mpd
 #EXTINF:-1 tvg-id="ElevenSports2.pl@SD" tvg-logo="https://i.imgur.com/bTIRgqG.png" group-title="Sports",Eleven Sports 2
 #KODIPROP:inputstream=inputstream.adaptive
