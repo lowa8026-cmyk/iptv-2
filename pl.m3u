@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:0, TVP 1
-https://lowa8026-cmyk.github.io/iptv/stream/tvp1
-#EXTINF:0, TVP 2
-https://lowa8026-cmyk.github.io/iptv/stream/tvp2
-#EXTINF:0, TV Republika
-https://lowa8026-cmyk.github.io/iptv/stream/republika
 #EXTINF:-1 tvg-id="4FunDance.pl@SD" tvg-logo="https://i.imgur.com/ZEWHe1B.png" group-title="Music",4 Fun Dance
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|27fa105777034df68c5a98636a294809:271352c0b11034d33239a00c68dfcd03
@@ -47,9 +41,9 @@ http://cdn-s-lb2.pluscdn.pl/ch/1454624/47/dash/95c42be4/live.mpd
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|525a9da2120045a6973709dbcd685609:d8a7578d81ce754755a503ad8ac98ec0
 http://cdn-s-lb2.pluscdn.pl/ch/1457744/147/dash/4867711b/live.mpd
-#EXTINF:-1 tvg-id="ElevenSports14K.pl@SD" tvg-logo="https://i.imgur.com/7XLNdsk.png" group-title="Sports",Eleven Sports 1 4K
+#EXTINF:-1 tvg-id="ElevenSports14K.pl@SD" tvg-logo="https://i.imgur.com/7XNdsk.png" group-title="Sports",Eleven Sports 1 4K
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|{"4667fdeaed8654a4a4ceff52000947ba":"e3ba08c12d87690b8accbc91659240e3","571dba7341575a589d510c83bf94758c":"bee392a9b992154bd711c6d31ac9d7ec","1855ecfdfb215785a78ae3c62773dcb2":"e9a4f881e7b18a1f0dd10a698690dace","4fa8879bcc2d5b45a81f9ecd3dffb394":"53dab3288af491d995612d57553b674e"}
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|4667fdeaed8654a4a4ceff52000947ba:e3ba08c12d87690b8accbc91659240e3,571dba7341575a589d510c83bf94758c:bee392a9b992154bd711c6d31ac9d7ec,1855ecfdfb215785a78ae3c62773dcb2:e9a4f881e7b18a1f0dd10a698690dace,4fa8879bcc2d5b45a81f9ecd3dffb394:53dab3288af491d995612d57553b674e
 https://lineartv-cdn.t-mobile.pl/bpk-tv/elevensports14k/default/index.mpd
 #EXTINF:-1 tvg-id="ElevenSports2.pl@SD" tvg-logo="https://i.imgur.com/bTIRgqG.png" group-title="Sports",Eleven Sports 2
 #KODIPROP:inputstream=inputstream.adaptive
@@ -59,6 +53,10 @@ http://cdn-s-lb2.pluscdn.pl/ch/1457734/144/dash/0be7047a/live.mpd
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|e006dab396714c0b9dd6228255c1b709:39066357581084f39495c63c0ac3cc8c
 http://cdn-s-lb2.pluscdn.pl/ch/1457736/145/dash/58566515/live.mpd
+#EXTINF:-1 tvg-id="FoodNetwork.pl@SD" tvg-logo="https://i.imgur.com/ywCUUiM.png" group-title="Cooking",Food Network
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|2a7738c586bf41d8b11b19bb85c41409:3173971e7c0a9422297ee6fd3211b606
+http://cdn-s-lb2.pluscdn.pl/ch/1455169/70/dash/5c0c41d0/live.mpd
 #EXTINF:-1 tvg-id="Fox.pl@SD" tvg-logo="https://i.imgur.com/JUqnuro.png" group-title="Entertainment",FX
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|6bc79230be5548d5a43a43ac3c3dd909:b6bd93258f0386783831f9deda16d84c
@@ -119,6 +117,8 @@ http://cdn-s-lb2.pluscdn.pl/ch/1456452/129/dash/ffe2048f/live.mpd
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|3201accccbe9455cbc28dcd4bcdf1509:f4d9a50f98ea833d2e5120d83bd59a23
 http://lb2-e1-82.pluscdn.pl/ch/1455745/96/dash/3880d03f/live.mpd
+#EXTINF:-1 tvg-id="PolsatViasatNature.pl@SD" tvg-logo="https://i.imgur.com/TUcM0oS.png" group-title="Documentary",Polsat Viasat Nature
+https://liveovh011.cda.pl/2SHZi_SkX4h0MDflza1PPw/1753748478/3480440/enc104/polsatviasatnaturehdraw/polsatviasatnaturehdraw.mpd
 #EXTINF:-1 tvg-id="Puls2.pl@SD" tvg-logo="https://i.postimg.cc/mk8Wt6gM/puls2.png" group-title="Undefined",Puls 2
 https://edge06.cdn.emitel.pl/bpk-tv/Puls2_HD/hbbtv-dash/index.mpd
 #EXTINF:-1 tvg-id="SzlagierTV.pl@SD" tvg-logo="https://i.imgur.com/VQk19Ng.png" group-title="General",Szlagier TV
@@ -129,6 +129,12 @@ https://s-pl-01.mediatool.tv/playout/tbn-abr/tracks-v1a1/mono.ts.m3u8
 https://s-pl-01.mediatool.tv/playout/tbpl-abr/index.m3u8
 #EXTINF:-1 tvg-id="TV4.pl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/TV4Polska.png" group-title="Undefined",TV4
 http://cdn-s-lb2.pluscdn.pl/ch/1502601/309/dash/e25c2c93/live.mpd
+#EXTINF:-1 tvg-id="TVKujawy.pl@SD" tvg-logo="https://i.imgur.com/dGP7cIW.png" group-title="Undefined",TV Kujawy
+http://stream.tvkujawy.pl:8080/live/broadcast.m3u8
+#EXTINF:-1 tvg-id="TVRepublika.pl@SD" tvg-logo="https://i.imgur.com/ljpK6dZ.png" group-title="Undefined",TV Republika
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|a7e42cd2aace4a49ae04d2760e5d8209:f35e1b491f61f8bcf372afcb1315e6e3
+http://cdn-s-lb2.pluscdn.pl/ch/1454064/17/dash/cc140553/live.mpd
 #EXTINF:-1 tvg-id="TVN24.pl@SD" tvg-logo="https://i.imgur.com/NA5C8Fl.png" group-title="News",TVN24
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|eccf2ddaba3e4a77a94fe5c4e9549709:d7ce663699ff97783e4fd86be70e1b74
@@ -209,6 +215,7 @@ https://str.onnetwork.tv/hls/onnet-358726_hi/index.m3u8
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|b59614272dca45039f5cdb9bf1fdd909:93eb4fc00feeba1052d133487b52ec40
 http://cdn-s-lb2.pluscdn.pl/ch/1455762/103/dash/08f9f0ab/live.mpd
 #EXTINF:-1 tvg-id="WPTV.pl@SD" tvg-logo="https://ocdn.eu/ptv2-images-transforms/1/NIbkrRsb2dvLW1pZ3JhdGVkL3dwLnBuZ5KVAmQAwsOVAgAowsM" group-title="Undefined",WP TV
+https://liveovh011.cda.pl/P8IjbpepCvx7lF8FyJcdAQ/1755751084/2430238/enc109/wphdraw/wphdraw.m3u8
 #EXTINF:-1 tvg-id="ZoomTV.pl@SD" tvg-logo="https://i.imgur.com/UtZM4zm.png" group-title="Undefined",Zoom TV
 
 #EXTINF:-1 tvg-id="1Plus1International.ua@Poland" tvg-logo="https://i.imgur.com/LOY0rtp.png" group-title="General",1+1 International
