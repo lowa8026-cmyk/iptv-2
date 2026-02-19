@@ -131,6 +131,8 @@ https://s-pl-01.mediatool.tv/playout/tbpl-abr/index.m3u8
 http://cdn-s-lb2.pluscdn.pl/ch/1502601/309/dash/e25c2c93/live.mpd
 #EXTINF:-1 tvg-id="TVKujawy.pl@SD" tvg-logo="https://i.imgur.com/dGP7cIW.png" group-title="Undefined",TV Kujawy
 http://stream.tvkujawy.pl:8080/live/broadcast.m3u8
+#EXTINF:-1 tvg-id="TVKujawy.pl@SD" tvg-logo="https://i.imgur.com/dGP7cIW.png" group-title="Undefined",TV Kujawy HD
+rtmp://stream.tvkujawy.pl/live/broadcast
 #EXTINF:-1 tvg-id="TVRepublika.pl@SD" tvg-logo="https://i.imgur.com/ljpK6dZ.png" group-title="Undefined",TV Republika
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|a7e42cd2aace4a49ae04d2760e5d8209:f35e1b491f61f8bcf372afcb1315e6e3
