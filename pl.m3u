@@ -43,16 +43,20 @@ http://cdn-s-lb2.pluscdn.pl/ch/1454624/47/dash/95c42be4/live.mpd
 http://cdn-s-lb2.pluscdn.pl/ch/1457744/147/dash/4867711b/live.mpd
 #EXTINF:-1 tvg-id="ElevenSports14K.pl@SD" tvg-logo="https://i.imgur.com/7XLNdsk.png" group-title="Sports",Eleven Sports 1 4K
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|4667fdeaed8654a4a4ceff52000947ba:e3ba08c12d87690b8accbc91659240e3,571dba7341575a589d510c83bf94758c:bee392a9b992154bd711c6d31ac9d7ec,1855ecfdfb215785a78ae3c62773dcb2:e9a4f881e7b18a1f0dd10a698690dace,4fa8879bcc2d5b45a81f9ecd3dffb394:53dab3288af491d995612d57553b674e
-https://lineartv-cdn.t-mobile.pl/bpk-tv/elevensports14k/default/index.mpd
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|294098a230573fe6b2b86939bf0456b4:1f7829b7a083aa81e0e8316ed4f169c1
+https://r.e.blueonline.tv/l/tvsmart/live/eds/Eleven_Sport_1_4K/DHD1/Manifest.mpd
 #EXTINF:-1 tvg-id="ElevenSports2.pl@SD" tvg-logo="https://i.imgur.com/bTIRgqG.png" group-title="Sports",Eleven Sports 2
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|2cd12eaca5c14b30a3280b1a89484809:e2c14f6cc245c1a5ebbce8c8c704fc6c
 http://cdn-s-lb2.pluscdn.pl/ch/1457734/144/dash/0be7047a/live.mpd
 #EXTINF:-1 tvg-id="ElevenSports3.pl@SD" tvg-logo="https://i.imgur.com/bWjGol4.png" group-title="Sports",Eleven Sports 3
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|e006dab396714c0b9dd6228255c1b709:39066357581084f39495c63c0ac3cc8c
-http://cdn-s-lb2.pluscdn.pl/ch/1457736/145/dash/58566515/live.mpd
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|04d4986779f83c4ea66e8b40ba5fdbe2:dfb468393cf05ed5dbc73610038f1ca5
+https://r.e.blueonline.tv/l/tvsmart/live/eds/Eleven_Sports_3/D11/Manifest.mpd
+#EXTINF:-1 tvg-id="ElevenSports4.pl@SD" tvg-logo="https://i.imgur.com/SEKXaAW.png" group-title="Sports",Eleven Sports 4
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|1adfd751aa863aea90cbcfe9676d1b99:00d7057f080e261e1b303075d9a3e52d
+https://r.e.blueonline.tv/l/tvsmart/live/eds/Eleven_Sports_4/D11/Manifest.mpd
 #EXTINF:-1 tvg-id="FoodNetwork.pl@SD" tvg-logo="https://i.imgur.com/ywCUUiM.png" group-title="Cooking",Food Network
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|2a7738c586bf41d8b11b19bb85c41409:3173971e7c0a9422297ee6fd3211b606
@@ -143,8 +147,8 @@ http://cdn-s-lb2.pluscdn.pl/ch/1454064/17/dash/cc140553/live.mpd
 http://cdn-s-lb2.pluscdn.pl/ch/1456331/124/dash/95a22d15/live.mpd
 #EXTINF:-1 tvg-id="TVN24BiS.pl@SD" tvg-logo="https://i.imgur.com/X5csce5.png" group-title="News",TVN24 BiS
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|07c697b01eac59cd41167e6da1a07d09:07503ea149e64a50e76c3bd8213ecc61
-https://s7.vizja.cc/TVN24BIS/manifest.mpd
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|6779223a827f57b8ff43c14dd6ea449c:459dcaa38d107defd9b931f5cba5211c
+https://r.dcs.redcdn.pl/livedash/play/playtv/indigo/live/tvn24_bis/live.livx?indexMode
 #EXTINF:-1 tvg-id="TVNStyle.pl@SD" tvg-logo="https://i.imgur.com/Ver13bi.png" group-title="Lifestyle",TVN Style
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|2163305e0fba4b40a9fb8f64925a1c09:aac7db9a1082f598fea26874eaa594be
