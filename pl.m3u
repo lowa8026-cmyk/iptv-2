@@ -120,7 +120,34 @@ http://cdn-s-lb2.pluscdn.pl/ch/1456452/129/dash/ffe2048f/live.mpd
 #EXTINF:-1 tvg-id="PolsatSport2.pl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Polsat_Sport_2_2024.svg/375px-Polsat_Sport_2_2024.svg.png" group-title="Sports",Polsat Sport 2
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|3201accccbe9455cbc28dcd4bcdf1509:f4d9a50f98ea833d2e5120d83bd59a23
-http://lb2-e1-82.pluscdn.pl/ch/1455745/96/dash/3880d03f/live.mpd
+http://cdn-s-lb2.pluscdn.pl/ch/1455745/96/dash/3880d03f/live.mpd
+#EXTINF:-1 tvg-id="PolsatSport3.pl@SD" tvg-logo="" group-title="Sports",Polsat Sport 3
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|
+http://cdn-s-lb2.pluscdn.pl/ch/1455832/117/dash/790ff37c/live.mpd
+#EXTINF:-1 tvg-id="PolsatSportFight.pl@SD" tvg-logo="" group-title="Sports",Polsat Sport Fight
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|
+http://cdn-s-lb2.pluscdn.pl/ch/1455746/97/dash/0dd0a424/live.mpd
+#EXTINF:-1 tvg-id="PolsatSportPremium1.pl@SD" tvg-logo="" group-title="Sports",Polsat Sport Premium 1
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|
+https://corsproxy.io/https://lb2-e3-16.pluscdn.pl/ch/1459449/266/dash/edb3b20d/live.mpd
+#EXTINF:-1 tvg-id="PolsatSportPremium2.pl@SD" tvg-logo="" group-title="Sports",Polsat Sport Premium 2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|
+#EXTINF:-1 tvg-id="PolsatSportExtra1.pl@SD" tvg-logo="" group-title="Sports",Polsat Sport Extra 1
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|
+#EXTINF:-1 tvg-id="PolsatSportExtra2.pl@SD" tvg-logo="" group-title="Sports",Polsat Sport Extra 2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|
+#EXTINF:-1 tvg-id="PolsatSportExtra3.pl@SD" tvg-logo="" group-title="Sports",Polsat Sport Extra 3
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|
+#EXTINF:-1 tvg-id="PolsatSportExtra4.pl@SD" tvg-logo="" group-title="Sports",Polsat Sport Extra 4
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|
 #EXTINF:-1 tvg-id="PolsatViasatNature.pl@SD" tvg-logo="https://i.imgur.com/TUcM0oS.png" group-title="Documentary",Polsat Viasat Nature
 https://liveovh011.cda.pl/2SHZi_SkX4h0MDflza1PPw/1753748478/3480440/enc104/polsatviasatnaturehdraw/polsatviasatnaturehdraw.mpd
 #EXTINF:-1 tvg-id="Puls2.pl@SD" tvg-logo="https://i.postimg.cc/mk8Wt6gM/puls2.png" group-title="Undefined",Puls 2
