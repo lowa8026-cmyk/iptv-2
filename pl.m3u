@@ -157,6 +157,10 @@ https://vefgpbwcjjjbxfng.nazatv.pl/tracks-v1a1/mono.ts.m3u8
 https://s-pl-01.mediatool.tv/playout/tbn-abr/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="TelewizjaBiznesowa.pl@SD" tvg-logo="https://i.imgur.com/XC7i7ZL.png" group-title="Business",Telewizja Biznesowa
 https://s-pl-01.mediatool.tv/playout/tbpl-abr/index.m3u8
+#EXTINF:-1 tvg-id="TTV.pl@SD" tvg-logo="https://i.imgur.com/MrWB4Gc.png" group-title="Undefined",TTV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|6d74e7e5d705252f2d9c454f9945dc69:32468b529c8cd2481adeea50dcd94480
+https://r.dcs.redcdn.pl/livedash/o2/tvnplayer/live/ttv/live.isml/playlist.mpd?indexMode=&dummyfile=&server_side_events=0&dvr=7200000
 #EXTINF:-1 tvg-id="TV4.pl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/TV4Polska.png" group-title="Undefined",TV4
 http://cdn-s-lb2.pluscdn.pl/ch/1502601/309/dash/e25c2c93/live.mpd
 #EXTINF:-1 tvg-id="TVKujawy.pl@SD" tvg-logo="https://i.imgur.com/dGP7cIW.png" group-title="Undefined",TV Kujawy
@@ -167,15 +171,23 @@ rtmp://stream.tvkujawy.pl/live/broadcast
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|a7e42cd2aace4a49ae04d2760e5d8209:f35e1b491f61f8bcf372afcb1315e6e3
 http://cdn-s-lb2.pluscdn.pl/ch/1454064/17/dash/cc140553/live.mpd
-#EXTINF:-1 tvg-id="TVN24.pl@SD" tvg-logo="https://i.imgur.com/NA5C8Fl.png" group-title="News",TVN24
+#EXTINF:-1 tvg-id="TVN.pl@SD" tvg-logo="https://i.imgur.com/XF9Yh0C.png" group-title="Undefined",TVN
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|eccf2ddaba3e4a77a94fe5c4e9549709:d7ce663699ff97783e4fd86be70e1b74
-http://cdn-s-lb2.pluscdn.pl/ch/1456331/124/dash/95a22d15/live.mpd
-#EXTINF:-1 tvg-id="TVN24BiS.pl@SD" tvg-logo="https://i.imgur.com/X5csce5.png" group-title="News",TVN24 BiS
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|88a5e370996b3de3a3361995382d4467:dc29d760cbaf2e17aa8cebd9d39fc5e5
+https://r.dcs.redcdn.pl/livedash/o2/tvnplayer/live/tvn/live.isml/playlist.mpd?indexMode=&dummyfile=&server_side_events=0&dvr=7200000
+#EXTINF:-1 tvg-id="TVN7.pl@SD" tvg-logo="https://i.imgur.com/xfb9r2N.png" group-title="Undefined",TVN 7
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|7c34304083fabe177078a4f8acdd19e8:0be71f99b079bf58a69356b53fcc5be8
+https://r.dcs.redcdn.pl/livedash/o2/tvnplayer/live/tvn_7/live.isml/playlist.mpd?indexMode=&dummyfile=&server_side_events=0&dvr=7200000
+#EXTINF:-1 tvg-id="TVN24.pl@SD" tvg-logo="https://i.imgur.com/NA5C8Fl.png" group-title="Undefined",TVN24
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|cfeda6b8ee85c549e55b9f56e02ff375:c578b1c9c00b917fc84eae4d65bc73ad
+https://r.dcs.redcdn.pl/livedash/o2/tvnplayer/live/tvn_24/live.isml/playlist.mpd?indexMode=&dummyfile=&server_side_events=0&dvr=7200000
+#EXTINF:-1 tvg-id="TVN24BiS.pl@SD" tvg-logo="https://i.imgur.com/X5csce5.png" group-title="Undefined",TVN24 BiS
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|6779223a827f57b8ff43c14dd6ea449c:459dcaa38d107defd9b931f5cba5211c
 https://r.dcs.redcdn.pl/livedash/play/playtv/indigo/live/tvn24_bis/live.livx?indexMode
-#EXTINF:-1 tvg-id="TVNStyle.pl@SD" tvg-logo="https://i.imgur.com/Ver13bi.png" group-title="Lifestyle",TVN Style
+#EXTINF:-1 tvg-id="TVNStyle.pl@SD" tvg-logo="https://i.imgur.com/Ver13bi.png" group-title="Undefined",TVN Style
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|2163305e0fba4b40a9fb8f64925a1c09:aac7db9a1082f598fea26874eaa594be
 http://cdn-s-lb2.pluscdn.pl/ch/1455163/67/dash/85b8fc46/live.mpd
