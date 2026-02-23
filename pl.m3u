@@ -21,6 +21,10 @@ https://s7.vizja.cc/axnblack/manifest.mpd
 http://cdn-s-lb2.pluscdn.pl/ch/1454628/50/dash/da250d71/live.mpd
 #EXTINF:-1 tvg-id="CafeFutbol.pl@SD" tvg-logo="https://ipla-e2-31.pluscdn.pl/p/cms_thumbnails/fk/fk9t77ceyv4osskf5jqw9w818apm2esw.jpeg" group-title="Sports",Cafe Futbol
 http://cdn-s-lb2.pluscdn.pl/lv/1517831/350/dash/e32e6046/live.mpd
+##EXTINF:-1 tvg-id="CanalPlusDokument.pl@SD" tvg-logo="https://i.imgur.com/La6WF7D.png" group-title="Documentary",Canal+ Dokument
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|c526d6fefd8c167290339c8a3c42d8a7:95e1ee7f2a6bdffdf6fd116e1b78786c
+https://r.dcs.redcdn.pl/livedash/o2/tvnplayerncp/live/canal_plus_discovery/live.isml/playlist.mpd?indexMode=&dummyfile=&dvr=7200000
 #EXTINF:-1 tvg-id="CanalPlusDomo.pl@SD" tvg-logo="https://i.imgur.com/Z572QVo.png" group-title="Undefined",Canal+ Domo
 https://liveovh009.cda.pl/ajbTaU7DSSfSeeVbGGuHCw/1767075029/33/enc128/canalplusdomohdraw/canalplusdomohdraw.mpd
 #EXTINF:-1 tvg-id="CanalPlusKuchnia.pl@SD" tvg-logo="https://i.imgur.com/d1JTJBl.png" group-title="Cooking",Canal+ Kuchnia
