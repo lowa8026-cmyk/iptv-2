@@ -2,5 +2,4 @@
 #EXTINF:0, Eleven Sports 1 4K
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|338c95f7a6ca4bf1a5fda30c221eaf09:c815180cb6c1e38e950f84fba41081f7
-#KODIPROP:inputstream.adaptive.common_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-http://hls.redefine.pl/B3B002A2/29263/0/dash_4k/live.mpd
+https://hls.redefine.pl/B3B002A2/29263/0/dash_4k/live.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
