@@ -1,9 +1,6 @@
 #EXTM3U
-#EXTINF:0, Polsat Sport Fight
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=39b61633fdd04e43a3485d3c5ddd1109:6914f88aa49c2edeacc2c876a7fc108f
-https://cdn-s-lb2.pluscdn.pl/ch/1455746/97/dash/0dd0a424/live.mpd
 #EXTINF:0, Eleven Sports 1 4K
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"4667fdeaed8654a4a4ceff52000947ba":"e3ba08c12d87690b8accbc91659240e3","571dba7341575a589d510c83bf94758c":"bee392a9b992154bd711c6d31ac9d7ec","1855ecfdfb215785a78ae3c62773dcb2":"e9a4f881e7b18a1f0dd10a698690dace","4fa8879bcc2d5b45a81f9ecd3dffb394":"53dab3288af491d995612d57553b674e"}
-https://lineartv-cdn.t-mobile.pl/bpk-tv/elevensports14k/default/index.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|338c95f7a6ca4bf1a5fda30c221eaf09:c815180cb6c1e38e950f84fba41081f7
+#KODIPROP:inputstream.adaptive.common_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+http://hls.redefine.pl/B3B002A2/29263/0/dash_4k/live.mpd
