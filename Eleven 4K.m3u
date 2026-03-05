@@ -695,7 +695,7 @@ https://r.dcs.redcdn.pl/webcache/canalplus2/live/store01/11Sports3/hd2-dashdrm02
 #KODIPROP:inputstream.adaptive.license_key={"0bc811aaa10a4c3198aa3b6679198382":"609b0c987d1657f1adc7aa53ae733200","a662726cb8804451961d356d65ba8450":"47f362b448bd8f63d2402d428d352aed","f6818e7c25964791896250a119420d85":"9f67cb00a75a9e0a068918256a227806","2c7dea2fa563424789ea200675e56817":"5bf4b84797df5a8ac149c5bb69d639c4"}
 https://r.dcs.redcdn.pl/webcache/canalplus2/live/store01/11Sports4/hd2-dashdrm02/11Sports4.mpd
 
-EXTINF:-1 group-title="🇵🇱 Eleven Sports 🇵🇱" tvg-id="ElevenSports1_4K.pl" tvg-logo="https://i.postimg.cc/ZYMtw3Cr/es4k.png" group-logo="",Eleven Sports 1 4K 
+#EXTINF:-1 group-title="🇵🇱 Eleven Sports 🇵🇱" tvg-id="ElevenSports1_4K.pl" tvg-logo="https://i.postimg.cc/ZYMtw3Cr/es4k.png" group-logo="",Eleven Sports 1 4K 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
