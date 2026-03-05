@@ -1,5 +1,1254 @@
-#EXTM3U
-#EXTINF:0, Eleven Sports 1 4K
+#EXTM3U refresh="301" x-tvg-url="http://www.epgitalia.tv/gzip,https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz,http://epg.vuplus-community.net/rytecIT_SportMovies.xz
+
+#EXTINF:-1 group-title="🇮🇹 DAZN EVENTI 🇮🇹" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/DAZN_logo.svg/764px-DAZN_logo.svg.png" tvg-logo="https://i.postimg.cc/BZdnFVrD/dazn.png",ATALANTA-PARMA
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|338c95f7a6ca4bf1a5fda30c221eaf09:c815180cb6c1e38e950f84fba41081f7
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"8c33588afba3b0ffba156596dcc525ca":"63aedd7bd644557cce52f3bcaf8fa7bb","262b010b9e4fafe633d66a6e6e8f7546":"50eb8307b7d4ce99d49f1bf9a8053c3d"}
+
+
+   #################################______Sky & Dazn Svizzera_______###############################################
+
+#EXTINF:-1 group-title="🇨🇭 Sky & Dazn Svizzera 🇨🇭" tvg-logo="https://i.postimg.cc/Y99bbRHz/ssa1.png" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/640px-Sky_Sport_-_Logo_2020.svg.png",Sky Sport Serie A
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/2.0 (compatible; Ask Jeeves/Teoma)
+#KODIPROP:inputstream.adaptive.license_key={"6500cdbec3bf3937f51161f4d4588490":"2c17f33e6ad237e07b767dc938c2d137","d1db45f8d2e8c591b759c5a035777d16":"6e11a513fe1d89168ec28ff546222eea","6ad153d36869c9d606a5b0cbe1ce4015":"9cedf94efb99f2ef36310cfa2255faa9","944b287db1920cea3787ee634ca144d2":"58986b72f5935b6322d83538f9908d0b"}
+
+#EXTINF:-1 group-title="🇨🇭 Sky & Dazn Svizzera 🇨🇭" tvg-logo="https://i.postimg.cc/xC0R1wFc/bluesport1.png",Blue Sport US Cremonese-Juve Stabia
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"fb19f3779f9960c681bd093609199245":"e1fa896220cc1c4dfe327bd4581497fa","314723291dc8179ce27636724717be01":"85fd6a0110b83877ba47f2991f156bf8"}
+
+
+#EXTINF:-1 group-title="🇨🇭 Sky & Dazn Svizzera 🇨🇭" tvg-logo="https://i.postimg.cc/xC0R1wFc/bluesport1.png",Blue Sport Cremonese-Juve Stabia
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"214335613f093fa09babb9a0530146e1":"615e678791df7ed9bb27fd5cf073a034","331ed5977915d2c338bb2542a4e3642b":"9639bf79724f6d2eda3aa7dbe447b334"}
+
+
+#EXTINF:-1 group-title="🇨🇭 Sky & Dazn Svizzera 🇨🇭" tvg-id="RSILa1.ch" tvg-logo="https://i.postimg.cc/WtL5dRXd/rsila1.png",RSI LA 1
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+https://viamotionhsi.netplus.ch/live/eds/rsila1hd/browser-dash/rsila1hd.mpd
+
+
+#EXTINF:-1 group-title="🇨🇭 Sky & Dazn Svizzera 🇨🇭" tvg-id="RSILa2.ch" tvg-logo="https://i.postimg.cc/3J35r52Y/rsila2.png",RSI LA 2
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-dash/rsila2hd.mpd
+
+
+ ############################______DAZN ITALIA_______#######################
+
+#EXTINF:-1 tvg-id="DAZN.1.it.it" group-title="🇮🇹 Dazn Italia 🇮🇹" tvg-logo="https://i.postimg.cc/sfLSKYf3/dazn.png" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/DAZN_logo.svg/764px-DAZN_logo.svg.png",Dazn 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive  
+#KODIPROP:inputstream.adaptive.manifest_type=dash  
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=8272bf6ba46f23f9da5270057b6e028a:74ae70dd10b4bb38ed6ffe843f3e2ccd
+https://abfawcsaaaaaaaamc4pg55ekcyqz4.otte.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/lgk8kppclc/out/v1/f51173b6b0624a4386358ab8dfee257f/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase?
+
+
+#EXTINF:-1 tvg-id="Inter.TV.it" group-title="🇮🇹 Dazn Italia 🇮🇹" tvg-logo="https://i.postimg.cc/T3VDRBVP/inter.png",Inter TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive  
+#KODIPROP:inputstream.adaptive.manifest_type=dash  
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey  
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key={"b770d5b4bb6b594daf985845aae9aa5f":"b0cb46d2d31cf044bc73db71e9865f6f","7313f38125a3fefd00cf7d6567ff333b":"87b49a0329febb10eef514fd0f044ee2"}
+https://a71aivottlinear-a.akamaihd.net/OTTB/FRA/clients/dash/enc/ekeomalvg7/out/v1/f63288f993e6470580623d7b9b45efb0/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
+
+
+#EXTINF:-1 tvg-id="Milan.TV.it" group-title="🇮🇹 Dazn Italia 🇮🇹" tvg-logo="https://i.postimg.cc/6Qz4ZR1J/milan.png",Milan TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive  
+#KODIPROP:inputstream.adaptive.manifest_type=dash  
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey  
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key={"b770d5b4bb6b594daf985845aae9aa5f":"b0cb46d2d31cf044bc73db71e9865f6f","602f114e6caa09eb9ec0dc18d0b01cb0":"0c433e2a2157f7c1e240ad7eac62d604"}
+https://qw.live.pv-cdn.net/OTTB/fra-nitro/live/clients/dash/enc/jsqfhask6w/out/v1/e70dcd0f1e684592a3db4bbe7feee0fa/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase?
+
+           ##############################Sky Sport Italia#################################
+
+#EXTINF:-1 tvg-name="Sky Sport24" tvg-id="Sky.Sport24.it" group-title="Sky Sport Italia" tvg-logo="https://i.postimg.cc/QNSxs6Qk/24.png" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/640px-Sky_Sport_-_Logo_2020.svg.png",Sky Sport 24
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=003663ddf1acb25ea88a7cf973afc0d5:35ea91b4151d6975007998c328daee6c
+https://linear303-it-dash1-prd-akp2.cdn13.skycdp.com/016a/31035/FHD/skysport24/master.mpd
+
+#EXTINF:-1 tvg-name="Sky Sport Uno" tvg-id="Sky.Sport.Uno.it" group-title="Sky Sport Italia" tvg-logo="https://i.postimg.cc/9FnmwrND/uno.png" group-logo="",Sky Sport Uno
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0036aaa1d68c6b487e29a5cb080a8a28:a3e8db3ff3c876f7b43a961b64a63474
+https://linear301-it-dash1-prd.selector.skycdn.it/016a/31023/FHD/skysportuno/master.mpd
+
+#EXTINF:-1 tvg-name="Sky Sport Calcio" tvg-id="Sky.Sport.Calcio.it" group-title="Sky Sport Italia" tvg-logo="https://i.postimg.cc/XYBVf4TQ/calcio.png" group-logo="",Sky Sport Calcio
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=00362f95db61eba0e6f14acee3f71e01:fb74cd84b53c7557e18424a3356c4665
+https://linear302-it-dash1-prd.selector.skycdn.it/016a/31209/FHD/skysportseriea/master.mpd
+
+#EXTINF:-1 tvg-name="Sky Sport F1" tvg-id="Sky.Sport.F1.it" group-title="Sky Sport Italia" tvg-logo="https://i.postimg.cc/hGFKMNng/F1.png" group-logo="",Sky Sport F1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0036a96b6bbbf1828488f90e6b2ca1f4:d24e6ae926e88f8303b6926271ff8155
+https://linear307-it-dash1-prd-akp2.cdn13.skycdp.com/016a/31478/FHD/skysportf1/master.mpd
+
+#EXTINF:-1 tvg-name="Sky Sport MotoGP" tvg-id="Sky.Sport.MotoGP.it" group-title="Sky Sport Italia" tvg-logo="https://i.postimg.cc/pr1Hj6Cw/moto.png" group-logo="",Sky Sport MotoGP
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=00362e9181eaa0c5f91761ade3515eb8:52cf3c27885d58ad76aaf36d4217a984
+https://linear306-it-dash1-prd.selector.skycdn.it/016a/31483/FHD/skysportmotogp/master.mpd
+
+#EXTINF:-1 tvg-name="Sky Sport Tennis" tvg-id="Sky.Sport.Tennis.it" group-title="Sky Sport Italia" tvg-logo="https://i.postimg.cc/Yqhk7tqM/tennis.png" group-logo="",Sky Sport Tennis
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0036fb7c564c4eb99e310f5fa82ab2f2:647f07b6858a669456e73ca103b4c2c0
+https://linear310-it-dash1-prd.selector.skycdn.it/016a/32559/FHD/skysporttennis/master.mpd
+
+#EXTINF:-1 tvg-name="Sky Sport Arena" tvg-id="Sky.Sport.Arena.it" group-title="Sky Sport Italia" tvg-logo="https://i.postimg.cc/sxLkxZDy/arena.png" group-logo="",Sky Sport Arena
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=00368f2bf10736c9c2c02ab0fa694d00:92eec9d841ac0c1ff16b90a0db82c792
+https://linear304-it-dash1-prd-akp2.cdn13.skycdp.com/016a/31024/FHD/skysportarena/master.mpd
+
+#EXTINF:-1 tvg-name="Sky Sport NBA" tvg-id="Sky.Sport.NBA.it" group-title="Sky Sport Italia" tvg-logo="https://i.postimg.cc/vBNqtwRt/nba.png" group-logo="",Sky Sport NBA
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=00364eac2ffee337640e39682439b540:0960172d9000c470ade0658bd36c1d53
+https://linear308-it-dash1-prd-akp2.cdn13.skycdp.com/016a/31764/FHD/skysportnba/master.mpd
+
+#EXTINF:-1 tvg-name="Sky Sport Max" tvg-id="Sky.Sport.Max.it" group-title="Sky Sport Italia" tvg-logo="https://i.postimg.cc/Qt4PYW75/max.png" group-logo="",Sky Sport Max
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0036f13bca1c5603b9f3bb28ec28fa80:f01403bcb5a02c61153d297fb0c4395f
+https://linear305-it-dash1-prd-akp2.cdn13.skycdp.com/016a/31248/FHD/skysportmax/master.mpd
+
+#EXTINF:-1 tvg-name="Sky Sport Golf" tvg-id="Sky.Sport.Golf.it" group-title="Sky Sport Italia" tvg-logo="https://i.postimg.cc/65zJtMyX/golf.png" group-logo="",Sky Sport Golf
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=00360b7729f74bf56a0a4eb0eda15ec5:f8a5f4723c71ac84c2f1ff6f55939a63
+https://linear309-it-dash1-prd-akp2.cdn13.skycdp.com/016a/32768/FHD/skysportgolf/master.mpd
+
+#EXTINF:-1 tvg-name="Sky Sport  251" tvg-id="Sky.Sport..251.it" group-title="Sky Sport Italia" tvg-logo="https://i.postimg.cc/Jh6VvgVG/ssport.png" group-logo="",Sky Sport 251
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0036384f59a2b80ed142f82250c79f77:2e6507cb779a28739b0bb1564f418823
+https://linear311-it-dash1-prd.selector.skycdn.it/016a/31917/FHD/skysport251/master.mpd
+
+#EXTINF:-1 tvg-name="Sky Sport  252" tvg-id="Sky.Sport..252.it" group-title="Sky Sport Italia" tvg-logo="https://i.postimg.cc/Jh6VvgVG/ssport.png" group-logo="",Sky Sport 252
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=003610b4ce44ba838c199b6636cf7431:8369cbbccf0c1ff6bdbacbdae9252a04
+https://linear312-it-dash1-prd.selector.skycdn.it/016a/32951/FHD/skysport252/master.mpd
+
+#EXTINF:-1 tvg-name="Sky Sport  253" tvg-id="Sky.Sport..253.it" group-title="Sky Sport Italia" tvg-logo="https://i.postimg.cc/Jh6VvgVG/ssport.png" group-logo="",Sky Sport 253
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0036d3b63b421abd69d9f0d3b6bdcf19:0725c3162d5aefbf9c6d144f06ea0c92
+https://linear311-it-dash1-prd.selector.skycdn.it/016a/32233/FHD/skysport253/master.mpd
+
+#EXTINF:-1 tvg-name="Sky Sport  254" tvg-id="Sky.Sport..254.it" group-title="Sky Sport Italia" tvg-logo="https://i.postimg.cc/Jh6VvgVG/ssport.png" group-logo="",Sky Sport 254
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=00369c14c20b78aadb1ec0e3c0e74979:e768767e2c7238d8069887bb36aed7fa
+https://linear312-it-dash1-prd.selector.skycdn.it/016a/31234/FHD/skysport254/master.mpd
+
+#EXTINF:-1 tvg-name="Sky Sport  255" tvg-id="Sky.Sport..255.it" group-title="Sky Sport Italia" tvg-logo="https://i.postimg.cc/Jh6VvgVG/ssport.png" group-logo="",Sky Sport 255
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0036b781a22ebb0c20c16ac27d5d1448:f309b94acfda720bf1ed5741489f8967
+https://linear311-it-dash1-prd.selector.skycdn.it/016a/32910/FHD/skysport255/master.mpd
+
+#EXTINF:-1 tvg-name="Sky Sport  256" tvg-id="Sky.Sport..256.it" group-title="Sky Sport Italia" tvg-logo="https://i.postimg.cc/Jh6VvgVG/ssport.png" group-logo="",Sky Sport 256
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=00366f263859fc1cc82d2c4da6a66ef6:754ae922d113c54349002cd9a88694a4
+https://linear312-it-dash1-prd.selector.skycdn.it/016a/31912/FHD/skysport256/master.mpd
+
+#EXTINF:-1 tvg-name="Sky Sport  257" tvg-id="Sky.Sport..257.it" group-title="Sky Sport Italia" tvg-logo="https://i.postimg.cc/Jh6VvgVG/ssport.png" group-logo="",Sky Sport 257
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0036faeace9872d3ceeb8b1b63f0baa3:dbd41ee944243307d39b7b27f16615a8
+https://linear311-it-dash1-prd-akp2.cdn13.skycdp.com/016a/31775/FHD/skysport257/master.mpd
+
+#EXTINF:-1 tvg-name="Sky Sport  258" tvg-id="Sky.Sport..258.it" group-title="Sky Sport Italia" tvg-logo="https://i.postimg.cc/Jh6VvgVG/ssport.png" group-logo="",Sky Sport 258
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0036fd8ccfddba47c8b40aeff63a797c:dfd5c9d0f4ac6f3a1bd89803399e7026
+https://linear312-it-dash1-prd-akp2.cdn13.skycdp.com/016a/32772/skysport258/master.mpd
+
+#EXTINF:-1 tvg-name="Sky Sport  259" tvg-id="Sky.Sport..259.it" group-title="Sky Sport Italia" tvg-logo="https://i.postimg.cc/Jh6VvgVG/ssport.png" group-logo="",Sky Sport 259
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0036644f7699f43e401f88d920dc385c:e5b0cebdc3edd7996d283041535fce9c
+https://linear311-it-dash1-prd-akp1.cdn13.skycdp.com/016a/31613/skysport259/master.mpd
+
+#EXTINF:-1 tvg-name="Eurosport 1" tvg-id="Eurosport.1.it" group-title="Sky Sport Italia" tvg-logo="https://i.postimg.cc/RZgDZHPY/euro1.png" group-logo="",Eurosport 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0036bb3fa7e6f2c334d7cba5c28b6caf:217fa35739cd68e90b2cd23322c01312
+https://linear311-it-dash1-prd.selector.skycdn.it/016a/313073/FHD/eurosport/master.mpd
+
+#EXTINF:-1 tvg-name="Eurosport 2" tvg-id="Eurosport.2.it" group-title="Sky Sport Italia" tvg-logo="https://i.postimg.cc/V6ngnrRm/euro2.png" group-logo="",Eurosport 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=003670a7034342a4a07c91173818c61c:7b90055c1a1ea34d9090e9ebf6c4db8a
+https://linear312-it-dash1-prd-akp2.cdn13.skycdp.com/016a/31150/FHD/eurosport2/master.mpd
+
+
+####################################################################Cinema Sky Italia########################################################################################
+
+
+#EXTINF:-1 tvg-name="Sky Cinema Uno FHD" tvg-id="Sky Cinema Uno FHD" group-title="Cinema Sky" tvg-logo="https://i.postimg.cc/YSfjFtWT/cuno.png" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Sky_Cinema_-_Logo_2020.svg/640px-Sky_Cinema_-_Logo_2020.svg.png",Sky Cinema Uno HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0036211ccb7bd9cfd99fb8591e67d772:a10923293396f30380ce411a3504ddc3
+https://linear314-it-dash1-prd.selector.skycdn.it/016a/32202/FHD/cinemauno/master.mpd
+
+#EXTINF:-1 tvg-name="SkyCinemaDue.it" tvg-id="Sky Cinema Due FHD" group-title="Cinema Sky" tvg-logo="https://i.postimg.cc/nzFrYNKr/due.png" group-logo="",Sky Cinema Due HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=003629d4c6efbd39a2808a85a286b783:41c463cc4bf6da4dec7935eb01a7155e
+https://linear308-it-dash1-prd-akp2.cdn13.skycdp.com/016a/32564/FHD/cinemadue/master.mpd
+
+#EXTINF:-1 tvg-name="Sky Cinema Comedy FHD" tvg-id="Sky Cinema Comedy FHD" group-title="Cinema Sky" tvg-logo="https://i.postimg.cc/1t3RNwPN/comedy.png" group-logo="",Sky Cinema Comedy HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=003638a93ac06c9df7de5d8f349f56fd:45c7c2ba5a3cdfd03e90ff16e6ac15d8
+https://linear303-it-dash1-prd-akp2.cdn13.skycdp.com/016a/32030/FHD/cinemacomedy/master.mpd
+
+#EXTINF:-1 tvg-name="Sky Cinema Action FHD" tvg-id="Sky Cinema Action HD" group-title="Cinema Sky" tvg-logo="https://i.postimg.cc/hPkG3X8H/action.png" group-logo="",Sky Cinema Action HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=00368fc53eab9498463dadfc60e0f818:0a70fe8d3b90360035982deaa8c83a6d
+https://linear306-it-dash1-prd-akp2.cdn13.skycdp.com/016a/31206/FHD/cinemaaction/master.mpd
+
+#EXTINF:-1 tvg-name="SkyCinemaFamily.it" tvg-id="Sky Cinema Family FHD" group-title="Cinema Sky" tvg-logo="https://i.postimg.cc/j5R4x4Dp/family.png" group-logo="",Sky Cinema Family HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0036012604394c43b063c4f513ee431d:2c665092aa45cbae824bf7ad4e69d767
+https://linear305-it-dash1-prd-akp2.cdn13.skycdp.com/016a/31255/FHD/cinemafamily/master.mpd
+
+#EXTINF:-1 tvg-name="SkyCinemaCollection.it" tvg-id="Sky Cinema Collection HD" group-title="Cinema Sky" tvg-logo="https://i.postimg.cc/Y0VS795L/collection.png" group-logo="",Sky Cinema Collection HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=003699aeb8e998fe0afed0c7302ce51f:4583daf5ec387c310633cdc922dd3130
+https://linear302-it-dash1-prd.selector.skycdn.it/016a/31204/FHD/cinemacollection/master.mpd
+
+#EXTINF:-1 tvg-name="SkyCinemaDrama.it" tvg-id="Sky Cinema Drama FHD" group-title="Cinema Sky" tvg-logo="https://i.postimg.cc/R0RVFXrB/drama.png" group-logo="",Sky Cinema Drama HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0036a5270d8f1d1a2f573864aed26225:df0e826d2eeb78051f5dcf6f166e6056
+https://linear304-it-dash1-prd-akp2.cdn13.skycdp.com/016a/31769/FHD/cinemadrama/master.mpd
+
+#EXTINF:-1 tvg-name="SkyCinemaSuspense.it" tvg-id="Sky Cinema Suspense HD" group-title="Cinema Sky" tvg-logo="https://i.postimg.cc/7ZSLvqmb/suspense.png" group-logo="",Sky Cinema Suspense HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=00365eb692a3fd6907192a4a3f0958b2:9f86ea0417e3458186f8ada1a2003fa5
+https://linear307-it-dash1-prd-akp2.cdn13.skycdp.com/016a/32047/FHD/cinemasuspense/master.mpd
+
+#EXTINF:-1 tvg-name="SkyCinemaRomance.it" tvg-id="Sky Cinema Romance FHD" group-title="Cinema Sky" tvg-logo="https://i.postimg.cc/d0vVwgx6/romance.png" group-logo="",Sky Cinema Romance HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=00362d0a5efbd10ab56a3f502f2be023:61c8c429f412ea52e06d9663c48ee9b7
+https://linear301-it-dash1-prd.selector.skycdn.it/016a/32231/FHD/cinemaromance/master.mpd
+
+
+                          ##############Intrattenimento Sky Italia####################
+
+
+
+#EXTINF:-1 tvg-name="SkyUno.it" tvg-id="Sky Uno HD" group-title="Intrattenimento Sky" tvg-logo="https://i.postimg.cc/SsVGhHcs/suno.png" group-logo="https://i.postimg.cc/4dgQ9Vzr/logo.png",Sky Uno HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=003610b8556000936e48061cdb4ee11a:2cd6bcc2160aa6ec048e5a5f7a0f73c8
+https://linear313-it-dash1-prd.selector.skycdn.it/016a/32477/FHD/skyuno/master.mpd
+
+#EXTINF:-1 tvg-name="SkyAtlantic.it" tvg-id="Sky Atlantic FHD" group-title="Intrattenimento Sky" tvg-logo="https://i.postimg.cc/FsST6rTF/atl.png" group-logo="",Sky Atlantic HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0036d37875a7307fd4551bcd6e466882:a8cdc74a5d05c7a45c551af45aa5549c
+https://linear315-it-dash1-prd-akp2.cdn13.skycdp.com/016a/31226/FHD/skyatlantic/master.mpd
+
+#EXTINF:-1 tvg-name="SkySerie.it" tvg-id="Sky Serie Full HD" group-title="Intrattenimento Sky" tvg-logo="https://i.postimg.cc/QC1cfthR/sserie.png" group-logo="",Sky Serie HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=00366cd68acfb019e5d302f452c96ed7:fbb59d554722277be85b0728c13051ab
+https://linear315-it-dash1-prd-akp2.cdn13.skycdp.com/016a/31684/FHD/skyserie/master.mpd
+
+#EXTINF:-1 tvg-name="SkyCrime.it" tvg-id="Crime Investigation HD" group-title="Intrattenimento Sky" tvg-logo="https://i.postimg.cc/J0Ls4QC2/crime.png" group-logo="",Sky Crime & Investigation HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0036de91177ccee5fdfd4929c099854f:f40263272212aacdcf7e405cfb4b4a91
+https://linear315-it-dash1-prd.selector.skycdn.it/016a/32249/FHD/skycrime/master.mpd
+
+#EXTINF:-1 tvg-name="SkyInvestigation.it" tvg-id="Sky Investigation Full HD" group-title="Intrattenimento Sky" tvg-logo="https://i.postimg.cc/wBrJHJBC/invest.png" group-logo="",Sky Investigation HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=003689703a245806508e9d332ed323ee:ef229589d2f7afa40904b6d62c852acf
+https://linear315-it-dash1-prd.selector.skycdn.it/016a/32686/FHD/skyinvestigation/master.mpd
+
+#EXTINF:-1 tvg-name="SkyDocumentaries.it" tvg-id="Sky Documentaries Full HD" group-title="Intrattenimento Sky" tvg-logo="https://i.postimg.cc/4yWXkvft/docum.png" group-logo="",Sky Documentaries HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0036de0a1c44a2c972fcf64c9b7f4302:0ade9234f6c56636ad6bb1b3560ddb31
+https://linear313-it-dash1-prd.selector.skycdn.it/016a/31697/FHD/skydocumentaries/master.mpd
+
+#EXTINF:-1 tvg-name="SkyNature.it" tvg-id="Sky Nature Full HD" group-title="Intrattenimento Sky" tvg-logo="https://i.postimg.cc/gkrWLZcS/nature.png" group-logo="",Sky Nature HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0036dd4a767d1d1e6faa72be9b2edde3:60250673f0f5c54deac7c8f6d883c329
+https://linear313-it-dash1-prd.selector.skycdn.it/016a/32695/FHD/skynature/master.mpd
+
+#EXTINF:-1 tvg-name="History.it" tvg-id="Sky History Channel Full HD" group-title="Intrattenimento Sky" tvg-logo="https://i.postimg.cc/kGsgM3c2/hist.png" group-logo="",History Channel HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=00362ec3497a383021f1db77c8556614:8820fb9b2afd6e1a3f4f5ab1ba4a73ad
+https://linear313-it-dash1-prd.selector.skycdn.it/016a/31513/FHD/history/master.mpd
+
+#EXTINF:-1 tvg-name="SkyArte(src01).it" tvg-id="SKY Arte FHD" group-title="Intrattenimento Sky" tvg-logo="https://i.postimg.cc/gjnTj3y3/arte.png" group-logo="",Sky Arte HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0036798d4dc4ce189b2f029a4b4aa06c:4f668ba0ef796d807c90613b9e2e61bf
+https://linear313-it-dash1-prd-akp2.cdn13.skycdp.com/016a/32074/FHD/skyarte/master.mpd
+
+#EXTINF:-1 tvg-name="MtvItalia.it" tvg-id="Sky MTV Full HD" group-title="Intrattenimento Sky" tvg-logo="https://it.imageservice.sky.com/pd-logo/skychb_414mtvdark/200/50?output-format=webp" group-logo="",MTV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=00364d417e7aab8e6a92c963f2d24549:a875a90e31b98eab8430e894ee5a853e
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+https://linear315-it-dash1-prd-akg0.cdn13.skycdp.com/016a/32763/FHD/mtvnext/master.mpd
+
+#EXTINF:-1 tvg-name="ComedyCentral.it" tvg-id="COMEDY CENTRAL FHD" group-title="Intrattenimento Sky" tvg-logo="https://i.postimg.cc/dVYcHSmX/comedy.png" group-logo="",Sky Comedy Central HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0036f3ec4ac7d836b5bf9fa79f3041b6:c02271563d97b1e7e755484279f2b55c
+https://linear309-it-dash1-prd-akp1.cdn13.skycdp.com/016a/32404/comedycentral/master.mpd
+
+
+                                 ###################Sky Kids##################
+
+#EXTINF:-1 group-title="Ragazzi Sky" tvg-id="Cartoon Network" tvg-logo="https://i.postimg.cc/4NvSd4VL/cartnet.png" group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/77/Sky_Kids_logo_2023.svg/640px-Sky_Kids_logo_2023.svg.png",Cartoon Network
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0036dd75d8634944bc7b737d66326495:c4af06bead7be046812cb50f079669d2
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+https://linear314-it-dash1-prd.selector.skycdn.it/016a/31258/FHD/cartoonnetwork/master.mpd
+
+#EXTINF:-1 group-title="Ragazzi Sky" tvg-id="Nickelodeon" tvg-logo="https://i.postimg.cc/PxGWYYkm/nick.png",Nickelodeon
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0036de74cba13152fec26c1545e321bc:7d621370036995afab0e864f204aec81
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+https://linear314-it-dash1-prd-akp2.cdn13.skycdp.com/016a/31320/nickelodeon/master.mpd
+
+#EXTINF:-1 group-title="Ragazzi Sky" tvg-id="DeAKids" tvg-logo="https://i.postimg.cc/5t8YcrZC/deakids.png",DeAKids
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0036a24c5461c0fc2fb478b21256ada7:d182a15b72bd8d0cabfb87471fbe2d0d
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+https://linear314-it-dash1-prd-akg0.cdn13.skycdp.com/016a/32460/deakids/master.mpd
+
+#EXTINF:-1 group-title="Ragazzi Sky" tvg-id="Nick Jr" tvg-logo="https://i.postimg.cc/HnnkLvP3/nickjr.png",Nick Jr
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=00363c7796c4131c137a18be6306015f:374da626490533654bc6750bec6d6aa3
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+https://linear314-it-dash1-prd-akp2.cdn13.skycdp.com/016a/32424/nickj/master.mpd
+
+#EXTINF:-1 group-title="Ragazzi Sky" tvg-id="Boomerang" tvg-logo="https://i.postimg.cc/rFdpXb4w/boom.png",Boomerang
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0036e04aa472587879b346dde1835ceb:acb086af654aafcd30423b6c70da9c69
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+https://linear314-it-dash1-prd-akp2.cdn13.skycdp.com/016a/31367/boomerang/master.mpd
+
+
+########################################Canali Italiani Free######################################################
+
+#EXTINF:-1 group-title="Canali italiani" tvg-id="Rai 1" tvg-logo="https://i.postimg.cc/YCPYDQz6/RAI1.png" group-logo="https://i.postimg.cc/RCs9x277/ITA.png",Rai 1
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=7&forceUserAgent=raiplayappletv
+
+#EXTINF:-1 group-title="Canali italiani" tvg-id="Rai 2" tvg-logo="https://i.postimg.cc/YSmg5jdJ/RAI2.png",Rai 2
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718&output=7&forceUserAgent=raiplayappletv
+
+#EXTINF:-1 group-title="Canali italiani" tvg-id="Rai 3" tvg-logo="https://i.postimg.cc/DZksnFDm/RAI3.png",Rai 3
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709&output=7&forceUserAgent=raiplayappletv
+
+#EXTINF:-1 group-title="Canali italiani" tvg-id="Rete 4" tvg-logo="https://i.postimg.cc/ydGQymvx/r4.png",Rete 4
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live02-seg.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/index.m3u8
+
+#EXTINF:-1 group-title="Canali italiani" tvg-id="Canale 5" tvg-logo="https://i.postimg.cc/hGp3fWm9/c5.png",Canale 5
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live02-seg.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8
+
+#EXTINF:-1 group-title="Canali italiani" tvg-id="Italia 1" tvg-logo="https://i.postimg.cc/Xqy2Hrz8/it1.png",Italia 1
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live02-seg.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/index.m3u8
+
+#EXTINF:-1 group-title="Canali italiani" tvg-id="La7" tvg-logo="https://i.postimg.cc/1XyqVByQ/LA7.png",La7
+https://d3749synfikwkv.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-74ylxpgd78bpb/Live.m3u8
+
+#EXTINF:-1 group-title="Canali italiani" tvg-id="TV 8" tvg-logo="https://i.postimg.cc/qgV19kfd/tv8.png",TV 8
+https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnea=st=1701861650~exp=1765449000~acl=/*~hmac=84c9f3f71e57b13c3a67afa8b29a8591ea9ed84bf786524399545d94be1ec04d
+
+#EXTINF:-1 group-title="Canali italiani" tvg-id="NOVE" tvg-logo="https://i.postimg.cc/YqhMLbPg/9.png",NOVE
+https://amg16146-wbdi-amg16146c1-samsung-it-1831.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-nove-samsungit/playlist.m3u8
+
+#EXTINF:-1 group-title="Canali italiani" tvg-id="Mediaset 20" tvg-logo="https://i.postimg.cc/9fWnmFDm/20.png",Mediaset 20
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live02-seg.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/index.m3u8
+
+#EXTINF:-1 group-title="Canali italiani" tvg-id="Rai 4" tvg-logo="https://i.postimg.cc/j2RM9p9S/rai4.png",Rai 4
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966&amp;output=7&amp;forceUserAgent=raiplayappletv
+
+#EXTINF:-1 group-title="Canali italiani" tvg-id="Iris" tvg-logo="https://i.postimg.cc/wjxrHjy6/IRIS.png",Iris
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live02-seg.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/index.m3u8
+
+#EXTINF:-1 group-title="Canali italiani" tvg-id="Rai 5" tvg-logo="https://i.postimg.cc/nVQM6VHN/rai5.png",Rai 5
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276&amp;output=7&amp;forceUserAgent=raiplayappletv
+
+#EXTINF:-1 group-title="Canali italiani" tvg-id="Rai Movie" tvg-logo="https://i.postimg.cc/QxXSfzD9/rmov.png",Rai Movie
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002&amp;output=7&amp;forceUserAgent=raiplayappletv
+
+#EXTINF:-1 group-title="Canali italiani" tvg-id="Rai Premium" tvg-logo="https://i.postimg.cc/KvJfw5c9/rprem.png",Rai Premium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992&amp;output=7&amp;forceUserAgent=raiplayappletv
+
+#EXTINF:-1 group-title="Canali italiani" tvg-id="Cielo" tvg-logo="https://i.postimg.cc/t4dcGVCv/1-0-19-1019-1-A90-FBFF-820000-0-0-0.png",Cielo
+https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8?hdnea=st=1701861650~exp=1765449000~acl=/*~hmac=84c9f3f71e57b13c3a67afa8b29a8591ea9ed84bf786524399545d94be1ec04d
+
+#EXTINF:-1 group-title="Canali italiani" tvg-id="La7D" tvg-logo="https://i.postimg.cc/QdDdz0Nn/la7d.png",La7d
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a2b202e78a244da6876d5adbcf5d6a75:88c5efd5d7e49194cd780e773318f69d
+https://d15umi5iaezxgx.cloudfront.net/LA7D/DRM/DASH/Live.mpd
+
+#EXTINF:-1 group-title="Canali italiani" tvg-id="La 5" tvg-logo="https://i.postimg.cc/xdcFJp3h/la5.png",La 5
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live02-seg.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/index.m3u8
+
+#EXTINF:-1 group-title="Canali italiani" tvg-id="Real Time" tvg-logo="https://i.postimg.cc/vB4YnKXD/realtime.png",Real Time
+https://amg16146-wbdi-amg16146c2-samsung-it-1835.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-realtime-samsungit/playlist.m3u8
+
+#EXTINF:-1 group-title="Canali italiani" tvg-id="QVC" tvg-logo="https://i.postimg.cc/3RzKFZb1/QVC.png",QVC
+https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8
+
+#EXTINF:-1 group-title="Canali italiani" tvg-id="Food Network HD" tvg-logo="https://i.postimg.cc/L8PSNh28/food.png",Food Network
+https://amg16146-wbdi-amg16146c3-samsung-it-1836.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-foodnetwork-samsungit/playlist.m3u8
+
+#EXTINF:-1 group-title="Canali italiani" tvg-id="Cine34" tvg-logo="https://i.postimg.cc/FRrQrZcY/34.png",Cine34
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live02-seg.msf.cdn.mediaset.net/live/ch-b6/b6-clr.isml/index.m3u8
+
+#EXTINF:-1 group-title="Canali italiani" tvg-id="Focus" tvg-logo="https://i.postimg.cc/SNCqGJyN/focus.png",Focus
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live02-seg.msf.cdn.mediaset.net/live/ch-fu/fu-clr.isml/index.m3u8
+
+#EXTINF:-1 group-title="Canali italiani" tvg-id="RTL 102.5" tvg-logo="https://i.postimg.cc/hj5QGd2D/rtl.png",RTL 102.5
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
+
+#EXTINF:-1 group-title="Canali italiani" tvg-id="Warner TV" tvg-logo="https://i.postimg.cc/HWQvyybY/WARN.png",Warner TV
+https://amg16146-wbdi-amg16146c4-samsung-it-1837.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-warnertv-samsungit/playlist.m3u8
+
+#EXTINF:-1 group-title="Canali italiani" tvg-id="Giallo" tvg-logo="https://i.postimg.cc/7LxxhwrP/giallo.png",Giallo
+https://amg16146-wbdi-amg16146c5-samsung-it-1838.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-giallo-samsungit/playlist.m3u8
+
+#EXTINF:-1 group-title="Canali italiani" tvg-id="Top Crime" tvg-logo="https://i.postimg.cc/6pKKbt3V/top.png",Top Crime
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live02-seg.msf.cdn.mediaset.net/live/ch-lt/lt-clr.isml/index.m3u8
+
+#EXTINF:-1 group-title="Canali italiani" tvg-id="Boing" tvg-logo="https://i.postimg.cc/LsCMsPVv/boing.png",Boing
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live02-seg.msf.cdn.mediaset.net/live/ch-kb/kb-clr.isml/index.m3u8
+
+#EXTINF:-1 group-title="Canali italiani" tvg-id="K2" tvg-logo="https://i.postimg.cc/XvGQ7GV0/K2.png",K2
+https://amg16146-wbdi-amg16146c6-samsung-it-1839.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-k2-samsungit/playlist.m3u8
+
+#EXTINF:-1 group-title="Canali italiani" tvg-id="Rai Gulp" tvg-logo="https://i.postimg.cc/jq6ZQbpY/rgulp.png",Rai Gulp
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953&amp;output=7&amp;forceUserAgent=raiplayappletv
+
+#EXTINF:-1 group-title="Canali italiani" tvg-id="Rai Yoyo" tvg-logo="https://i.postimg.cc/jS1Xdd7P/yoyo.png",Rai Yoyo
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899&amp;output=7&amp;forceUserAgent=raiplayappletv
+
+#EXTINF:-1 group-title="Canali italiani" tvg-id="Frisbee" tvg-logo="https://i.postimg.cc/nV5ckyBT/frisbee.png",Frisbee
+https://amg16146-wbdi-amg16146c7-samsung-it-1840.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-frisbee-samsungit/playlist.m3u8
+
+#EXTINF:-1 group-title="Canali italiani" tvg-id="Cartoonito" tvg-logo="https://i.postimg.cc/x8kjQ5DK/cartonito.png",Cartoonito
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live02-seg.msf.cdn.mediaset.net/live/ch-la/la-clr.isml/index.m3u8
+
+#EXTINF:-1 group-title="Canali italiani" tvg-id="Super!" tvg-logo="https://i.postimg.cc/YqW2ydx7/super.png",Super!
+https://vimnitaly.akamaized.net/hls/live/2094034/super/master.m3u8
+
+#EXTINF:-1 group-title="Canali italiani" tvg-id="Rai News 24" tvg-logo="https://i.postimg.cc/4N6JpVvv/rainews24.png",Rai News 24
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1&amp;output=7&amp;forceUserAgent=raiplayappletv
+
+#EXTINF:-1 group-title="Canali italiani" tvg-id="Italia 2" tvg-logo="https://i.postimg.cc/qvm57Hy2/IT2.png",Italia 2
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live02-seg.msf.cdn.mediaset.net/live/ch-i2/i2-clr.isml/index.m3u8
+
+#EXTINF:-1 group-title="Canali italiani" tvg-id="Sky Tg 24" tvg-logo="https://i.postimg.cc/0y99njZT/skytg24.png",Sky TG 24
+https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/12221/web/master.m3u8?hdnts=st=1701861650~exp=1765449000~acl=/*~hmac=84c9f3f71e57b13c3a67afa8b29a8591ea9ed84bf786524399545d94be1ec04d
+
+#EXTINF:-1 group-title="Canali italiani" tvg-id="TgCom 24" tvg-logo="https://i.postimg.cc/cLcSV2gp/tgcom.png",TgCom 24
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live02-seg.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/index.m3u8
+
+#EXTINF:-1 group-title="Canali italiani" tvg-id="DMAX" tvg-logo="https://i.postimg.cc/zv9zGh84/dmax.png",DMAX
+https://amg16146-wbdi-amg16146c8-samsung-it-1841.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-dmax-samsungit/playlist.m3u8
+
+#EXTINF:-1 group-title="Canali italiani" tvg-id="Rai Storia" tvg-logo="https://i.postimg.cc/3xN1TDd3/rsto.png",Rai Storia
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990&amp;output=7&amp;forceUserAgent=raiplayappletv
+
+#EXTINF:-1 group-title="Canali italiani" tvg-id="Mediaset Extra" tvg-logo="https://i.postimg.cc/43NgZPpm/extra.png",Mediaset Extra
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live02-seg.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/index.m3u8
+
+#EXTINF:-1 group-title="Canali italiani" tvg-id="HGTV HD" tvg-logo="https://i.postimg.cc/rmsMGjpv/hgtv.png",HGTV HD
+https://amg16146-wbdi-amg16146c9-samsung-it-1842.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-hgtv-samsungit/playlist.m3u8
+
+#EXTINF:-1 group-title="Canali italiani" tvg-id="Rai Scuola" tvg-logo="https://i.postimg.cc/rmHcf40z/rscuola.png",Rai Scuola
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011&amp;output=7&amp;forceUserAgent=raiplayappletv
+
+#EXTINF:-1 group-title="Canali italiani" tvg-id="Rai Sport" tvg-logo="https://i.postimg.cc/j2JTmjPc/rsport.png",Rai Sport
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&amp;output=7&amp;forceUserAgent=raiplayappletv
+
+#EXTINF:-1 group-title="Canali italiani" tvg-id="Motor Trend" tvg-logo="https://i.postimg.cc/K4Sb2y52/motortrend.png",Motor Trend
+https://amg16146-wbdi-amg16146c10-samsung-it-1843.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-motortrend-samsungit/playlist.m3u8
+
+#EXTINF:-1 group-title="Canali italiani" tvg-id="" tvg-logo="https://i.postimg.cc/MTfcwHCs/SI-Solo-Calcio.png",Sport Italia Solo Calcio
+https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/chunklist_b4096000.m3u8
+
+#EXTINF:-1 group-title="Canali italiani" tvg-id="" tvg-logo="https://i.postimg.cc/XYx4zWzp/siplus.png",Sport Italia Plus
+https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/sihd/chunklist.m3u8
+
+#EXTINF:-1 group-title="Canali italiani" tvg-id="" tvg-logo="https://i.postimg.cc/7hgfCcY0/primaveratv.png",Primavera TV
+https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/smil:silive24.smil/chunklist_b3096000.m3u8
+
+#EXTINF:-1 group-title="Canali italiani" tvg-id="" tvg-logo="https://i.postimg.cc/x1sVPRXm/donna.png",Donna TV
+https://donnatv.grupposciscione.knoxstreaming.com/live/masterpl.m3u8
+
+#EXTINF:-1 group-title="Canali italiani" tvg-id="SuperTennis" tvg-logo="https://i.postimg.cc/y6w3dgQV/supertennis.png",SuperTennis
+https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/h24_supertennix/manifest.m3u8
+
+#EXTINF:-1 group-title="Canali italiani" tvg-id="ALMA TV" tvg-logo="https://i.postimg.cc/8CjQX6v0/almatv.png",Alma TV
+https://streaming.softwarecreation.it/AlmaTv/AlmaTv/playlist.m3u8
+
+#EXTINF:-1 group-title="Canali italiani" tvg-id="" tvg-logo="https://i.postimg.cc/YCFmP09N/tclom.png",Telecity Lombardia
+https://64b16f23efbee.streamlock.net/telecitylombardia/telecitylombardia/chunklist_w1632303197.m3u8
+ 
+#EXTINF:-1 group-title="Canali italiani" tvg-id="" tvg-logo="https://i.postimg.cc/wBdsYzyC/tcpiem.png",Telecity Piemonte
+https://64b16f23efbee.streamlock.net/telecitypiemonte/telecitypiemonte/chunklist_w1337097245.m3u8
+ 
+#EXTINF:-1 group-title="Canali italiani" tvg-id="" tvg-logo="https://i.postimg.cc/6QL49PCy/tclig.png",Telecity Liguria
+https://64b16f23efbee.streamlock.net/telecitypiemonte/telecitypiemonte/chunklist_w604984555.m3u8
+
+#EXTINF:-1 group-title="Canali italiani" tvg-id="" tvg-logo="https://i.postimg.cc/R0vHp93B/r105.png",Radio 105
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live02-seg.msr.cdn.mediaset.net/live/ch-ec/ec-clr.isml/index.m3u8
+
+#EXTINF:-1 group-title="Canali italiani" tvg-id="" tvg-logo="https://i.postimg.cc/3xXGZWx1/r101.png",Radio R101
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live02-seg.msr.cdn.mediaset.net/live/ch-er/er-clr.isml/index.m3u8
+
+#EXTINF:-1 group-title="Canali italiani" tvg-id="" tvg-logo="https://i.postimg.cc/90X2s8dz/bom.png",BOM CHANNEL
+https://5f22d76e220e1.streamlock.net/canale6/canale6/playlist.m3u8
+
+#EXTINF:-1 group-title="Canali italiani" tvg-id="Deejay TV" tvg-logo="https://i.postimg.cc/kghTmFPc/DJ.png",Deejay TV
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
+
+#EXTINF:-1 group-title="Canali italiani" tvg-id="Radio Italia Tv" tvg-logo="https://i.postimg.cc/D0c62rrw/radita.png" group-logo="",Radio Italia Tv
+https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/master.m3u8
+
+#EXTINF:-1 group-title="Canali italiani" tvg-id="" tvg-logo="https://i.postimg.cc/CMRmsHT4/rai4k.png",Rai 4K
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://raievent10-elem-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
+
+#EXTINF:-1 group-title="Canali italiani" tvg-id="" tvg-logo="https://i.postimg.cc/3rz9S43Q/kiss.png",Radio kiss Kiss TV
+https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Canali italiani" tvg-id="" tvg-logo="https://i.postimg.cc/02mnLkNM/radio2.png",Rai Radio 2
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=5674080&amp;output=7&amp;forceUserAgent=raiplayappletv
+
+#EXTINF:-1 group-title="Canali italiani" tvg-id="Virgin Radio" tvg-logo="https://i.postimg.cc/HLfB3sWd/virg.png",Virgin Radio
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live02-seg.msr.cdn.mediaset.net/live/ch-ew/ew-clr.isml/index.m3u8
+
+#EXTINF:-1 group-title="Canali italiani" tvg-id="RADIO FRECCIA" tvg-logo="https://i.postimg.cc/zfdFn3xM/freccia.png",RADIO FRECCIA
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_video.m3u8
+
+#EXTINF:-1 group-title="Canali italiani" tvg-id="" tvg-logo="https://i.postimg.cc/85jBwD3C/rds.png",RDS Social TV
+https://stream.rdstv.radio/index.m3u8
+
+#EXTINF:-1 group-title="Canali italiani" tvg-id="" tvg-logo="https://i.postimg.cc/jdPwJxmy/zeta.png",RADIO ZETA
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist_video.m3u8
+
+#EXTINF:-1 group-title="Canali italiani" tvg-id="" tvg-logo="https://i.postimg.cc/76d1Wd8n/capital.png",Radio Capital TV
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/playlist.m3u8
+
+#EXTINF:-1 group-title="Canali italiani" tvg-id="" tvg-logo="https://i.postimg.cc/x8sQQv55/m2o.png",m2o TV
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
+
+#EXTINF:-1 group-title="Canali italiani" tvg-id="Radio Monte Carlo" tvg-logo="https://i.postimg.cc/DZL5Nkms/rmc.png",Radio Monte Carlo
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live02-seg.msr.cdn.mediaset.net/live/ch-bb/bb-clr.isml/index.m3u8
+
+#EXTINF:-1 group-title="Canali italiani" tvg-id="" tvg-logo="https://i.postimg.cc/htXDS5Hd/Serie-A-Radio-TV-Logo.png",Radio TV Serie A RDS
+https://stream.radioseriea.com/50773f0d0070476a8612d9984c6059d8/index.m3u8
+
+#EXTINF:-1 group-title="Canali italiani" tvg-id="" tvg-logo="https://i.postimg.cc/nVTpqxxm/marte.png",Radio Marte TV
+https://router.xdevel.com/video0s975753-750/stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Canali italiani" tvg-id="" tvg-logo="https://i.postimg.cc/5NRJkm6N/logo-kisskiss-napoli.png",Radio Kiss Kiss Napoli TV
+https://58f12ffd2447a.streamlock.net/KKTVNapoli/livestream/playlist.m3u8
+
+#EXTINF:-1 group-title="Canali italiani" tvg-id="" tvg-logo="https://i.postimg.cc/nzm8pf0K/crc.png",Radio CRC TV
+https://flash2.xdevel.com/crctv/crctv/manifest_w1285461156.mpd
+
+#######################################_______Eleven Sport Poland_______#####################################
+
+#EXTINF:-1 group-title="🇵🇱 Eleven Sports 🇵🇱" tvg-id="ElevenSports1.pl" tvg-logo="https://i.postimg.cc/h4JZhwFb/1-0-1-13-F3-5-DC-13-E-820000-0-0-0.png" group-logo="",Eleven Sports 1
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=525a9da2120045a6973709dbcd685609:d8a7578d81ce754755a503ad8ac98ec0
+https://cdn-s-lb2.pluscdn.pl/ch/1457744/147/dash/4867711b/live.mpd
+ 
+#EXTINF:-1 group-title="🇵🇱 Eleven Sports 🇵🇱" tvg-id="ElevenSports2.pl" tvg-logo="https://i.postimg.cc/Hs9wL4L9/E2.png",Eleven Sports 2
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2cd12eaca5c14b30a3280b1a89484809:e2c14f6cc245c1a5ebbce8c8c704fc6c
+https://cdn-s-lb2.pluscdn.pl/ch/1457734/144/dash/0be7047a/live.mpd
+ 
+#EXTINF:-1 group-title="🇵🇱 Eleven Sports 🇵🇱" tvg-id="ElevenSports3.pl" tvg-logo="https://i.postimg.cc/NjG1299q/E3.png",Eleven Sports 3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"55b19ea29fdd4c96825531f96a504df1":"a6ec613e0eadfb923ff816e4c8c68a4a","696c7203cea54375a2433c8be361f6ed":"39e60bf9f0154884f5039d8e6cc47601","1de6210c1b064b928c5bb003da7023e5":"d1eb59b178c89539d7caf1022968107e","ce125d7af48a45799d671941125ed55e":"973599517f31f3b4327fa975f549ed2b"}
+https://r.dcs.redcdn.pl/webcache/canalplus2/live/store01/11Sports3/hd2-dashdrm02/11Sports3.mpd
+ 
+#EXTINF:-1 group-title="🇵🇱 Eleven Sports 🇵🇱" tvg-id="ElevenSports4.pl" tvg-logo="https://i.postimg.cc/HLVX3q96/E4.png",Eleven Sports 4
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"0bc811aaa10a4c3198aa3b6679198382":"609b0c987d1657f1adc7aa53ae733200","a662726cb8804451961d356d65ba8450":"47f362b448bd8f63d2402d428d352aed","f6818e7c25964791896250a119420d85":"9f67cb00a75a9e0a068918256a227806","2c7dea2fa563424789ea200675e56817":"5bf4b84797df5a8ac149c5bb69d639c4"}
+https://r.dcs.redcdn.pl/webcache/canalplus2/live/store01/11Sports4/hd2-dashdrm02/11Sports4.mpd
+
+EXTINF:-1 group-title="🇵🇱 Eleven Sports 🇵🇱" tvg-id="ElevenSports1_4K.pl" tvg-logo="https://i.postimg.cc/ZYMtw3Cr/es4k.png" group-logo="",Eleven Sports 1 4K 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=338c95f7a6ca4bf1a5fda30c221eaf09:c815180cb6c1e38e950f84fba41081f7
 https://hls.redefine.pl/B3B002A2/29263/0/dash_4k/live.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+ 
+#EXTINF:-1 group-title="🇵🇱 Eleven Sports 🇵🇱" tvg-id="PolsatSportPremium1.pl" tvg-logo="https://i.postimg.cc/XYyn8xyw/P1.png",Polsat Sport Premium 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8eb4a9586edf4b0cade4b5725fd55209:54caa4e2142cf691af9bb6028545afc6
+http://cdn-s-lb2.pluscdn.pl/ch/1459449/266/dash/edb3b20d/live.mpd
+ 
+#EXTINF:-1 group-title="🇵🇱 Eleven Sports 🇵🇱" tvg-id="PolsatSportPremium2.pl" tvg-logo="https://i.postimg.cc/hGWc3x9N/P2.png",Polsat Sport Premium 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key= 6a20b49be4db4f328e4bb48853124109:f32c1c3c983354bcafb0f2ccb8a59835
+http://cdn-s-lb2.pluscdn.pl/ch/1459450/267/dash/c0858178/live.mpd
+
+#EXTINF:-1 group-title="🇵🇱 Eleven Sports 🇵🇱" tvg-id="PolsatSport2.pl" tvg-logo="https://i.postimg.cc/s2HC0ZFN/pol2.png",Polsat Sport 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3201accccbe9455cbc28dcd4bcdf1509:f4d9a50f98ea833d2e5120d83bd59a23
+https://lb2-e1-82.pluscdn.pl/ch/1455745/96/dash/3880d03f/live.mpd
+
+#EXTINF:-1 group-title="🇵🇱 Eleven Sports 🇵🇱" tvg-id="PolsatSport3.pl" tvg-logo="https://i.postimg.cc/Gpm1QxfD/1-0-1-2913-1-EDC-71-820000-0-0-0.png",Polsat Sport 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=03ddf71c8dae4e8d8b171fb81ecfe609:fc80cf8969cf1b3c2c061eadb94e1330
+https://lb2-e2-21.pluscdn.pl/ch/1455832/117/dash/790ff37c/live.mpd
+
+
+         ################################# MAX & ARENA SPORT #######################
+
+
+#EXTINF:-1 group-title="🇭🇷 Arena Sport 🇭🇷" tvg-id="MaxSport1.hr" tvg-logo="https://i.postimg.cc/MHnrn1Cr/maxsport1.png" group-logo="https://i.postimg.cc/CL7T94Fb/Arena-Sport.png",Max Sport 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"3f272075012158d6930be1345c2a68b2":"043eb2cceaadcfc567fa3ce75b5d9d55","b8192ddc493e5cfeb17c69cbace7235b":"826f30ed40c99d1cab0cd853f1a8e1f6","62a80b73cd3d569fbce3b3dc595f51f0":"0abdd3c170334b7d944b74075f2bfb95"}
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/MAXSport1/default/index.mpd
+
+
+#EXTINF:-1 group-title="🇭🇷 Arena Sport 🇭🇷" tvg-id="MaxSport2.hr" tvg-logo="https://i.postimg.cc/br4Vks8Y/maxsport2.png",Max Sport 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"f69d13ce8e3856cea259774d1276da53":"0c4a9a3ba6680419b9e495f8e6ad5f8a","7b6c599f4fa854929f0f82b2fb845fba":"d03ff127350ba439c122aed8fcc7b69d","627e28eeacd35eb2832fc6da12c47488":"2a3f47f7b90ee19cd1ce566f52ecbd2a"}
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/MAXSport2/default/index.mpd
+
+
+#EXTINF:-1 group-title="🇭🇷 Arena Sport 🇭🇷" tvg-id="ArenaSport1.rs" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-01.png",Arena Sport 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"9002ec8c3dbc55c5bccdcd6871d80fd0":"7099325123bae7810db508727bb0bc7d","c43c83acda60593d8e3607efd5010d7d":"526f4a760ef52ab85056fbc10ea27584","712090aae2065c21951b170bc3002330":"a97774e4175b80205c3cf104e9574208"}
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena1_n/default/index.mpd
+
+#EXTINF:-1 group-title="🇭🇷 Arena Sport 🇭🇷" tvg-id="ArenaSport2.rs" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-02.png",Arena Sport 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c5e5ac1b3cc15fe790f1bc96535fe329":"3defe59c38079ccad25a436200ad3bd7","b2f22f5d7ca35910a73fbabc524954de":"d87d08fbe6505ad7099b8c258f396d15","d256b403efcc5c3db701fc696885e102":"d46e4215e279b224e9d2a772db9c74a1"}
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena2/default/index.mpd
+
+#EXTINF:-1 group-title="🇭🇷 Arena Sport 🇭🇷" tvg-id="ArenaSport3.rs" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-03.png",Arena Sport 3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"3bedf4a896695958907e0984165090f0":"a58317ffddf318f1540f31f67d95b5fb","25c3df3202005cc98c47700295be59ca":"073f5a39d84dd14a9debd1a72bb1f055","ccebefcba0a3546ba34d3fc587651708":"18f2b2027ce26867c23dcd7f57faa245"}
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena3/default/index.mpd
+
+#EXTINF:-1 group-title="🇭🇷 Arena Sport 🇭🇷" tvg-id="ArenaSport4.rs" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-04.png",Arena Sport 4
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"77ce6938c781526e999b688992f27764":"bf1178841770fdba74f8629f0f06d2c0","68cd661dbc8352fda000c532840f6340":"0255fb620f4f707ea7ba090058718306","89d1dc54692e5b4fb5995fc0953bf5bf":"31b8953ab60b90fefc93d9bd1b806fbc"}
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena4/default/index.mpd
+
+#EXTINF:-1 group-title="🇭🇷 Arena Sport 🇭🇷" tvg-id="ArenaSport5.rs" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-05.png",Arena Sport 5
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"e473ec5d96f45a9f9a22eb665b5b1ea9":"ace54ce15b69d249b00395c9e6b85b90","34a709bbeac052f293c778c0770829fd":"2b801fde1ad4839d4080d6ec6b0ec4ce","18d3fba08f3152c38f14151219fa9792":"78b0c5b961351e482be81287466ecb08"}
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena5/default/index.mpd
+
+#EXTINF:-1 group-title="🇭🇷 Arena Sport 🇭🇷" tvg-id="ArenaSport6.rs" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-06.png",Arena Sport 6
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"b3b60e79989a5b2799fa3a2394b8749f":"a25d21e333dad3d131f126b7b57730be","bfd8ff04a3625fcea8335c9575401697":"769d61a2d6fd7030a5088df2e70c2654","5a86e42c58cf5d008546861c0f0fb22a":"67b1172a05bcb38a91a304d7098ce7f5"}
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena6/default/index.mpd
+
+
+#EXTINF:-1 group-title="🇭🇷 Arena Sport 🇭🇷" tvg-id="ArenaSport9.rs" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-09.png",Arena Sport 9
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"91a56f5aab4c56cb88fbf787187acafe":"0000816079a5ec4f093e3274bda26f2a","a2ff372a21b35653a88592abfec3f9a7":"d5bc25088d1fda12849aad90716de750","7ecfd12eb26258c381afadac16ac8fc9":"b4f351533d633abf76cda47fe75d579b"}
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena9/default/index.mpd
+
+
+#######################################_______GO 3 SPORT_______#####################################
+
+#EXTINF:-1 group-title="🇱🇹 Go3 Sport 🇱🇹" tvg-id="GO3 Sport 1 (LT).lt" tvg-logo="https://i.postimg.cc/Bb6TtCtm/gs1.png" group-logo="https://i.postimg.cc/HnZtthfG/gs.png",Go3 Sport 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=610ad79e26a84fc782c987455e21a86b:d2d4acc6e79447b55f3f5c0267af06f5
+https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Sport_HD_HVC.mpd?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NDE0NTQ2ODYsInBhdGgiOiIvbGl2ZS9lZHMvVFYzX1Nwb3J0X0hEX0hWQy9HTzNfTElWRV9EQVNIX0FWQy8iLCJzaXAiOiIxNzYuMjAxLjg2LjIwOCIsImRldmljZV9pZCI6IjE1MjIzNDg4Iiwic2Vzc2lvbl9pZCI6IjAiLCJjbGllbnRfaWQiOiI2NTE5NjYiLCJtYXhfc2Vzc2lvbnMiOjEwLCJzZXNzaW9uX2R1cmF0aW9uIjo4NjQwMH0.JRIle4QCWl_KRdVBjCwzf74H-YQAZ3dx9MtCRZobfOeETa0X_d_smMmG4qjNOl7dltnATXPVU_KNBQxUC-ZQcg&begin=1741422285
+
+ 
+#EXTINF:-1 group-title="🇱🇹 Go3 Sport 🇱🇹" tvg-id="GO3 Sport 2 (LT).lt" tvg-logo="https://i.postimg.cc/nVRKgNwg/gs2.png",Go3 Sport 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3fc5ce88ae24460bafa447b53ab5f548:476a55ef72c5e27e310668b1667da615
+https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport2_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Sport2_HD_HVC.mpd?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NDE0NTQ5MjcsInBhdGgiOiIvbGl2ZS9lZHMvVFYzX1Nwb3J0Ml9IRF9IVkMvR08zX0xJVkVfREFTSF9BVkMvIiwic2lwIjoiMTc2LjIwMS44Ni4yMDgiLCJkZXZpY2VfaWQiOiIxNTIyMzQ4OCIsInNlc3Npb25faWQiOiIwIiwiY2xpZW50X2lkIjoiNjUxOTY2IiwibWF4X3Nlc3Npb25zIjoxMCwic2Vzc2lvbl9kdXJhdGlvbiI6ODY0MDB9.XA6tovEe85pDpEK2XD69foMyVjRy-92euVJHUd2c7Vlu4BiyqB-Xz64pJk_Tv5EsJqSNKfDANHij9sB0HSbdXg&begin=1741422527
+ 
+#EXTINF:-1 group-title="🇱🇹 Go3 Sport 🇱🇹" tvg-id="GO3 Sport 3 (LT).lt" tvg-logo="https://i.postimg.cc/4NYvgwDd/gs3.png",Go3 Sport 3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a2a75672057f462089c2849b8184fcb0:94899CACE4911C617C27D8F878DE2B43
+https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport3_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Sport3_HD_HVC.mpd?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NDE0NTQ5NzAsInBhdGgiOiIvbGl2ZS9lZHMvVFYzX1Nwb3J0M19IRF9IVkMvR08zX0xJVkVfREFTSF9BVkMvIiwic2lwIjoiMTc2LjIwMS44Ni4yMDgiLCJkZXZpY2VfaWQiOiIxNTIyMzQ4OCIsInNlc3Npb25faWQiOiIwIiwiY2xpZW50X2lkIjoiNjUxOTY2IiwibWF4X3Nlc3Npb25zIjoxMCwic2Vzc2lvbl9kdXJhdGlvbiI6ODY0MDB9.Y2auREclBrecsZPGqd0QgV4oqHL_46mZQrU9mB_RQsHJprbdP2fmegHlj-hHq0SJbSBgTnQy0bqXAoWGnjHPAg&begin=1741422569
+
+#EXTINF:-1 group-title="🇱🇹 Go3 Sport 🇱🇹" tvg-id="Go3 Sport Open.lt" tvg-logo="https://i.postimg.cc/rpPBst5Y/Go3so.png",Go3 Sport Open
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=beded6e775a04b0bac876c023e14bab7:96f32a99591584f2194f5162ead8f963
+https://cdnlb.tvplayhome.lt/nPVR/eds/GO3_9795611/GO3_LIVE_DASH/TV3_Sport_OPEN_HD.mpd?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NDE0NTUwMDEsInBhdGgiOiIvblBWUi9lZHMvR08zXzk3OTU2MTEvR08zX0xJVkVfREFTSC8iLCJzaXAiOiIxNzYuMjAxLjg2LjIwOCIsImRldmljZV9pZCI6IjE1MjIzNDg4Iiwic2Vzc2lvbl9pZCI6IjAiLCJjbGllbnRfaWQiOiI2NTE5NjYiLCJtYXhfc2Vzc2lvbnMiOjEwLCJzZXNzaW9uX2R1cmF0aW9uIjo4NjQwMH0._05PjxfurYJEk23l6CRbFMfh_5k2ABBcUNZ1-TwSYJom_jplocIu0XZJEMqQaVf4zODqLa0e2RyIRKTTiZplPw
+
+
+
+#EXTINF:-1 group-title="🇱🇹 Go3 Sport 🇱🇹" tvg-id="Setanta Sports 1.lt" tvg-logo="https://i.postimg.cc/QN0SsFV6/set1.png",Setanta Sports 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f283293f48534648b74ddeda0cd283dd:baaa81b9144162d81da11d4a7e302017
+https://cdnlb.tvplayhome.lt/live/eds/Setanta_LT_HD/GO3_LIVE_DASH/Setanta_LT_HD.mpd?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NDE0NTUwNTcsInBhdGgiOiIvbGl2ZS9lZHMvU2V0YW50YV9MVF9IRC9HTzNfTElWRV9EQVNILyIsInNpcCI6IjE3Ni4yMDEuODYuMjA4IiwiZGV2aWNlX2lkIjoiMTUyMjM0ODgiLCJzZXNzaW9uX2lkIjoiMCIsImNsaWVudF9pZCI6IjY1MTk2NiIsIm1heF9zZXNzaW9ucyI6MTAsInNlc3Npb25fZHVyYXRpb24iOjg2NDAwfQ._7AnpNayy8-e0CsUcTo1lyGCBN8MS7C37_SPIqFwZNZfmzxmLOB580ZJD_aCnZH1Et1nzrFpbiAoyPrLc5fSTA&begin=1741422656
+
+#EXTINF:-1 group-title="🇱🇹 Go3 Sport 🇱🇹" tvg-id="Setanta Sports 2.lt" tvg-logo="https://i.postimg.cc/wMKnc8fX/ss2.png",Setanta Sports 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cf9689067bc0465593084d7832982fd1:07454bafd70413ab57a3eb25de2c79c3
+https://cdnlb.tvplayhome.lt/nPVR/eds2/GO3_9793841/GO3_LIVE_DASH/Setanta_2_HD.mpd?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NDE0NTUwOTcsInBhdGgiOiIvblBWUi9lZHMyL0dPM185NzkzODQxL0dPM19MSVZFX0RBU0gvIiwic2lwIjoiMTc2LjIwMS44Ni4yMDgiLCJkZXZpY2VfaWQiOiIxNTIyMzQ4OCIsInNlc3Npb25faWQiOiIwIiwiY2xpZW50X2lkIjoiNjUxOTY2IiwibWF4X3Nlc3Npb25zIjoxMCwic2Vzc2lvbl9kdXJhdGlvbiI6ODY0MDB9.OLQxqynO8IGUGJqJG5p2jfcfQllyHJsHA1qjxkYjAq4NTWH8WQmz05eXt09wvAnetD5uv3sJ-XY35rJ_CxHvpQ
+
+#EXTINF:-1 group-title="🇱🇹 Go3 Sport 🇱🇹" tvg-id="Sport 1.lt" tvg-logo="https://i.postimg.cc/WprBpzzX/Sp1.png",Sport 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9cf707a618a34753a04f05ceb91bcb83:6d33705723564c54b2b504823dbd21dc
+https://cdnlb.tvplayhome.lt/nPVR/eds2/GO3_9783795/GO3_LIVE_DASH_AVC/Sport1_HD_HVC.mpd?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NDE0NTUxMjcsInBhdGgiOiIvblBWUi9lZHMyL0dPM185NzgzNzk1L0dPM19MSVZFX0RBU0hfQVZDLyIsInNpcCI6IjE3Ni4yMDEuODYuMjA4IiwiZGV2aWNlX2lkIjoiMTUyMjM0ODgiLCJzZXNzaW9uX2lkIjoiMCIsImNsaWVudF9pZCI6IjY1MTk2NiIsIm1heF9zZXNzaW9ucyI6MTAsInNlc3Npb25fZHVyYXRpb24iOjg2NDAwfQ.wwdlyMol_f47NEEPCrW276_Dgi1ZT1n7czYquvLYWVnIdEmgN4on2Cy3xJBDOtO6jaNsMFuaG3SX8M1knHKCog
+
+#EXTINF:-1 group-title="🇱🇹 Go3 Sport 🇱🇹" tvg-id="Sport 1.lt"",Fiba HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=beded6e775a04b0bac876c023e14bab7:96f32a99591584f2194f5162ead8f963
+https://cdnlb.tvplayhome.lt/live/eds/FIBA_HD_HVC/GO3_LIVE_DASH_AVC/FIBA_HD_HVC.mpd?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NDEyOTc4NTIsInBhdGgiOiIvbGl2ZS9lZHMvRklCQV9IRF9IVkMvR08zX0xJVkVfREFTSF9BVkMvIiwic2lwIjoiODcuMTAuMTU5LjE5NyIsImRldmljZV9pZCI6IjE1MjIzNDg4Iiwic2Vzc2lvbl9pZCI6IjAiLCJjbGllbnRfaWQiOiI2NTE5NjYiLCJtYXhfc2Vzc2lvbnMiOjEwLCJzZXNzaW9uX2R1cmF0aW9uIjo4NjQwMH0.5kiEO8VrZD0YzNzITSCRaP_pX2Ohn3kFhwWXw6_VJb5LSaATYE40VHeIwnetb0k9mXrLFsZfzCVpE4K86xj2jg&begin=1741265451
+
+#########################################______beIN SPORTS_______#####################################
+
+#EXTINF:-1 group-title="🇫🇷 beIN Sports 🇫🇷" tvg-id="beinSports1.fr" tvg-logo="https://i.postimg.cc/rytzM68X/b1.png" group-logo="https://i.postimg.cc/2yv5wWH8/BeIN.png",beIN Sports 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={b6362975ca29d0685b7cac721b6faa26:da04d180e9028af27482b6a37c81e020,6ca2f2c822444ff76d9570741dec7b2b:9fc3d71ab30e8d33f09ee29e5e453608,3cf686dc4246f19bc4419c54da0f90bc:b40f599266c8a262ccf4a384dadce08a,6ca2f2c822444ff76d9570741dec7b2b:9fc3d71ab30e8d33f09ee29e5e453608}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/966/1/live.mpd
+
+#EXTINF:-1 group-title="🇫🇷 beIN Sports 🇫🇷" tvg-id="beinSports2.fr" tvg-logo="https://i.postimg.cc/9F50fxM4/b2.png",beIN Sports 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={85ac9362e89354ef5341fe4dbee0dd6a:e556276599c55bdee169f39eab8e56bc,71fcdcfd58c608662db317fcf4411c19:eaf76e97b969a7d124a720a109acda61,6c976caa628fde89aacedbd47059967e:0d1e54565950c1e2f58d45c561a47187,7a62a516c5d980553f497c6bfc469b19:a0eeb97b4d14d6bb7a5c39755dd7c41c,f81df5cf72bd43c3da84d04dc8691fcb:4a60e4e009560c40766a0fa38770ef4e}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/970/1/live.mpd
+
+#EXTINF:-1 group-title="🇫🇷 beIN Sports 🇫🇷" tvg-id="beinSports3.fr" tvg-logo="https://i.postimg.cc/gkVJLvXg/b3.png",beIN Sports 3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={441100b7de65d7c582a9c71140e46f79:ef37dadc14bdade17224ef4bc9f87ce6,92e8cc9527c7f56a10777278cb801027:4ce3f3e2234f00b21ba77006f197832a}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/971/1/live.mpd
+
+#EXTINF:-1 group-title="🇫🇷 beIN Sports 🇫🇷" tvg-id="Bein5Max.fr" tvg-logo="https://i.postimg.cc/fRMbcJYD/b5.png",beIN Sports Max 5
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={b0478fd26424e88fa1e6478ee35d7f08:f5044242d8d224cae4087fd8ef654023,2275129f285677145e34eb8be249ae4a:75055c6051d650c529627b1e626f530a,2eb72cb8d525719cdda3e1f5cc43b342:e0797e22865754872052015dda2905f7,0ad2dbd3aefe207034f24050ebc98cd1:0b121fe769d0b1b45a3a6bb8c40e3405}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/973/1/live.mpd
+
+#EXTINF:-1 group-title="🇫🇷 beIN Sports 🇫🇷" tvg-id="Bein6Max.fr" tvg-logo="https://i.postimg.cc/g0Jk7QM7/b6.png",beIN Sports Max 6
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={c98631345149436c3778caeab57d97c5:6125590eb9a0cb8c9a17dd2680000292,9f899ca412e180776f885c0c214b02a0:3f357dd3dfaf92623903ca91b88b05f4,03ee66e926f6a34a1815f117bc12799c:1dc895a43e207f02bd2fce62de5fbd3a,257180b06ff9cbcdbaabc1ae37650f9e:a00768d01bc82c2dd7e211c59addc9a6}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/974/1/live.mpd
+
+#EXTINF:-1 group-title="🇫🇷 beIN Sports 🇫🇷" tvg-id="Bein7Max.fr" tvg-logo="https://i.postimg.cc/j5nqxNYQ/b7.png",beIN Sports Max 7
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={3fabbf841767a645ad2d85c1e099e94d:bde635aa3028aab38d680672f88a0c7c,c4c64f1414958cde07fe40cd85f2238c:ce2887b843b7590a5ee083a4d8f667c2,6de1fab48d825b39a63746d89e90a848:2435a1110e892b7da94e79a7bd49b49c,337348892caabbb14763548ccb1a6ac7:7445c17d6da33a64ea8238a433f9cbe3}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/975/1/live.mpd
+
+#EXTINF:-1 group-title="🇫🇷 beIN Sports 🇫🇷" tvg-id="Bein8Max.fr" tvg-logo="https://i.postimg.cc/gcRc1vDG/b8.png",beIN Sports Max 8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={9f2c98006a33bbc83f7c03ef3530403b:546b1d34b1be111c513d38fecaea99e4,eb4949796839b08918bc4ebc25aceba6:9b53a7fc07fa9051aacf8bc693b187b0,d0525914e6c3e6be6fe85dcdb8a3be2f:da1c96b903c0c252f1b1d82f2517c07e,4b09dd7a5aff601212f3d498309e467c:7ed57d36a85bba88b737693ab368330e}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/976/1/live.mpd
+
+
+#EXTINF:-1 group-title="🇫🇷 beIN Sports 🇫🇷" tvg-id="Bein9Max.fr" tvg-logo="https://i.postimg.cc/WbvpVhWg/b9.png",beIN Sports Max 9
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={4526ccd7d499b0b24011ce5adce18656:3d2ed80cf1f5a9a4b9a7621b9e6c4e2a,e2006d8a33025cd7943a5f02001781ec:35c7b2ec27f2b37492707a8b4cd37154,1a31894f0c41a0fe0c508784d0d1569b:121164311f7b308a37e5504b717ae3d5,a8d5f0e00214e3777d75b89b05daf64d:f0371e88f6c2bf7844d69d9b9e0a52af}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/977/1/live.mpd
+
+#EXTINF:-1 group-title="🇫🇷 beIN Sports 🇫🇷" tvg-id="Bein10Max.fr" tvg-logo="https://i.postimg.cc/sD4jgsq8/b10.png",beIN Sports Max 10
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ca1d0a53a606f8ffeb028f6b2477baa3:388a61759de362dfcadef721b936d69a,15dabcf1eabc8717842feb65f7152107:7380f61795caebec26b0713bce2a4e3d,f9c2a25bbabc8d3804df46418069ef07:27ca457a2bb9751a5c1eb158474346a0,c41b8b295c08307ddc1e3a22ea912772:d925fe683ed91e5837aaa4e5147ad885}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/978/1/live.mpd
+
+#########################################______Sky Germany_______#####################################
+
+#EXTINF:-1 group-title="🇩🇪 Sky Sport Germania 🇩🇪" tvg-id="" tvg-logo="https://i.postimg.cc/fL88c04S/news.png" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/640px-Sky_Sport_-_Logo_2020.svg.png",Sky Sport News
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=000bb0a824a13b6f8b5a3fbfd9800604:2cd0a3159571c4d47508ce5a70977978
+https://linear203-de-dash1-prd-ak.cdn12.skycdp.com/bced/031111-50/index_stereo.mpd
+
+#EXTINF:-1 group-title="🇩🇪 Sky Sport Germania 🇩🇪" tvg-id="SkySportTopEvent.de" tvg-logo="https://i.postimg.cc/QCPSPGdX/top.png" group-logo="",Sky Sport Top Event
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=000b3265e1f9d52374c6c4705a258f7a:d223e0fec55e0a22344d1cacb8cd2855
+https://linear202-de-dash1-prd-cf.cdn12.skycdp.com/bced/035111-50/index_stereo.mpd?c3.ri=13505850375982214528
+
+
+#EXTINF:-1 group-title="🇩🇪 Sky Sport Germania 🇩🇪" tvg-id="SkySportBundesliga.de" tvg-logo="https://i.postimg.cc/rFBQNkHj/bund.png" group-logo="",Sky Sport Bundesliga
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=000b91433c3dfc40a6887ecec0778991:b2fc23888e7adbd77955a7d0922e7f32
+https://linear201-de-dash1-prd-cf.cdn12.skycdp.com/bced/031121-50/index_stereo.mpd
+
+#EXTINF:-1 group-title="🇩🇪 Sky Sport Germania 🇩🇪" tvg-id="SkySportF1.de" tvg-logo="https://i.postimg.cc/wjDFWr8p/f1.png" group-logo="",Sky Sport F1 HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=000b4b05b463b25ac9474c6b8de9242a:108e1dc2c98ce68de84cbfd1b1715c03
+https://linear201-de-dash1-prd-cf.cdn12.skycdp.com/bced/032111-50/index_stereo.mpd
+
+#EXTINF:-1 group-title="🇩🇪 Sky Sport Germania 🇩🇪" tvg-id="SkySportPremierLeague.de" tvg-logo="https://i.postimg.cc/rpcj79Mt/premier.png" group-logo="",Sky Sport Premier League HD 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=000b2220a2bae0b9b2dfa341582ee285:493beae94ad79f4b35a0cefc9913904d
+https://linear202-de-dash1-prd-cf.cdn12.skycdp.com/bced/036371-50/index_stereo.mpd
+
+#EXTINF:-1 group-title="🇩🇪 Sky Sport Germania 🇩🇪" tvg-id="SkySportTennis.de" tvg-logo="https://i.postimg.cc/W3Y7FLrM/tennis.png" group-logo="",Sky Sport Tennis
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=000b3aca84165114cd1df7201bc203bb:02e513f4b67ecd0d16c13621b799575f
+https://linear203-de-dash1-prd-cf.cdn12.skycdp.com/bced/032132-50/index_stereo.mpd
+
+#EXTINF:-1 group-title="🇩🇪 Sky Sport Germania 🇩🇪" tvg-id="SkySportMix.de" tvg-logo="https://i.postimg.cc/1XgrDCcb/mix.png" group-logo="",Sky Sport Mix HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=000b5ecb74eeb600a85eafc5cf9e559d:47210fcd0a0c1124e3b85d7721948d81
+https://linear203-de-dash1-prd-ak.cdn12.skycdp.com/bced/031131-50/index_stereo.mpd
+
+#EXTINF:-1 group-title="🇩🇪 Sky Sport Germania 🇩🇪" tvg-id="SkyBundesliga1.de" tvg-logo="https://i.postimg.cc/jS6Q6JPq/bund1.png" group-logo="",Sky Sport Bundesliga 1 HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=000b0e3422812fcf3d1eb8cdf7511193:1fe928a3793feb3739f293b0b1b81d1d
+https://linear205-de-dash1-prd-cf.cdn12.skycdp.com/bced/031122-50/index_stereo.mpd?c3.ri=13506694840182110962
+
+#EXTINF:-1 group-title="🇩🇪 Sky Sport Germania 🇩🇪" tvg-id="SkyBundesliga2.de" tvg-logo="https://i.postimg.cc/6QYrgJMD/bund2.png" group-logo="",Sky Sport Bundesliga 2 HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=000befd7c86292bb122e08bcfc0a06c2:d1cdb3b40de46f75910b2b69ffea9dab
+https://linear204-de-dash1-prd-cf.cdn12.skycdp.com/bced/031123-50/index_stereo.mpd?c3.ri=13507539225871841869
+
+#EXTINF:-1 group-title="🇩🇪 Sky Sport Germania 🇩🇪" tvg-id="SkyBundesliga3.de" tvg-logo="https://i.postimg.cc/fLych2Fk/bund3.png" group-logo="",Sky Sport Bundesliga 3 HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=000b2bff43fd13add0f7e3fd8a7d3066:cf859a91af1aed3d87b148e8fcb9111f
+https://linear205-de-dash1-prd-cf.cdn12.skycdp.com/bced/031124-50/index_stereo.mpd?c3.ri=13636454765108855000
+
+#EXTINF:-1 group-title="🇩🇪 Sky Sport Germania 🇩🇪" tvg-id="SkyBundesliga4.de" tvg-logo="https://i.postimg.cc/MHj1nczS/bund4.png" group-logo="",Sky Sport Bundesliga 4 HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key="000ba721a0fffe492656276b76701d85:746161b7ed203532f40ac3f3852bd12a
+https://linear204-de-dash1-prd-ak.cdn12.skycdp.com/bced/031125-50/index_stereo.mpd?c3.ri=13634484479606654705
+
+
+#EXTINF:-1 group-title="🇩🇪 Sky Sport Germania 🇩🇪" tvg-id="SkyBundesliga5.de" tvg-logo="https://i.postimg.cc/WbgfKzgC/bund5.png" group-logo="",Sky Sport Bundesliga 5 HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=000ba721a0fffe492656276b76701d85:746161b7ed203532f40ac3f3852bd12a
+https://linear205-de-dash1-prd-cf.cdn12.skycdp.com/bced/032126-50/index_stereo.mpd
+
+
+#EXTINF:-1 group-title="🇩🇪 Sky Sport Germania 🇩🇪" tvg-id="SkyBundesliga6.de" tvg-logo="https://i.postimg.cc/fb2HX9Qt/bund6.png" group-logo="",Sky Sport Bundesliga 6 HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=000b93f4cd3cf2e0a79b4f570de9064e:c04740423c9d905fb2b42c94984a07c2
+https://linear204-de-dash1-prd-cf.cdn12.skycdp.com/bced/032127-50/index_stereo.mpd?c3.ri=13502191240641775167
+
+#EXTINF:-1 group-title="🇩🇪 Sky Sport Germania 🇩🇪" tvg-id="SkyBundesliga7.de" tvg-logo="https://i.postimg.cc/j2NvG3wP/bund7.png" group-logo="",Sky Sport Bundesliga 7 HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=000bd8b6c5f00ed56c0bc8a34b2d2ca4:5e298929447466673d71435c2d7fa6c0
+https://linear205-de-dash1-prd-ak.cdn12.skycdp.com/bced/032128-50/index_stereo.mpd?c3.ri=13637299230337387544
+
+#EXTINF:-1 group-title="🇩🇪 Sky Sport Germania 🇩🇪" tvg-id="SkyBundesliga8.de" tvg-logo="https://i.postimg.cc/WpJ9FzWz/bund8.png" group-logo="",Sky Sport Bundesliga 8 HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=000b515a54f277731478899911227339:5350da39164e676184b82f30953cf0a9
+https://linear204-de-dash1-prd-cf.cdn12.skycdp.com/bced/032129-50/index_stereo.mpd?c3.ri=13497124691378697070
+
+
+#EXTINF:-1 group-title="🇩🇪 Sky Sport Germania 🇩🇪" tvg-id="SkySport1.de" tvg-logo="https://i.postimg.cc/bNcmQPWT/sp1.png" group-logo="",Sky Sport 1 HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=000bb4f41aca8f0cc5c3bce2d89b11c7:fe0b0d6afc9c3aea3e072f4fa84fd4fd
+https://linear207-de-dash1-prd-ak.cdn12.skycdp.com/bced/031133-50/index_stereo.mpd
+
+#EXTINF:-1 group-title="🇩🇪 Sky Sport Germania 🇩🇪" tvg-id="SkySport2.de" tvg-logo="https://i.postimg.cc/FKRp9Hk9/sp2.png" group-logo="",Sky Sport 2 HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=000b30baaef9ce42989c3cbc4547756a:6401b5955507bfd8e1b69a943e2cde09
+https://linear206-de-dash1-prd-cf.cdn12.skycdp.com/bced/031134-50/index_stereo.mpd
+
+#EXTINF:-1 group-title="🇩🇪 Sky Sport Germania 🇩🇪" tvg-id="SkySport3.de" tvg-logo="https://i.postimg.cc/nr8GYKRz/sp3.png" group-logo="",Sky Sport 3 HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=000b26e63fa6d54eaa78068ec56ccb9e:30dce00cfc4a954f38ac587983df1bab
+https://linear207-de-dash1-prd-ll.cdn12.skycdp.com/bced/031135-50/index_stereo.mpd?c3.ri=13637299230337389786
+
+#EXTINF:-1 group-title="🇩🇪 Sky Sport Germania 🇩🇪" tvg-id="SkySport4.de" tvg-logo="https://i.postimg.cc/6qdLH7gh/sp4.png" group-logo="",Sky Sport 4 HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=000bf8acf94dda31314f272f257fef35:17968773e35048dd95fd31fad0236116
+https://linear206-de-dash1-prd-ak.cdn12.skycdp.com/bced/031136-50/index_stereo.mpd?c3.ri=13629417890724649422
+
+#EXTINF:-1 group-title="🇩🇪 Sky Sport Germania 🇩🇪" tvg-id="SkySport5.de" tvg-logo="https://i.postimg.cc/HW52WKn7/sp5.png" group-logo="",Sky Sport 5 HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=000bd759564061ca717c4115315c5c3e:ec6cd1c7a10bf657d7df2d1660dc2495
+https://linear207-de-dash1-prd-ak.cdn12.skycdp.com/bced/031137-50/index_stereo.mpd?c3.ri=13507820740513628467
+
+#EXTINF:-1 group-title="🇩🇪 Sky Sport Germania 🇩🇪" tvg-id="SkySport6.de" tvg-logo="https://i.postimg.cc/TYJJgDrd/sp6.png" group-logo="",Sky Sport 6 HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=000b071401ece1c0ef596e844fa25a90:a267b189a262af087b094f7a64ba0457
+https://linear206-de-dash1-prd-cf.cdn12.skycdp.com/bced/032138-50/index_stereo.mpd
+
+#EXTINF:-1 group-title="🇩🇪 Sky Sport Germania 🇩🇪" tvg-id="SkySport7.de" tvg-logo="https://i.postimg.cc/q7zsPDWq/sp7.png" group-logo="",Sky Sport 7 HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=000bd8b6c5f00ed56c0bc8a34b2d2ca4:5e298929447466673d71435c2d7fa6c0
+https://linear205-de-dash1-prd-cf.cdn12.skycdp.com/bced/032128-50/index_stereo.mpd?c3.ri=13501346776170309274
+
+
+
+#########################################______Dazn Spain_______#####################################
+
+#EXTINF:-1 group-title="🇪🇸 Dazn Spagna 🇪🇸" tvg-id="DAZN 1.es" tvg-logo="https://i.postimg.cc/52CXTCtL/1.png" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/DAZN_logo.svg/764px-DAZN_logo.svg.png",DAZN 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=44dd9cd370b08a868ead115fe84ecfde:bff19ab0a51cf14e848389b152913fd0
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd
+
+
+
+#EXTINF:-1 group-title="🇪🇸 Dazn Spagna 🇪🇸" tvg-id="DAZN 2.es" tvg-logo="https://i.postimg.cc/MG0vKJVG/2.png" group-logo=",DAZN 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0eab5a3f3e3b4ba5d42d40ca30d17571:f3f061ded9b70e8160590d5802ecda6d
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/xnk4m9bnxt/out/v1/4ced7b7329a54652b9bb0521ed38bd4d/cenc.mpd
+
+#EXTINF:-1 group-title="🇪🇸 Dazn Spagna 🇪🇸" tvg-id="DAZN F1.es" tvg-logo="https://i.postimg.cc/vB0QKYFp/f1.png" group-logo=",DAZN F1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1061be12d303247426ec25e8369b2647:bd622b0e610295de3b0bccb850ccaaaa
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/cqbcvgkb83/out/v1/4dbe05ecfb1540448d82d68eeebfbb1c/cenc.mpd
+
+#EXTINF:-1 group-title="🇪🇸 Dazn Spagna 🇪🇸" tvg-id="LALIGA TV HYPERMOTION.es" tvg-logo="https://i.postimg.cc/D0m2k97m/1.png" group-logo=",LALIGA TV HYPERMOTION
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"b770d5b4bb6b594daf985845aae9aa5f":"b0cb46d2d31cf044bc73db71e9865f6f","6d08b265a6639e32da7c880d5491e3d2":"0c92556ca14b95f367993710e7cfbc94"}
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+https://ottb.live.cf.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/sjnpvfucqg/out/v1/3934680f71e04ed28dbf64fc52c3a6e7/cenc.mpd
+
+#EXTINF:-1 group-title="🇪🇸 Dazn Spagna 🇪🇸" tvg-id="LALIGA TV HYPERMOTION 2.es" tvg-logo="https://i.postimg.cc/gcBzq2Kh/2.png" group-logo=",LALIGA TV HYPERMOTION 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"b770d5b4bb6b594daf985845aae9aa5f":"b0cb46d2d31cf044bc73db71e9865f6f","0b1fdeaee3ffc51e9a66cf1938d57aaf":"28e3cb88ab7b476b81ab8aa0624c4d71"}
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+https://ottb.live.cf.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/yvsgzqgeop/out/v1/80af0c4e8d9b4d5681aaa68cb27a2799/cenc.mpd
+
+#EXTINF:-1 group-title="🇪🇸 Dazn Spagna 🇪🇸" tvg-id="LALIGA TV HYPERMOTION 3.es" tvg-logo="https://i.postimg.cc/xTJ0sVs4/3.png" group-logo=",LALIGA TV HYPERMOTION 3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"b770d5b4bb6b594daf985845aae9aa5f":"b0cb46d2d31cf044bc73db71e9865f6f","d8235cccf08d0ff149a20dfcd11ff68b":"e8ea3a1ae6892eb76a73dc1b14d216d6"}
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+https://ottb.live.cf.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/vcog5dpiby/out/v1/62521b63232844669628ad2c35776bd1/cenc.mpd
+
+#########################################______Dazn Germany_______#####################################
+
+#EXTINF:-1 group-title="Dazn Germania" tvg-logo="https://i.postimg.cc/52CXTCtL/1.png" group-logo="",DAZN 1 HD
+#EXTVLCOPT:http-user-agent=(compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; 15660D55-454A-BF2D-2B51-712B2B9D20E8; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; 15660D55-454A-BF2D-2B51-712B2B9D20E8)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+
+ 
+#EXTINF:-1 group-title="Dazn Germania" tvg-logo="https://i.postimg.cc/MG0vKJVG/2.png",DAZN 2 HD
+#EXTVLCOPT:http-user-agent=(compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; 15660D55-454A-BF2D-2B51-712B2B9D20E8; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; 15660D55-454A-BF2D-2B51-712B2B9D20E8)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+
+ 
+#EXTINF:-1 group-title="Dazn Germania" tvg-logo="https://i.postimg.cc/VNdQNj3H/fuss.png",SPORTDIGITAL FUSSBALL
+#EXTVLCOPT:http-user-agent=(compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; 15660D55-454A-BF2D-2B51-712B2B9D20E8; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; 15660D55-454A-BF2D-2B51-712B2B9D20E8)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+
+ 
+#EXTINF:-1 group-title="Dazn Germania" tvg-logo="https://i.postimg.cc/yNHwVffR/FAST.png",DAZN FAST
+#EXTVLCOPT:http-user-agent=(compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; 15660D55-454A-BF2D-2B51-712B2B9D20E8; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; 15660D55-454A-BF2D-2B51-712B2B9D20E8)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
+
+ 
+#EXTINF:-1 group-title="Dazn Germania" tvg-logo="https://i.postimg.cc/vZssBHTD/RISE.png",DAZN RISE
+#EXTVLCOPT:http-user-agent=(compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; 15660D55-454A-BF2D-2B51-712B2B9D20E8; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; 15660D55-454A-BF2D-2B51-712B2B9D20E8)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
+
+ 
+#EXTINF:-1 group-title="Dazn Germania" tvg-logo="https://i.postimg.cc/7LdQ21rw/boxing.png",Boxing TV
+#EXTVLCOPT:http-user-agent=(compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; 15660D55-454A-BF2D-2B51-712B2B9D20E8; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; 15660D55-454A-BF2D-2B51-712B2B9D20E8)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
+
+ 
+#EXTINF:-1 group-title="Dazn Germania" tvg-logo="https://i.postimg.cc/bYQFZ2Cf/bill.png",Billiard TV
+#EXTVLCOPT:http-user-agent=(compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; 15660D55-454A-BF2D-2B51-712B2B9D20E8; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; 15660D55-454A-BF2D-2B51-712B2B9D20E8)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
+
+ 
+#EXTINF:-1 group-title="Dazn Germania" tvg-logo="https://i.postimg.cc/kXs1cPPj/motorvision.png",Motorvision TV
+#EXTVLCOPT:http-user-agent=(compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; 15660D55-454A-BF2D-2B51-712B2B9D20E8; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; 15660D55-454A-BF2D-2B51-712B2B9D20E8)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
+
+ 
+#EXTINF:-1 group-title="Dazn Germania" tvg-logo="https://i.postimg.cc/T3PkNNRT/Padel-Time.png",PadelTime Tv
+#EXTVLCOPT:http-user-agent=(compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; 15660D55-454A-BF2D-2B51-712B2B9D20E8; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; 15660D55-454A-BF2D-2B51-712B2B9D20E8)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
+
+
+###########################################TNT_SPORT#######################################################
+
+#EXTINF:-1 group-title="🇬🇧 TNT Sports 🇬🇧" tvg-id="TNTSport1.uk" tvg-logo="https://i.postimg.cc/KYwMrJGj/1.png" group-logo="https://i.postimg.cc/26WBHhyw/tnt.png",TNT Sports 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
+https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+ 
+#EXTINF:-1 group-title="🇬🇧 TNT Sports 🇬🇧" tvg-id="TNTSport2.uk" tvg-logo="https://i.postimg.cc/Kjy3Cjgy/2.png" group-logo="",TNT Sports 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
+https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
+ 
+#EXTINF:-1 group-title="🇬🇧 TNT Sports 🇬🇧" tvg-id="TNTSport3.uk" tvg-logo="https://i.postimg.cc/T1q5xxr5/3.png" group-logo="",TNT Sports 3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4e993aa8c1f295f8b94e8e9e6f6d0bfe:86a1ed6e96caab8eb1009fe530d2cf4f
+https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
+ 
+#EXTINF:-1 group-title="🇬🇧 TNT Sports 🇬🇧" tvg-id="TNTSport4.uk" tvg-logo="https://i.postimg.cc/vZmgJpDD/4.png" group-logo="",TNT Sports 4
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e31a5a81caff5d07ea2411a571fc2e59:96c5ef69479732ae734f962748c19729
+https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
+
+#EXTINF:-1 group-title="🇬🇧 TNT Sports 🇬🇧" tvg-id="TNTSport5.uk" tvg-logo="https://i.postimg.cc/8CJF5MRS/5.png" group-logo="",TNT Sports 5
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=60c0d9b41475e01db4ffb91ed557fbcc:36ee40e58948ca15e3caba8d47b8f34b
+                                 
+
+          #################################Tring Sport Albania#######################
+
+
+#EXTINF:-1 group-title="Tring Sport Albania",Tring Sport 3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"84fa1d51977949ae84139e615206b1e2":"fa8dec5cadd468ecc76ea11f75b0e10b","e601155c239a4c1eaffa55cd26551d5d":"f5aac7ec60c9e5c0fc10ec6599842e5d"
+
+#EXTINF:-1 group-title="Tring Sport Albania",Tring Sport 4
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"5d52eb6eef80433fac60fc99255ddc0b":"95f3325b3d828312cdc510f30a280af8","9384d63d83194230b62bd5ab088626ce":"4f2783df34a16f13ba2a074f0062cf29"}
+
+
+#EXTINF:-1 group-title="Tring Sport Albania",Tring Sport 5
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"0c3cb52919674bc7a1b4f047a04241dc":"9efdecc6df1b8be1dea3e301a10d8ed4","30572373426048ed9ac8ca578d05dbdf":"142dd0c2e94c4a8be512c51e0d95f962"}
