@@ -1,4 +1,12 @@
 #EXTM3U url-tvg="https://epg.ovh/pltv.xml"
+#EXTINF:-1 tvg-id="TVP1 HD" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/tvp-1.png" group-title="TELEWIZJA IPTV",TVP1 HD
+https://liveovh011.cda.pl/2SHZi_SkX4h0MDflza1PPw/1753748478/3480440/enc115/tvp1hdraw/tvp1hdraw.mpd
+#EXTINF:-1 tvg-id="TVP2 HD" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/tvp-2.png" group-title="TELEWIZJA IPTV",TVP2 HD
+https://liveovh011.cda.pl/2SHZi_SkX4h0MDflza1PPw/1753748478/3480440/enc115/tvp2hdraw/tvp2hdraw.mpd
+#EXTINF:-1 tvg-id="Polsat" tvg-logo="https://r-scale-14.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/11046756/images/1742552757302/11046756.png?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="TELEWIZJA IPTV",Polsat
+https://cdn-s-lb2.pluscdn.pl/ch/1502600/308/dash/20a18c30/live.mpd
+#EXTINF:-1 tvg-id="TV 4" tvg-logo="https://r-scale-f9.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/11046757/images/1742552790198/11046757.png?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="TELEWIZJA IPTV",TV 4
+https://cdn-s-lb2.pluscdn.pl/ch/1502601/309/dash/e25c2c93/live.mpd
 #EXTINF:-1 tvg-id="TVN HD" tvg-logo="https://r-scale-4a.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/1908473/images/55267668?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="TELEWIZJA IPTV",TVN HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -11,20 +19,6 @@ https://r.dcs.redcdn.pl/livedash/o2/tvnplayer/live/tvn/live.isml/playlist.mpd?in
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7c34304083fabe177078a4f8acdd19e8:0be71f99b079bf58a69356b53fcc5be8
 https://r.dcs.redcdn.pl/livedash/o2/tvnplayer/live/tvn_7/live.isml/playlist.mpd?indexMode=&dummyfile=&server_side_events=0&dvr=7200000
-#EXTINF:-1 tvg-id="TVN24 HD" tvg-logo="https://r-scale-d2.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/57630/images/49770089?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="TELEWIZJA IPTV",TVN24 HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=cfeda6b8ee85c549e55b9f56e02ff375:c578b1c9c00b917fc84eae4d65bc73ad
-https://r.dcs.redcdn.pl/livedash/o2/tvnplayer/live/tvn_24/live.isml/playlist.mpd?indexMode=&dummyfile=&server_side_events=0&dvr=7200000
-#EXTINF:-1 tvg-id="TVP1 HD" tvg-logo="https://r-scale-6e.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/9866669/images/55947096.png?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="TELEWIZJA IPTV",TVP1 HD
-https://liveovh011.cda.pl/2SHZi_SkX4h0MDflza1PPw/1753748478/3480440/enc115/tvp1hdraw/tvp1hdraw.mpd
-#EXTINF:-1 tvg-id="TVP2 HD" tvg-logo="https://r-scale-a7.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/9866671/images/55947104.png?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="TELEWIZJA IPTV",TVP2 HD
-https://liveovh011.cda.pl/2SHZi_SkX4h0MDflza1PPw/1753748478/3480440/enc115/tvp2hdraw/tvp2hdraw.mpd
-#EXTINF:-1 tvg-id="Polsat" tvg-logo="https://r-scale-14.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/11046756/images/1742552757302/11046756.png?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="TELEWIZJA IPTV",Polsat
-https://cdn-s-lb2.pluscdn.pl/ch/1502600/308/dash/20a18c30/live.mpd
-#EXTINF:-1 tvg-id="TV 4" tvg-logo="https://r-scale-f9.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/11046757/images/1742552790198/11046757.png?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="TELEWIZJA IPTV",TV 4
-https://cdn-s-lb2.pluscdn.pl/ch/1502601/309/dash/e25c2c93/live.mpd
 #EXTINF:-1 tvg-id="TV Puls" tvg-logo="https://r-scale-0e.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/9353728/images/55544962?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="TELEWIZJA IPTV",TV Puls
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -33,12 +27,38 @@ https://cdn-s-lb2.pluscdn.pl/ch/1502601/309/dash/e25c2c93/live.mpd
 https://liveovh011.cda.pl/2SHZi_SkX4h0MDflza1PPw/1753748478/3480440/enc030/tvpuls/tvpuls.mpd
 #EXTINF:-1 tvg-id="PULS FHD 4K" tvg-logo="https://r-scale-0e.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/9353728/images/55544962?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="TELEWIZJA IPTV",PULS FHD 4K
 http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105357
+#EXTINF:-1 tvg-id="TVN24 HD" tvg-logo="https://r-scale-d2.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/57630/images/49770089?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="TELEWIZJA IPTV",TVN24 HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=cfeda6b8ee85c549e55b9f56e02ff375:c578b1c9c00b917fc84eae4d65bc73ad
+https://r.dcs.redcdn.pl/livedash/o2/tvnplayer/live/tvn_24/live.isml/playlist.mpd?indexMode=&dummyfile=&server_side_events=0&dvr=7200000
 #EXTINF:-1 tvg-id="TTV HD" tvg-logo="https://r-scale-79.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/1908475/images/49770120?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="TELEWIZJA IPTV",TTV HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6d74e7e5d705252f2d9c454f9945dc69:32468b529c8cd2481adeea50dcd94480
 https://r.dcs.redcdn.pl/livedash/o2/tvnplayer/live/ttv/live.isml/playlist.mpd?indexMode=&dummyfile=&server_side_events=0&dvr=7200000
+#EXTINF:-1 tvg-id="TV Republika HD" tvg-logo="" group-title="TELEWIZJA IPTV",TV Republika HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=36643337373565356635383232326534:63653137323030313139363063333932
+https://liveovh011.cda.pl/2SHZi_SkX4h0MDflza1PPw/1753748478/3480440/enc120/tvrepublikahd/tvrepublikahd.mpd
+#EXTINF:-1 tvg-id="wPolsce 24 HD" tvg-logo="" group-title="TELEWIZJA IPTV",wPolsce 24 HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=35633130636639316364383436346466:39313938633537373961623262383765
+https://liveovh011.cda.pl/2SHZi_SkX4h0MDflza1PPw/1753748478/3480440/enc110/wpolsceplhd/wpolsceplhd.mpd
+#EXTINF:-1 tvg-id="wPolsce 24 4K" tvg-logo="" group-title="TELEWIZJA IPTV",wPolsce 24 4K
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105464
+#EXTINF:-1 tvg-id="TVP Info HD" tvg-logo="" group-title="TELEWIZJA IPTV",TVP Info HD
+https://dash2.antik.sk/live/test_tvp_info/playlist.m3u8
+#EXTINF:-1 tvg-id="Espreso TV" tvg-logo="" group-title="TELEWIZJA IPTV",Espreso TV
+https://liveovh009.cda.pl/2mwlMj_cpciQwY9XKkuwooIeujskIie828C5uElA/1760154894/24372638/enc024/espresotvraw/espresotvraw.mpd
+#EXTINF:-1 tvg-id="Freedom" tvg-logo="" group-title="TELEWIZJA IPTV",Freedom
+https://dash2.antik.sk/live/test_uatv/playlist.m3u8
 #EXTINF:-1 tvg-id="Metro" tvg-logo="https://r-scale-7a.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/2930752/images/49768977?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="TELEWIZJA IPTV",Metro
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -46,17 +66,9 @@ https://r.dcs.redcdn.pl/livedash/o2/tvnplayer/live/ttv/live.isml/playlist.mpd?in
 #KODIPROP:inputstream.adaptive.license_key=b2c3241ab01527e0e3dbdc326e5ddf13:5bc6abe48eebc322cbb81e7563081fb1
 https://r.dcs.redcdn.pl/livedash/o2/tvnplayer/live/metro/wp_dai.mpd
 #EXTINF:-1 tvg-id="Zoom TV HD" tvg-logo="https://gonet.tv/api/loga/v2/zoomtv.png?v=2" group-title="TELEWIZJA IPTV",Zoom TV HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=e98fdeae8c1effb70817f9e2170a85a6:3c8db6b59592ee4843119e864b8f33f7
-https://r.dcs.redcdn.pl/livedash/o2/wpp/live/zoom_tv_hd/live.livx
+https://liveovh011.cda.pl/2SHZi_SkX4h0MDflza1PPw/1753748478/3480440/enc005/zoomtvhd/zoomtvhd.mpd
 #EXTINF:-1 tvg-id="Stopklatka HD" tvg-logo="https://gonet.tv/api/loga/v2/stopklatkatv.png?v=2" group-title="TELEWIZJA IPTV",Stopklatka HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=7da209381930a4b7f0df507986442402:6c8c4a218bd26d412a6448157d2d454a
-https://r.dcs.redcdn.pl/livedash/o2/wpp/live/stopklatka_hd/live.livx
+https://liveovh011.cda.pl/2SHZi_SkX4h0MDflza1PPw/1753748478/3480440/enc102/stopklatkatvhdraw/stopklatkatvhdraw.mpd
 #EXTINF:-1 tvg-id="Eleven Sports 1 HD" tvg-logo="https://static-stb.cdn-canalplus.pl/supercdn/logos/logotype_266427.png" group-title="TELEWIZJA IPTV",Eleven Sports 1 HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -70,13 +82,19 @@ https://cdn-s-lb2.pluscdn.pl/ch/1457744/147/dash/4867711b/live.mpd
 #KODIPROP:inputstream.adaptive.license_key=2cd12eaca5c14b30a3280b1a89484809:e2c14f6cc245c1a5ebbce8c8c704fc6c
 https://cdn-s-lb2.pluscdn.pl/ch/1457734/144/dash/0be7047a/live.mpd
 #EXTINF:-1 tvg-id="Eleven Sports 3 HD" tvg-logo="https://static-stb.cdn-canalplus.pl/supercdn/logos/logotype_266431.png" group-title="TELEWIZJA IPTV",Eleven Sports 3 HD
-http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105527
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=04d4986779f83c4ea66e8b40ba5fdbe2:dfb468393cf05ed5dbc73610038f1ca5
+https://r.e.blueonline.tv/l/tvsmart/live/eds/Eleven_Sports_3/D11/Manifest.mpd
 #EXTINF:-1 tvg-id="Eleven Sports 4 HD" tvg-logo="https://static-stb.cdn-canalplus.pl/supercdn/logos/logotype_266433.png" group-title="TELEWIZJA IPTV",Eleven Sports 4 HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=5288e6308fb45f5b89f3ece30b12b1b3:106c98f71aa6a18fbd32da9d58859413
-https://r.dcs.redcdn.pl/livedash/o2/tvnplayerncp/live/eleven_sports_4_hd/live.isml/playlist.mpd?indexMode=&dummyfile=&server_side_events=0
+#KODIPROP:inputstream.adaptive.license_key=1adfd751aa863aea90cbcfe9676d1b99:00d7057f080e261e1b303075d9a3e52d
+https://r.e.blueonline.tv/l/tvsmart/live/eds/Eleven_Sports_4/D11/Manifest.mpd
+#EXTINF:-1 tvg-id="TVP Sport HD" tvg-logo="" group-title="TELEWIZJA IPTV",TVP Sport HD
+https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd
 #EXTINF:-1 tvg-id="TVN Turbo HD" tvg-logo="https://n-16-8.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/57626/images/49769141?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="TELEWIZJA IPTV",TVN Turbo HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
