@@ -1,35 +1,83 @@
 #EXTM3U url-tvg="https://epg.ovh/pltv.xml"
-#EXTINF:-1 tvg-id="Polsat_HD.pl" tvg-logo="https://i.imgur.com/xff6zGN.png" group-title="Ogólny",Polsat HD
-https://cdn-s-lb2.pluscdn.pl/ch/1502600/308/dash/20a18c30/live.mpd
-#EXTINF:-1 tvg-id="TVN_HD.pl" tvg-logo="https://i.imgur.com/XF9Yh0C.png" group-title="Ogólny",TVN HD
+#EXTINF:-1 tvg-id="TVN HD" tvg-logo="https://r-scale-4a.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/1908473/images/55267668?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="Popularne",TVN HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=88a5e370996b3de3a3361995382d4467:dc29d760cbaf2e17aa8cebd9d39fc5e5
 https://r.dcs.redcdn.pl/livedash/o2/tvnplayer/live/tvn/live.isml/playlist.mpd?indexMode=&dummyfile=&server_side_events=0&dvr=7200000
-#EXTINF:-1 tvg-id="TV_PULS_FHD.pl" tvg-logo="https://i.imgur.com/gXA7pai.png" group-title="Ogólny",TV PULS FHD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=65346136356161323237353738393133:34386266366363383037323536373666
-https://liveovh011.cda.pl/2SHZi_SkX4h0MDflza1PPw/1753748478/3480440/enc030/tvpuls/tvpuls.mpd
-#EXTINF:-1 tvg-id="PULS_FHD_4K.pl" tvg-logo="https://i.imgur.com/gXA7pai.png" group-title="Ogólny",PULS FHD 4K
-http://protzpwcf1.top:8080/pro2391767719725/26fc9bf426c3/822
-#EXTINF:-1 tvg-id="TVP1_HD.pl" tvg-logo="https://i.imgur.com/ewpSjBs.png" group-title="Ogólny",TVP1 HD
-https://cdndai.pl/tvp1hd/manifest.mpd
-#EXTINF:-1 tvg-id="TVP2_HD.pl" tvg-logo="https://i.imgur.com/XxCc32B.png" group-title="Ogólny",TVP2 HD
-https://cdndai.pl/tvp2hd/manifest.mpd
-#EXTINF:-1 tvg-id="Zoom_TV.pl" tvg-logo="https://i.imgur.com/UtZM4zm.png" group-title="Ogólny",Zoom TV
-https://liveovh011.cda.pl/2SHZi_SkX4h0MDflza1PPw/1753748478/3480440/enc005/zoomtvhdraw/zoomtvhdraw.mpd
-#EXTINF:-1 tvg-id="TVN_7_HD.pl" tvg-logo="https://i.imgur.com/xfb9r2N.png" group-title="Ogólny",TVN 7 HD
+#EXTINF:-1 tvg-id="TVN 7 HD" tvg-logo="https://r-scale-1f.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/1908474/images/50622682?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="Popularne",TVN 7 HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7c34304083fabe177078a4f8acdd19e8:0be71f99b079bf58a69356b53fcc5be8
 https://r.dcs.redcdn.pl/livedash/o2/tvnplayer/live/tvn_7/live.isml/playlist.mpd?indexMode=&dummyfile=&server_side_events=0&dvr=7200000
-#EXTINF:-1 tvg-id="TVN24_HD.pl" tvg-logo="https://i.imgur.com/NA5C8Fl.png" group-title="Informacyjny",TVN24 HD
+#EXTINF:-1 tvg-id="TVN24 HD" tvg-logo="https://r-scale-d2.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/57630/images/49770089?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="Popularne",TVN24 HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=cfeda6b8ee85c549e55b9f56e02ff375:c578b1c9c00b917fc84eae4d65bc73ad
 https://r.dcs.redcdn.pl/livedash/o2/tvnplayer/live/tvn_24/live.isml/playlist.mpd?indexMode=&dummyfile=&server_side_events=0&dvr=7200000
+#EXTINF:-1 tvg-id="TVP1 HD" tvg-logo="https://r-scale-6e.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/9866669/images/55947096.png?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="Popularne",TVP1 HD
+https://liveovh011.cda.pl/2SHZi_SkX4h0MDflza1PPw/1753748478/3480440/enc115/tvp2hdraw/tvpqhdraw.mpd
+#EXTINF:-1 tvg-id="TVP2 HD" tvg-logo="https://r-scale-a7.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/9866671/images/55947104.png?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="Popularne",TVP2 HD
+https://liveovh011.cda.pl/2SHZi_SkX4h0MDflza1PPw/1753748478/3480440/enc115/tvp2hdraw/tvp2hdraw.mpd
+#EXTINF:-1 tvg-id="Polsat" tvg-logo="https://r-scale-14.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/11046756/images/1742552757302/11046756.png?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="Popularne",Polsat
+https://cdn-s-lb2.pluscdn.pl/ch/1502600/308/dash/20a18c30/live.mpd
+#EXTINF:-1 tvg-id="TV 4" tvg-logo="https://r-scale-f9.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/11046757/images/1742552790198/11046757.png?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="Popularne",TV 4
+https://cdn-s-lb2.pluscdn.pl/ch/1502601/309/dash/e25c2c93/live.mpd
+#EXTINF:-1 tvg-id="TV Puls" tvg-logo="https://r-scale-0e.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/9353728/images/55544962?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="Popularne",TV Puls
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=65346136356161323237353738393133:34386266366363383037323536373666
+https://liveovh011.cda.pl/2SHZi_SkX4h0MDflza1PPw/1753748478/3480440/enc030/tvpuls/tvpuls.mpd
+#EXTINF:-1 tvg-id="PULS FHD 4K" tvg-logo="https://r-scale-0e.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/9353728/images/55544962?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="Popularne",PULS FHD 4K
+http://protzpwcf1.top:8080/pro2391767719725/26fc9bf426c3/822
+#EXTINF:-1 tvg-id="TTV HD" tvg-logo="https://r-scale-79.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/1908475/images/49770120?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="Ogólny",TTV HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6d74e7e5d705252f2d9c454f9945dc69:32468b529c8cd2481adeea50dcd94480
+https://r.dcs.redcdn.pl/livedash/o2/tvnplayer/live/ttv/live.isml/playlist.mpd?indexMode=&dummyfile=&server_side_events=0&dvr=7200000
+#EXTINF:-1 tvg-id="Metro" tvg-logo="https://r-scale-7a.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/2930752/images/49768977?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="Ogólny",Metro
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b2c3241ab01527e0e3dbdc326e5ddf13:5bc6abe48eebc322cbb81e7563081fb1
+https://r.dcs.redcdn.pl/livedash/o2/tvnplayer/live/metro/wp_dai.mpd
+#EXTINF:-1 tvg-id="Eleven Sports 1 HD" tvg-logo="https://static-stb.cdn-canalplus.pl/supercdn/logos/logotype_266427.png" group-title="Sport",Eleven Sports 1 HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=525a9da2120045a6973709dbcd685609:d8a7578d81ce754755a503ad8ac98ec0
+https://cdn-s-lb2.pluscdn.pl/ch/1457744/147/dash/4867711b/live.mpd
+#EXTINF:-1 tvg-id="Eleven Sports 2 HD" tvg-logo="https://static-stb.cdn-canalplus.pl/supercdn/logos/logotype_266429.png" group-title="Sport",Eleven Sports 2 HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2cd12eaca5c14b30a3280b1a89484809:e2c14f6cc245c1a5ebbce8c8c704fc6c
+https://cdn-s-lb2.pluscdn.pl/ch/1457734/144/dash/0be7047a/live.mpd
+#EXTINF:-1 tvg-id="Eleven Sports 3 HD" tvg-logo="https://static-stb.cdn-canalplus.pl/supercdn/logos/logotype_266431.png" group-title="Sport",Eleven Sports 3 HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=65c9e7e73a314bacb570514a605ea306:91c84c5a2af36c16e20397da599a6e94
+https://r.dcs.redcdn.pl/livedash/o2/tvnplayerncp/live/11_extra/live.isml/playlist.mpd?indexMode=&dummyfile=&server_side_events=0&dvr=7200000
+#EXTINF:-1 tvg-id="Eleven Sports 4 HD" tvg-logo="https://static-stb.cdn-canalplus.pl/supercdn/logos/logotype_266433.png" group-title="Sport",Eleven Sports 4 HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5288e6308fb45f5b89f3ece30b12b1b3:106c98f71aa6a18fbd32da9d58859413
+https://r.dcs.redcdn.pl/livedash/o2/tvnplayerncp/live/eleven_sports_4_hd/live.isml/playlist.mpd?indexMode=&dummyfile=&server_side_events=0
+#EXTINF:-1 tvg-id="TVN Turbo HD" tvg-logo="" group-title="Tematyczne",TVN Turbo HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=83a989b8e19387dd62ecf9f89114283e:ab8476cf101ab7e71df8d6404a278f82
+https://r.dcs.redcdn.pl/livedash/o2/tvnplayer/live/tvn_turbo/wp_dai.mpd
+#EXTINF:-1 tvg-id="TVN Style HD" tvg-logo="" group-title="Tematyczne",TVN Style HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6b04444f6093cc7d12ab9e671e1ddf23:254fde48bd708bee1a08fd4f5038c1c2
+https://r.dcs.redcdn.pl/livedash/o2/tvnplayer/live/tvn_style/wp_dai.mpd
