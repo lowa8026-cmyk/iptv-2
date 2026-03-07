@@ -1,5 +1,9 @@
 #EXTM3U
-#EXTINF:0, Eleven Sports 3
-http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105527
-#EXTINF:0, Eleven Sports 4
-http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105528
+#EXTINF:0, TVP Info
+http://78.130.250.2:8023/play/a03a
+#EXTINF:0, TVP Info HD
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:mimetype=video/mp2t
+http://78.130.250.2:8023/play/a03a
