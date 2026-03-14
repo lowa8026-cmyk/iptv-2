@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://epg.ovh/pltv.xml"
 #EXTINF:-1 tvg-id="TVP1 HD" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/tvp-1.png" group-title="TELEWIZJA IPTV",TVP1 HD
-https://liveovh011.cda.pl/2SHZi_SkX4h0MDflza1PPw/1753748478/3480440/enc115/tvp1hdraw/tvp1hdraw.mpd
+https://cdndai.pl/tvp1hd/manifest.mpd?vendorid=WBD&deviceid=3ba7985f1b7f4c859bfd039a2f2a96a9&userid=3ba7985f1b7f4c859bfd039a2f2a96a9
 #EXTINF:-1 tvg-id="TVP2 HD" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/tvp-2.png" group-title="TELEWIZJA IPTV",TVP2 HD
 https://liveovh011.cda.pl/2SHZi_SkX4h0MDflza1PPw/1753748478/3480440/enc115/tvp2hdraw/tvp2hdraw.mpd
 #EXTINF:-1 tvg-id="Polsat" tvg-logo="https://r-scale-14.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/11046756/images/1742552757302/11046756.png?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="TELEWIZJA IPTV",Polsat
