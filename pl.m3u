@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://epg.ovh/pltv.xml"
+#EXTM3U
 #EXTINF:-1 tvg-id="TVP1 HD" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/tvp-1.png" group-title="TELEWIZJA IPTV",TVP1 HD
 https://cdndai.pl/tvp1hd/manifest.mpd?vendorid=WBD&deviceid=3ba7985f1b7f4c859bfd039a2f2a96a9&userid=3ba7985f1b7f4c859bfd039a2f2a96a9
 #EXTINF:-1 tvg-id="TVP2 HD" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/tvp-2.png" group-title="TELEWIZJA IPTV",TVP2 HD
