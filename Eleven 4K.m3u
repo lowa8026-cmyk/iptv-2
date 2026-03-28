@@ -1,3 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Eleven Sports 3 HD" tvg-logo="https://static-stb.cdn-canalplus.pl/supercdn/logos/logotype_266431.png" group-title="TELEWIZJA IPTV",Eleven Sports 3 HD
-https://satoshi-cors.herokuapp.com/http://egaletv.cc:80/play/live.php?mac=00:1A:79:37:47:85&stream=264894&extension=m3u8&play_token=dN3B2gkUcD
+#EXTINF:-1 tvg-id="Eleven Sports 1 4K" tvg-logo="https://static-stb.cdn-canalplus.pl/supercdn/logos/logotype_266431.png" group-title="TELEWIZJA IPTV",Eleven Sports 1 4K
+#KODIPROP:inputstream.adaptive.manifest_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|338c95f7a6ca4bf1a5fda30c221eaf09:c815180cb6c1e38e950f84fba41081f7
+https://hls.redefine.pl/B3B002A2/29263/0/dash_4k/live.mpd
