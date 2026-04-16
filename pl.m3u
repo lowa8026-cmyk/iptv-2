@@ -91,7 +91,7 @@ https://satoshi-cors.herokuapp.com/http://egaletv.cc:80/play/live.php?mac=00:1A:
 #KODIPROP:inputstream.adaptive.license_key=1adfd751aa863aea90cbcfe9676d1b99:00d7057f080e261e1b303075d9a3e52d
 https://r.e.blueonline.tv/l/tvsmart/live/eds/Eleven_Sports_4/D11/Manifest.mpd
 #EXTINF:-1 tvg-id="TVP Sport HD" tvg-logo="https://epg.ovh/logo/TVP+Sport.png" group-title="TELEWIZJA IPTV",TVP Sport HD
-https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd
+https://lowa8026-cmyk.github.io/PolsatRodzina.m3u8
 #EXTINF:-1 tvg-id="TVN Turbo HD" tvg-logo="https://n-16-8.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/57626/images/49769141?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="TELEWIZJA IPTV",TVN Turbo HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
