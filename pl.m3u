@@ -1,4 +1,4 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Pershyi.ua",Pershyi (1080p) [Geo-blocked]
 #EXTVLCOPT:http-user-agent=curl/8.16.0
-https://ext.cdn.nashnet.tv/228.0.0.41/index.m3u8
+https://raw.githubusercontent.com/lowa8026-cmyk/lowa8026-cmyk.github.io/refs/heads/main/Ukraine/FirstBussines.m3u8
