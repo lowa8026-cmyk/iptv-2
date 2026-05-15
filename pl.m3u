@@ -1,3 +1,38 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Pershyi.ua",Pershyi (1080p) [Geo-blocked]
-https://cors-proxy.cooks.fyi/http://91.146.94.234:10001/play/a02w
+#EXTINF:0, TVP 1
+rtmp://94.23.39.164/tvon/hd989wizja1
+#EXTINF:0, TVP 2
+rtmp://37.130.228.28/stream/aletv2?id=78480
+#EXTINF:0, TVN
+rtmp://198.105.217.36/stream/aletv1?id=78477
+#EXTINF:0, Polsat
+rtmp://198.105.220.36/stream/aletv3?id=78481
+#EXTINF:0, TV Puls
+rtsp://publish.001.wlacz.tv:1935/live/puls.stream
+#EXTINF:0, TVP Polonia
+rtsp://publish.001.wlacz.tv:1935/live/tvppolonia.stream
+#EXTINF:0, Polsat LQ1
+rtmp://93.174.93.65/live/PolsatTelewizyjkapl
+#EXTINF:0, TVN24
+rtmp://199.9.254.83/app/jtv_64yOdhtZd3gDw4ia
+#EXTINF:0, TV4 SD
+rtsp://publish.001.wlacz.tv:1935/live/tv4.stream
+#EXTINF:0, 4fun TV SD
+rtmp://94.23.39.164/satlive/funtv
+#EXTINF:0, Eska TV
+rtmp://46.105.112.212:1935/live
+#EXTINF:0, Polo TV
+rtmp://stream1.polotv.com.pl/polotv/stream1
+#EXTINF:0, EduSat
+rtmp://178.73.10.66:1935/live/mpegts.stream
+#EXTINF:0, dla ciebie.TV
+rtsp://mediaserver02.artcom.pl/live/DlaCiebieTv800.stream
+#EXTINF:0, 3Sat SD
+rtsp://a62.l12560554061.c125605.g.lm.akamaistream.net/D/62/125605/v0001/reflector:54061
+#EXTINF:0, CT24 SD
+rtmp://wcdn40.nacevi.cz:80/CT24?id=HRscyPhgdFWqra6&publisher=lss/CT24-MP4_576p.stream
+#EXTINF:0, TVN Turbo SD
+rtmp://94.23.39.164/satlive/tvntu
+#EXTINF:0,
+#EXTINF:0,
+#EXTINF:0,
